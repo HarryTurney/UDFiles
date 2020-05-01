@@ -2,17 +2,7 @@
 	"sign": {
 		"dummy_card_id": 1000780,
 		"friend_character": {},
-		"missions": [
-			{
-				"accepted_reward_at": null,
-				"area_id": null,
-				"completed_at": 1588281391,
-				"current_value": 25,
-				"id": 894789162,
-				"mission_category_id": 1000,
-				"mission_id": 13387
-			}
-		],
+		"missions": [],
 		"sugoroku": {
 			"dice": {
 				"nums": [
@@ -133,8 +123,8 @@
 									"card_id": 9009211,
 									"defence": 6300,
 									"enemy_skill_ids": [
-										6900,
-										6930
+										6900, //Damage Reduction - 47%//
+										6930  //Increases damage done to enemies//
 									],
 									"exp": 20000,
 									"extra_hp_gauges_count": 5,
@@ -155,9 +145,9 @@
 									"card_id": 9004701,
 									"defence": 8300,
 									"enemy_skill_ids": [
-										6900,
-										6930,
-										6940
+										6900, //Damage Reduction - 47%//
+										6930, //Increases damage done to enemies//
+										6940  //Negate the effect that blocks Special Moves//
 									],
 									"exp": 20000,
 									"extra_hp_gauges_count": 6,
@@ -178,10 +168,10 @@
 									"card_id": 9017491,
 									"defence": 10300,
 									"enemy_skill_ids": [
-										6910,
-										6930,
-										6940,
-										6950
+										6910, //Damage Reduction - 53%//
+										6930, //Increases damage done to enemies//
+										6940, //Negate the effect that blocks Special Moves//
+										6950  //HP recovers//
 									],
 									"exp": 20000,
 									"extra_hp_gauges_count": 7,
@@ -209,11 +199,11 @@
 										"type": "AwakeningItem"
 									},
 									"enemy_skill_ids": [
-										6920,
-										6930,
-										6940,
-										6950,
-										6960
+										6920, //Damage Reduction - 61%//
+										6930, //Increases damage done to enemies//
+										6940, //Negate the effect that blocks Special Moves//
+										6950, //HP recovers//
+										6960  //ATK and DEF down//
 									],
 									"exp": 60000,
 									"extra_hp_gauges_count": 9,

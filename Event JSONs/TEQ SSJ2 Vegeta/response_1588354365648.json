@@ -117,8 +117,8 @@
 									"card_id": 1002461,
 									"defence": 6200,
 									"enemy_skill_ids": [
-										8600,
-										8640
+										8600, //Damage Reduction - 49%//
+										8640  //Increases damage done to enemies//
 									],
 									"exp": 20000,
 									"extra_hp_gauges_count": 5,
@@ -139,9 +139,9 @@
 									"card_id": 9018771,
 									"defence": 8800,
 									"enemy_skill_ids": [
-										8610,
-										8640,
-										8650
+										8610, //Damage Reduction - 55%//
+										8640, //Increases damage done to enemies//
+										8650  //Cannot be stunned//
 									],
 									"exp": 20000,
 									"extra_hp_gauges_count": 6,
@@ -162,10 +162,10 @@
 									"card_id": 1009891,
 									"defence": 10800,
 									"enemy_skill_ids": [
-										8620,
-										8640,
-										8650,
-										8660
+										8620, //Damage Reduction - 59%//
+										8640, //Increases damage done to enemies//
+										8650, //Cannot be stunned//
+										8660  //Disable ATK down//
 									],
 									"exp": 20000,
 									"extra_hp_gauges_count": 8,
@@ -193,11 +193,11 @@
 										"type": "AwakeningItem"
 									},
 									"enemy_skill_ids": [
-										8630,
-										8640,
-										8650,
-										8660,
-										8670
+										8630, //Damage Reduction - 62%//
+										8640, //Increases damage done to enemies//
+										8650, //Cannot be stunned//
+										8660, //Disable ATK down//
+										8670  //ATK and DEF down//
 									],
 									"exp": 60000,
 									"extra_hp_gauges_count": 9,

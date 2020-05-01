@@ -138,7 +138,7 @@
 									"card_id": 1009961,
 									"defence": 4580,
 									"enemy_skill_ids": [
-										3100
+										3100 //Damage Reduction - 47%//
 									],
 									"exp": 20000,
 									"extra_hp_gauges_count": 4,
@@ -159,7 +159,7 @@
 									"card_id": 1010181,
 									"defence": 7580,
 									"enemy_skill_ids": [
-										3100
+										3100 //Damage Reduction - 47%//
 									],
 									"exp": 20000,
 									"extra_hp_gauges_count": 5,
@@ -180,9 +180,9 @@
 									"card_id": 1008591,
 									"defence": 9000,
 									"enemy_skill_ids": [
-										3110,
-										3120,
-										3130
+										3110, //Damage Reduction - 60%//
+										3120, //Randomly change all ki balls//
+										3130  //ATK down//
 									],
 									"exp": 20000,
 									"extra_hp_gauges_count": 6,
@@ -210,9 +210,9 @@
 										"type": "AwakeningItem"
 									},
 									"enemy_skill_ids": [
-										3110,
-										3120,
-										3140
+										3110, //Damage Reduction - 60%//
+										3120, //Randomly change all ki balls//
+										3140  //ATK down//
 									],
 									"exp": 60000,
 									"extra_hp_gauges_count": 8,

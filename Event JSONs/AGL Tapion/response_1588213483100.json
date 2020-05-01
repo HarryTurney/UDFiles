@@ -292,9 +292,9 @@
 										"type": "AwakeningItem"
 									},
 									"enemy_skill_ids": [
-										3600,
-										3660,
-										3690
+										3600, //Damage Reduction - 40%//
+										3660, //May avoid attacks - 40%//
+										3690  //Increases damage done to enemies//
 									],
 									"exp": 40000,
 									"extra_hp_gauges_count": 5,
@@ -315,9 +315,9 @@
 									"card_id": 9012411,
 									"defence": 9000,
 									"enemy_skill_ids": [
-										3610,
-										3670,
-										3690
+										3610, //Damage Reduction - 45%//
+										3670, //May avoid attacks - 50%//
+										3690  //Increases damage done to enemies//
 									],
 									"exp": 80000,
 									"extra_hp_gauges_count": 7,
@@ -338,9 +338,9 @@
 									"card_id": 9012421,
 									"defence": 12000,
 									"enemy_skill_ids": [
-										3620,
-										3680,
-										3690
+										3620, //Damage Reduction - 55%//
+										3680, //May avoid attacks - 80%//
+										3690  //Increases damage done to enemies//
 									],
 									"exp": 0,
 									"extra_hp_gauges_count": 9,
@@ -361,8 +361,8 @@
 									"card_id": 9012421,
 									"defence": 9500,
 									"enemy_skill_ids": [
-										3600,
-										3690
+										3600, //Damage Reduction - 40%//
+										3690  //Increases damage done to enemies//
 									],
 									"exp": 0,
 									"extra_hp_gauges_count": 9,

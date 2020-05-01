@@ -102,7 +102,7 @@
 									"card_id": 9014931,
 									"defence": 7000,
 									"enemy_skill_ids": [
-										7200
+										7200 //Damage Reduction - 48%//
 									],
 									"exp": 0,
 									"extra_hp_gauges_count": 5,
@@ -123,7 +123,7 @@
 									"card_id": 9014941,
 									"defence": 9000,
 									"enemy_skill_ids": [
-										7210,
+										7210, //Damage Reduction - 54%//
 										7230
 									],
 									"exp": 0,
@@ -143,7 +143,7 @@
 									"card_id": 9100661,
 									"defence": 5500,
 									"enemy_skill_ids": [
-										7200
+										7200 //Damage Reduction - 48%//
 									],
 									"exp": 0,
 									"extra_hp_gauges_count": 0,
@@ -162,7 +162,7 @@
 									"card_id": 9200661,
 									"defence": 5500,
 									"enemy_skill_ids": [
-										7200
+										7200 //Damage Reduction - 48%//
 									],
 									"exp": 0,
 									"extra_hp_gauges_count": 0,
@@ -181,7 +181,7 @@
 									"card_id": 9300661,
 									"defence": 5500,
 									"enemy_skill_ids": [
-										7200
+										7200 //Damage Reduction - 48%//
 									],
 									"exp": 0,
 									"extra_hp_gauges_count": 0,
@@ -200,7 +200,7 @@
 									"card_id": 9400661,
 									"defence": 5500,
 									"enemy_skill_ids": [
-										7200
+										7200 //Damage Reduction - 48%//
 									],
 									"exp": 0,
 									"extra_hp_gauges_count": 0,
@@ -221,9 +221,9 @@
 									"card_id": 9017901,
 									"defence": 11000,
 									"enemy_skill_ids": [
-										7210,
-										7230,
-										7240
+										7210, //Damage Reduction - 54%//
+										7230, //Cannot be stunned//
+										7240  //HP recovers//
 									],
 									"exp": 0,
 									"extra_hp_gauges_count": 8,
@@ -251,9 +251,9 @@
 										"type": "AwakeningItem"
 									},
 									"enemy_skill_ids": [
-										7220,
-										7230,
-										7240
+										7220, //Damage Reduction - 62%//
+										7230, //Cannot be stunned//
+										7240  //HP recovers//
 									],
 									"exp": 120000,
 									"extra_hp_gauges_count": 9,

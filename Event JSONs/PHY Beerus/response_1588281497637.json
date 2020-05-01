@@ -417,7 +417,7 @@
 									"card_id": 9012671,
 									"defence": 11700,
 									"enemy_skill_ids": [
-										9700,
+										9700, //Damage Reduction - 53%//
 										9770
 									],
 									"exp": 0,
@@ -437,9 +437,9 @@
 									"card_id": 1019351,
 									"defence": 77777,
 									"enemy_skill_ids": [
-										9700,
-										9750,
-										9760
+										9700, //Damage Reduction - 53%//
+										9750, //Evade the attack - 100%//
+										9760  //Seals on Super Attack//
 									],
 									"exp": 0,
 									"extra_hp_gauges_count": 0,
@@ -467,9 +467,9 @@
 										"type": "AwakeningItem"
 									},
 									"enemy_skill_ids": [
-										9710,
-										9770,
-										9780
+										9710, //Damage Reduction - 57%//
+										9770, //Increases damage done to enemies//
+										9780  //Cannot be stunned//
 									],
 									"exp": 120000,
 									"extra_hp_gauges_count": 7,
@@ -490,10 +490,10 @@
 									"card_id": 1013761,
 									"defence": 17000,
 									"enemy_skill_ids": [
-										9720,
-										9770,
-										9780,
-										9790
+										9720, //Damage Reduction - 62%//
+										9770, //Increases damage done to enemies//
+										9780, //Cannot be stunned//
+										9790  //Negate the effect that blocks Special Moves//
 									],
 									"exp": 0,
 									"extra_hp_gauges_count": 10,
@@ -514,11 +514,11 @@
 									"card_id": 9019341,
 									"defence": 20000,
 									"enemy_skill_ids": [
-										9730,
-										9770,
-										9780,
-										9790,
-										9800
+										9730, //Damage Reduction - 69%//
+										9770, //Increases damage done to enemies//
+										9780, //Cannot be stunned//
+										9790, //Negate the effect that blocks Special Moves//
+										9800  //ATK and DEF down//
 									],
 									"exp": 0,
 									"extra_hp_gauges_count": 10,
@@ -539,9 +539,9 @@
 									"card_id": 1013751,
 									"defence": 7000,
 									"enemy_skill_ids": [
-										9740,
-										9770,
-										9780
+										9740, //Damage Reduction - 50%//
+										9770, //Increases damage done to enemies//
+										9780  //Cannot be stunned//
 									],
 									"exp": 0,
 									"extra_hp_gauges_count": 10,

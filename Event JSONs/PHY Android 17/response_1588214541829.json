@@ -108,7 +108,7 @@
 									"card_id": 1013891,
 									"defence": 7000,
 									"enemy_skill_ids": [
-										4700
+										4700 //Damage Reduction - 45%//
 									],
 									"exp": 0,
 									"extra_hp_gauges_count": 5,
@@ -129,7 +129,7 @@
 									"card_id": 9011951,
 									"defence": 10700,
 									"enemy_skill_ids": [
-										4710
+										4710 //Damage Reduction - 47%//
 									],
 									"exp": 0,
 									"extra_hp_gauges_count": 6,
@@ -150,9 +150,9 @@
 									"card_id": 9013811,
 									"defence": 12700,
 									"enemy_skill_ids": [
-										4720,
-										4740,
-										4750
+										4720, //Damage Reduction - 57%//
+										4740, //Disables the damage of the bullet special move//
+										4750  //Cannot be stunned//
 									],
 									"exp": 60000,
 									"extra_hp_gauges_count": 7,
@@ -180,7 +180,7 @@
 										"type": "AwakeningItem"
 									},
 									"enemy_skill_ids": [
-										4730
+										4730 //Damage Reduction - 60%//
 									],
 									"exp": 60000,
 									"extra_hp_gauges_count": 8,

@@ -129,8 +129,8 @@
 									"card_id": 1015361,
 									"defence": 5600,
 									"enemy_skill_ids": [
-										5200,
-										5230
+										5200, //Damage Reduction - 52%//
+										5230  //Increases damage done to enemies//
 									],
 									"exp": 0,
 									"extra_hp_gauges_count": 5,
@@ -151,8 +151,8 @@
 									"card_id": 1009931,
 									"defence": 7630,
 									"enemy_skill_ids": [
-										5200,
-										5230
+										5200, //Damage Reduction - 52%//
+										5230  //Increases damage done to enemies//
 									],
 									"exp": 0,
 									"extra_hp_gauges_count": 6,
@@ -173,9 +173,9 @@
 									"card_id": 1014471,
 									"defence": 9900,
 									"enemy_skill_ids": [
-										5210,
-										5230,
-										5240
+										5210, //Damage Reduction - 58%//
+										5230, //Increases damage done to enemies//
+										5240  //HP recovers//
 									],
 									"exp": 0,
 									"extra_hp_gauges_count": 0,
@@ -194,9 +194,9 @@
 									"card_id": 1015721,
 									"defence": 9500,
 									"enemy_skill_ids": [
-										5210,
-										5230,
-										5240
+										5210, //Damage Reduction - 58%//
+										5230, //Increases damage done to enemies//
+										5240  //HP recovers//
 									],
 									"exp": 0,
 									"extra_hp_gauges_count": 0,
@@ -215,9 +215,9 @@
 									"card_id": 1015371,
 									"defence": 9500,
 									"enemy_skill_ids": [
-										5210,
-										5230,
-										5240
+										5210, //Damage Reduction - 58%//
+										5230, //Increases damage done to enemies//
+										5240  //HP recovers//
 									],
 									"exp": 0,
 									"extra_hp_gauges_count": 0,
@@ -236,9 +236,9 @@
 									"card_id": 1015451,
 									"defence": 9500,
 									"enemy_skill_ids": [
-										5210,
-										5230,
-										5240
+										5210, //Damage Reduction - 58%//
+										5230, //Increases damage done to enemies//
+										5240  //HP recovers//
 									],
 									"exp": 0,
 									"extra_hp_gauges_count": 0,
@@ -257,9 +257,9 @@
 									"card_id": 1004621,
 									"defence": 9500,
 									"enemy_skill_ids": [
-										5210,
-										5230,
-										5240
+										5210, //Damage Reduction - 58%//
+										5230, //Increases damage done to enemies//
+										5240  //HP recovers//
 									],
 									"exp": 0,
 									"extra_hp_gauges_count": 0,
@@ -287,9 +287,9 @@
 										"type": "AwakeningItem"
 									},
 									"enemy_skill_ids": [
-										5220,
-										5230,
-										5240
+										5220, //Damage Reduction - 63%//
+										5230, //Increases damage done to enemies//
+										5240  //HP recovers//
 									],
 									"exp": 120000,
 									"extra_hp_gauges_count": 9,

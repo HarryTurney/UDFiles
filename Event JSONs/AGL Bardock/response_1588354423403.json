@@ -117,8 +117,8 @@
 									"card_id": 9019131,
 									"defence": 6000,
 									"enemy_skill_ids": [
-										9600,
-										9630
+										9600, //Damage Reduction - 51%//
+										9630  //Increases damage done to enemies//
 									],
 									"exp": 20000,
 									"extra_hp_gauges_count": 5,
@@ -139,9 +139,9 @@
 									"card_id": 9019141,
 									"defence": 8000,
 									"enemy_skill_ids": [
-										9600,
-										9630,
-										9640
+										9600, //Damage Reduction - 51%//
+										9630, //Increases damage done to enemies//
+										9640  //Negate the effect that blocks Special Moves//
 									],
 									"exp": 20000,
 									"extra_hp_gauges_count": 6,
@@ -162,10 +162,10 @@
 									"card_id": 9113221,
 									"defence": 10000,
 									"enemy_skill_ids": [
-										9610,
-										9630,
-										9640,
-										9650
+										9610, //Damage Reduction - 56%//
+										9630, //Increases damage done to enemies//
+										9640, //Negate the effect that blocks Special Moves//
+										9650  //Disable ATK down//
 									],
 									"exp": 20000,
 									"extra_hp_gauges_count": 7,
@@ -193,10 +193,10 @@
 										"type": "AwakeningItem"
 									},
 									"enemy_skill_ids": [
-										9620,
-										9630,
-										9640,
-										9660
+										9620, //Damage Reduction - 61%//
+										9630, //Increases damage done to enemies//
+										9640, //Negate the effect that blocks Special Moves//
+										9660  //Disable ATK & DEF down//
 									],
 									"exp": 60000,
 									"extra_hp_gauges_count": 9,

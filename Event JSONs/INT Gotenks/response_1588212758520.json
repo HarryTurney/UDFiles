@@ -359,8 +359,8 @@
 									"card_id": 9011641,
 									"defence": 6000,
 									"enemy_skill_ids": [
-										10100,
-										10140
+										10100, //Damage Reduction - 49%//
+										10140  //Increases damage done to enemies//
 									],
 									"exp": 0,
 									"extra_hp_gauges_count": 5,
@@ -388,9 +388,9 @@
 										"type": "AwakeningItem"
 									},
 									"enemy_skill_ids": [
-										10110,
-										10140,
-										10150
+										10110, //Damage Reduction - 57%//
+										10140, //Increases damage done to enemies//
+										10150  //Negate the effect that blocks Special Moves//
 									],
 									"exp": 120000,
 									"extra_hp_gauges_count": 7,
@@ -411,11 +411,11 @@
 									"card_id": 9019651,
 									"defence": 30000,
 									"enemy_skill_ids": [
-										10120,
-										10140,
-										10150,
-										10160,
-										10170
+										10120, //Damage Reduction - 67%//
+										10140, //Increases damage done to enemies//
+										10150, //Negate the effect that blocks Special Moves//
+										10160, //Cannot be stunned//
+										10170  //Disable DEF down//
 									],
 									"exp": 0,
 									"extra_hp_gauges_count": 10,
@@ -436,10 +436,10 @@
 									"card_id": 9019641,
 									"defence": 15100,
 									"enemy_skill_ids": [
-										10130,
-										10140,
-										10150,
-										10160
+										10130, //Damage Reduction - 62%//
+										10140, //Increases damage done to enemies//
+										10150, //Negate the effect that blocks Special Moves//
+										10160  //Cannot be stunned//
 									],
 									"exp": 0,
 									"extra_hp_gauges_count": 10,
@@ -460,9 +460,9 @@
 									"card_id": 9019631,
 									"defence": 13000,
 									"enemy_skill_ids": [
-										10110,
-										10140,
-										10150
+										10110, //Damage Reduction - 57%//
+										10140, //Increases damage done to enemies//
+										10150  //Negate the effect that blocks Special Moves//
 									],
 									"exp": 0,
 									"extra_hp_gauges_count": 10,
