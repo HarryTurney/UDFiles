@@ -1,0 +1,354 @@
+{
+	"sign": {
+		"dummy_card_id": 1000780,
+		"friend_character": {},
+		"missions": [],
+		"sugoroku": {
+			"dice": {
+				"nums": [
+					{
+						"num": 1,
+						"weight": 22
+					},
+					{
+						"num": 2,
+						"weight": 22
+					},
+					{
+						"num": 3,
+						"weight": 22
+					},
+					{
+						"num": 4,
+						"weight": 18
+					},
+					{
+						"num": 5,
+						"weight": 10
+					},
+					{
+						"num": 6,
+						"weight": 8
+					}
+				]
+			},
+			"events": {
+				"0": {
+					"content": {
+						"script_id": 0
+					},
+					"type": 501
+				},
+				"11": {
+					"content": {
+						"content": {
+							"rarity": 0
+						},
+						"type": 102
+					},
+					"type": 403
+				},
+				"12": {
+					"content": {
+						"content": {
+							"rarity": 1
+						},
+						"type": 102
+					},
+					"type": 403
+				},
+				"13": {
+					"content": {
+						"damage": 8
+					},
+					"type": 203
+				},
+				"14": {
+					"content": {
+						"content": {
+							"gauge": 3
+						},
+						"type": 107
+					},
+					"type": 403
+				},
+				"15": {
+					"content": {
+						"damage": 15
+					},
+					"type": 203
+				},
+				"18": {
+					"content": {
+						"gauge": 1
+					},
+					"type": 107
+				},
+				"19": {
+					"content": {
+						"after_script_id": 0,
+						"battle_info": [
+							{
+								"after_script_id": 2534012,
+								"background_id": 105,
+								"before_script_id": null,
+								"bgm_id": 31,
+								"charge_limit": 0,
+								"charge_limit_script_id": null,
+								"round_id": 53401431
+							},
+							{
+								"after_script_id": 2534013,
+								"background_id": 105,
+								"before_script_id": null,
+								"bgm_id": 32,
+								"charge_limit": 0,
+								"charge_limit_script_id": null,
+								"round_id": 53401432
+							},
+							{
+								"after_script_id": 2534014,
+								"background_id": 105,
+								"before_script_id": null,
+								"bgm_id": 27,
+								"charge_limit": 0,
+								"charge_limit_script_id": null,
+								"round_id": 53401433
+							},
+							{
+								"after_script_id": 2534015,
+								"background_id": 105,
+								"before_script_id": null,
+								"bgm_id": 30,
+								"charge_limit": 0,
+								"charge_limit_script_id": null,
+								"round_id": 53401434
+							},
+							{
+								"after_script_id": null,
+								"background_id": 105,
+								"before_script_id": null,
+								"bgm_id": 38,
+								"charge_limit": 9,
+								"charge_limit_script_id": 2534016,
+								"round_id": 53401435
+							}
+						],
+						"battle_round_condition_sets": [],
+						"before_script_id": 2534011,
+						"enemies": [
+							[
+								{
+									"ai_type": "34 - 19% SA Chance | 1 SA Per Turn",
+									"attack": 40000,
+									"card_id": 9011351,
+									"defence": 3900,
+									"enemy_skill_ids": [
+										"3500-> Damage Reduction - 40%"
+									],
+									"exp": 10000,
+									"extra_hp_gauges_count": 3,
+									"finish_special_inform_hp": 0,
+									"first_turn": 0,
+									"hp": 1150000,
+									"is_finish_special_only": false,
+									"is_necessary_to_defeat": true,
+									"multi_atk_num": 3,
+									"turn": 0,
+									"zeni": 2500
+								}
+							],
+							[
+								{
+									"ai_type": "25 - 11% SA Chance | 1 SA Per Turn",
+									"attack": 41000,
+									"card_id": 1010311,
+									"defence": 4900,
+									"enemy_skill_ids": [
+										"3510,-> Damage Reduction - 45%"
+										"3540 -> Disable ATK & DEF down"
+									],
+									"exp": 10000,
+									"extra_hp_gauges_count": 4,
+									"finish_special_inform_hp": 0,
+									"first_turn": 0,
+									"hp": 1550000,
+									"is_finish_special_only": false,
+									"is_necessary_to_defeat": true,
+									"multi_atk_num": 4,
+									"turn": 0,
+									"zeni": 2500
+								}
+							],
+							[
+								{
+									"ai_type": "42 - x% SA Chance | 1 SA Per Turn",
+									"attack": 44000,
+									"card_id": 9010321,
+									"defence": 5900,
+									"enemy_skill_ids": [
+										"3520,-> Damage Reduction - 52%"
+										"3540 -> Disable ATK & DEF down"
+									],
+									"exp": 20000,
+									"extra_hp_gauges_count": 5,
+									"finish_special_inform_hp": 0,
+									"first_turn": 0,
+									"hp": 1950000,
+									"is_finish_special_only": false,
+									"is_necessary_to_defeat": true,
+									"multi_atk_num": 4,
+									"turn": 0,
+									"zeni": 2500
+								}
+							],
+							[
+								{
+									"ai_type": "56 - 16% SA Chance | 1 SA Per Turn",
+									"attack": 48300,
+									"card_id": 1011781,
+									"defence": 9500,
+									"enemy_skill_ids": [
+										"3530,-> Damage Reduction - 55%"
+										"3540 -> Disable ATK & DEF down"
+									],
+									"exp": 20000,
+									"extra_hp_gauges_count": 7,
+									"finish_special_inform_hp": 0,
+									"first_turn": 0,
+									"hp": 2750000,
+									"is_finish_special_only": false,
+									"is_necessary_to_defeat": true,
+									"multi_atk_num": 6,
+									"turn": 0,
+									"zeni": 2500
+								}
+							],
+							[
+								{
+									"additional_drops": [],
+									"ai_type": "56 - 16% SA Chance | 1 SA Per Turn",
+									"attack": 49300,
+									"card_id": 1008191,
+									"defence": 9900,
+									"drop": {
+										"item_id": 5341,
+										"quantity": 7,
+										"rarity": 3,
+										"type": "AwakeningItem"
+									},
+									"enemy_skill_ids": [
+										"3530,-> Damage Reduction - 55%"
+										"3540 -> Disable ATK & DEF down"
+									],
+									"exp": 60000,
+									"extra_hp_gauges_count": 8,
+									"finish_special_inform_hp": 0,
+									"first_turn": 0,
+									"hp": 3183000,
+									"is_finish_special_only": false,
+									"is_necessary_to_defeat": true,
+									"multi_atk_num": 6,
+									"turn": 0,
+									"zeni": 20000
+								}
+							]
+						]
+					},
+					"type": 301
+				},
+				"20": {
+					"content": {
+						"script_id": 0
+					},
+					"type": 502
+				},
+				"22": {
+					"content": {
+						"gauge": 2
+					},
+					"type": 107
+				},
+				"23": {
+					"content": {
+						"gauge": 2
+					},
+					"type": 107
+				},
+				"25": {
+					"content": {
+						"gauge": 1
+					},
+					"type": 107
+				},
+				"27": {
+					"content": {
+						"zeni": 5940
+					},
+					"type": 104
+				},
+				"28": {
+					"content": {
+						"gauge": 2
+					},
+					"type": 107
+				},
+				"29": {
+					"content": {
+						"gauge": 2
+					},
+					"type": 107
+				},
+				"30": {
+					"content": {
+						"damage": 8
+					},
+					"type": 203
+				},
+				"32": {
+					"content": {
+						"zeni": 5940
+					},
+					"type": 104
+				},
+				"34": {
+					"content": {
+						"gauge": 1
+					},
+					"type": 107
+				},
+				"4": {
+					"content": {
+						"content": {
+							"rarity": 0
+						},
+						"type": 102
+					},
+					"type": 403
+				},
+				"5": {
+					"content": {
+						"damage": 15
+					},
+					"type": 203
+				},
+				"7": {
+					"content": {
+						"rarity": 3
+					},
+					"type": 102
+				},
+				"8": {
+					"content": {
+						"damage": 8
+					},
+					"type": 203
+				}
+			},
+			"first_focus_step": 19,
+			"map": "534_001"
+		},
+		"token": "",
+		"user": {}
+	}
+}

@@ -115,12 +115,12 @@
 						"enemies": [
 							[
 								{
-									"ai_type": 42,
+									"ai_type": "42 - 30% SA Chance | 1 SA Per Turn",
 									"attack": 48000,
 									"card_id": 1007091,
 									"defence": 6600,
 									"enemy_skill_ids": [
-										5400 //Damage Reduction - 54%//
+										"5400-> Damage Reduction - 54%"
 									],
 									"exp": 20000,
 									"extra_hp_gauges_count": 5,
@@ -136,13 +136,13 @@
 							],
 							[
 								{
-									"ai_type": 45,
+									"ai_type": "45 - 15% SA Chance | 1 SA Per Turn",
 									"attack": 50600,
 									"card_id": 1014251,
 									"defence": 9000,
 									"enemy_skill_ids": [
-										5400, //Damage Reduction - 54%//
-										5430  //Cannot be stunned//
+										"5400,-> Damage Reduction - 54%"
+										"5430 -> Cannot be stunned"
 									],
 									"exp": 20000,
 									"extra_hp_gauges_count": 6,
@@ -158,14 +158,14 @@
 							],
 							[
 								{
-									"ai_type": 55,
+									"ai_type": "55 - 17% SA Chance | 1 SA Per Turn",
 									"attack": 53600,
 									"card_id": 1011011,
 									"defence": 11000,
 									"enemy_skill_ids": [
-										5410, //Damage Reduction - 60%//
-										5430, //Cannot be stunned//
-										5440  //Disable evasion and attack//
+										"5410,-> Damage Reduction - 60%"
+										"5430,-> Cannot be stunned"
+										"5440 -> Disable evasion and attack"
 									],
 									"exp": 20000,
 									"extra_hp_gauges_count": 7,
@@ -182,7 +182,7 @@
 							[
 								{
 									"additional_drops": [],
-									"ai_type": 59,
+									"ai_type": "59 - 17% SA Chance | 1 SA Per Turn",
 									"attack": 56480,
 									"card_id": 1015671,
 									"defence": 13000,
@@ -193,10 +193,10 @@
 										"type": "AwakeningItem"
 									},
 									"enemy_skill_ids": [
-										5420, //Damage Reduction - 66%//
-										5430, //Cannot be stunned//
-										5440, //Disable evasion and attack//
-										5450  //Lock character in place//
+										"5420,-> Damage Reduction - 66%"
+										"5430,-> Cannot be stunned"
+										"5440,-> Disable evasion and attack"
+										"5450 -> Lock character in place - 85% Chance"
 									],
 									"exp": 60000,
 									"extra_hp_gauges_count": 9,

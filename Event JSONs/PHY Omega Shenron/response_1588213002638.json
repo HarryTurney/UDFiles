@@ -218,13 +218,13 @@
 						"enemies": [
 							[
 								{
-									"ai_type": 34,
+									"ai_type": "34 - 19% SA Chance | 1 SA Per Turn",
 									"attack": 41001,
 									"card_id": 1006331,
 									"defence": 5001,
 									"enemy_skill_ids": [
-										2900, //Damage Reduction - 51%//
-										2930  //Increases damage done to enemies//
+										"2900,-> Damage Reduction - 51%"
+										"2930 -> Increases damage done to enemies - 120"
 									],
 									"exp": 20000,
 									"extra_hp_gauges_count": 4,
@@ -240,13 +240,13 @@
 							],
 							[
 								{
-									"ai_type": 40,
+									"ai_type": "40 - 20% SA Chance | 1 SA Per Turn",
 									"attack": 43001,
 									"card_id": 1011491,
 									"defence": 8001,
 									"enemy_skill_ids": [
-										2900, //Damage Reduction - 51%//
-										2930  //Increases damage done to enemies//
+										"2900,-> Damage Reduction - 51%"
+										"2930 -> Increases damage done to enemies - 120"
 									],
 									"exp": 20000,
 									"extra_hp_gauges_count": 5,
@@ -262,16 +262,16 @@
 							],
 							[
 								{
-									"ai_type": 44,
+									"ai_type": "44 - 14% SA Chance | 1 SA Per Turn",
 									"attack": 46001,
 									"card_id": 1006411,
 									"defence": 10001,
 									"enemy_skill_ids": [
-										2910, //Damage Reduction - 61%//
-										2930, //Increases damage done to enemies//
-										2940, //Lock character in place//
-										2950, //Cannot be stunned//
-										2960  //Negate the effect that blocks Special Moves//
+										"2910,-> Damage Reduction - 61%"
+										"2930,-> Increases damage done to enemies - 120"
+										"2940,-> Lock character in place - 100%"
+										"2950,-> Cannot be stunned"
+										"2960 -> Negate the effect that blocks Special Moves"
 									],
 									"exp": 20000,
 									"extra_hp_gauges_count": 6,
@@ -288,7 +288,7 @@
 							[
 								{
 									"additional_drops": [],
-									"ai_type": 60,
+									"ai_type": "60 - 18% SA Chance | 1 SA Per Turn",
 									"attack": 48101,
 									"card_id": 1011321,
 									"defence": 11001,
@@ -299,11 +299,11 @@
 										"type": "AwakeningItem"
 									},
 									"enemy_skill_ids": [
-										2920, //Damage Reduction - 71%//
-										2930, //Increases damage done to enemies//
-										2940, //Lock character in place//
-										2950, //Cannot be stunned//
-										2960  //Negate the effect that blocks Special Moves//
+										"2920,-> Damage Reduction - 71%"
+										"2930,-> Increases damage done to enemies - 120"
+										"2940,-> Lock character in place - 100%"
+										"2950,-> Cannot be stunned"
+										"2960 -> Negate the effect that blocks Special Moves"
 									],
 									"exp": 60000,
 									"extra_hp_gauges_count": 8,

@@ -109,13 +109,13 @@
 						"enemies": [
 							[
 								{
-									"ai_type": 45,
+									"ai_type": "45 - 15% SA Chance | 1 SA Per Turn",
 									"attack": 53000,
 									"card_id": 9018631,
 									"defence": 14000,
 									"enemy_skill_ids": [
-										9100, //Damage Reduction - 56%//
-										9130  //Increases damage done to enemies//
+										"9100,-> Damage Reduction - 56%"
+										"9130 -> Increases damage done to enemies - 270"
 									],
 									"exp": 20000,
 									"extra_hp_gauges_count": 6,
@@ -131,13 +131,13 @@
 							],
 							[
 								{
-									"ai_type": 56,
+									"ai_type": "56 - 16% SA Chance | 1 SA Per Turn",
 									"attack": 55500,
 									"card_id": 9018641,
 									"defence": 17000,
 									"enemy_skill_ids": [
-										9100, //Damage Reduction - 56%//
-										9130  //Increases damage done to enemies//
+										"9100,-> Damage Reduction - 56%"
+										"9130 -> Increases damage done to enemies - 270"
 									],
 									"exp": 20000,
 									"extra_hp_gauges_count": 7,
@@ -153,16 +153,16 @@
 							],
 							[
 								{
-									"ai_type": 63,
+									"ai_type": "63 - 17% SA Chance | 1 SA Per Turn",
 									"attack": 62000,
 									"card_id": 9112731,
 									"defence": 34000,
 									"enemy_skill_ids": [
-										9110, //Damage Reduction - 67%//
-										9130, //Increases damage done to enemies//
-										9140, //Cannot be stunned//
-										9150, //Negate the effect that blocks Special Moves//
-										9160  //Disable ATK & DEF down//
+										"9110,-> Damage Reduction - 67%"
+										"9130,-> Increases damage done to enemies - 270"
+										"9140,-> Cannot be stunned"
+										"9150,-> Negate the effect that blocks Special Moves"
+										"9160 -> Disable ATK & DEF down"
 									],
 									"exp": 20000,
 									"extra_hp_gauges_count": 9,
@@ -179,7 +179,7 @@
 							[
 								{
 									"additional_drops": [],
-									"ai_type": 76,
+									"ai_type": "76 - 14% SA Chance | 1 SA Per Turn",
 									"attack": 65000,
 									"card_id": 9017981,
 									"defence": 37000,
@@ -190,11 +190,11 @@
 										"type": "AwakeningItem"
 									},
 									"enemy_skill_ids": [
-										9120, //Damage Reduction - 71%//
-										9130, //Increases damage done to enemies//
-										9140, //Cannot be stunned//
-										9150, //Negate the effect that blocks Special Moves//
-										9160  //Disable ATK & DEF down//
+										"9120,-> Damage Reduction - 71%"
+										"9130,-> Increases damage done to enemies - 270"
+										"9140,-> Cannot be stunned"
+										"9150,-> Negate the effect that blocks Special Moves"
+										"9160 -> Disable ATK & DEF down"
 									],
 									"exp": 60000,
 									"extra_hp_gauges_count": 10,

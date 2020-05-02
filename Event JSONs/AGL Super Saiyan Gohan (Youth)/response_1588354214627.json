@@ -1,0 +1,379 @@
+{
+	"sign": {
+		"dummy_card_id": 1000780,
+		"friend_character": {
+			"awakenings": [],
+			"card_decoration_id": null,
+			"card_id": 1018651,
+			"created_at": 1588354211,
+			"equipment_skill_items": [
+				{
+					"equipment_skill_item_id": 25,
+					"grade": "bronze",
+					"slot": 0
+				}
+			],
+			"exp": 30000000,
+			"id": 0,
+			"is_favorite": true,
+			"is_released_potential": true,
+			"optimal_awakening_step": null,
+			"potential_parameters": [
+				{
+					"parameter_id": null,
+					"parameter_type": "Atk",
+					"total_value": 4100
+				},
+				{
+					"parameter_id": null,
+					"parameter_type": "Defense",
+					"total_value": 3700
+				},
+				{
+					"parameter_id": null,
+					"parameter_type": "Hp",
+					"total_value": 3300
+				},
+				{
+					"parameter_id": 4,
+					"parameter_type": "Skill",
+					"total_value": 7
+				},
+				{
+					"parameter_id": 6,
+					"parameter_type": "Skill",
+					"total_value": 7
+				},
+				{
+					"parameter_id": 7,
+					"parameter_type": "Skill",
+					"total_value": 7
+				},
+				{
+					"parameter_id": 5,
+					"parameter_type": "Skill",
+					"total_value": 6
+				},
+				{
+					"parameter_id": 2,
+					"parameter_type": "Skill",
+					"total_value": 14
+				},
+				{
+					"parameter_id": 1,
+					"parameter_type": "Skill",
+					"total_value": 3
+				}
+			],
+			"released_rate": 69.7605,
+			"skill_lv": 20,
+			"unlocked_square_statuses": [
+				2,
+				2,
+				2,
+				0
+			]
+		},
+		"missions": [
+			{
+				"accepted_reward_at": null,
+				"area_id": null,
+				"completed_at": 1588354211,
+				"current_value": 25,
+				"id": 894926395,
+				"mission_category_id": 1000,
+				"mission_id": 13387
+			}
+		],
+		"sugoroku": {
+			"dice": {
+				"nums": [
+					{
+						"num": 1,
+						"weight": 22
+					},
+					{
+						"num": 2,
+						"weight": 22
+					},
+					{
+						"num": 3,
+						"weight": 22
+					},
+					{
+						"num": 4,
+						"weight": 18
+					},
+					{
+						"num": 5,
+						"weight": 10
+					},
+					{
+						"num": 6,
+						"weight": 8
+					}
+				]
+			},
+			"events": {
+				"0": {
+					"content": {
+						"script_id": 0
+					},
+					"type": 501
+				},
+				"1": {
+					"content": {
+						"gauge": 1
+					},
+					"type": 107
+				},
+				"11": {
+					"content": {
+						"rarity": 3
+					},
+					"type": 103
+				},
+				"13": {
+					"content": {
+						"rarity": 2
+					},
+					"type": 102
+				},
+				"14": {
+					"content": {
+						"after_script_id": 0,
+						"battle_info": [
+							{
+								"after_script_id": 2555012,
+								"background_id": 145,
+								"before_script_id": null,
+								"bgm_id": 49,
+								"charge_limit": 0,
+								"charge_limit_script_id": null,
+								"round_id": 55501431
+							},
+							{
+								"after_script_id": 2555013,
+								"background_id": 145,
+								"before_script_id": null,
+								"bgm_id": 58,
+								"charge_limit": 0,
+								"charge_limit_script_id": null,
+								"round_id": 55501432
+							},
+							{
+								"after_script_id": 2555014,
+								"background_id": 145,
+								"before_script_id": null,
+								"bgm_id": 55,
+								"charge_limit": 0,
+								"charge_limit_script_id": null,
+								"round_id": 55501433
+							},
+							{
+								"after_script_id": null,
+								"background_id": 145,
+								"before_script_id": null,
+								"bgm_id": 91,
+								"charge_limit": 0,
+								"charge_limit_script_id": null,
+								"round_id": 55501434
+							}
+						],
+						"battle_round_condition_sets": [],
+						"before_script_id": 2555011,
+						"enemies": [
+							[
+								{
+									"ai_type": "34 - 19% SA Chance | 1 SA Per Turn",
+									"attack": 49580,
+									"card_id": 1010051,
+									"defence": 6580,
+									"enemy_skill_ids": [
+										"7100,-> Damage Reduction - 48%"
+										"7130 -> Increases damage done to enemies - 170"
+									],
+									"exp": 0,
+									"extra_hp_gauges_count": 5,
+									"finish_special_inform_hp": 0,
+									"first_turn": 0,
+									"hp": 1958000,
+									"is_finish_special_only": false,
+									"is_necessary_to_defeat": true,
+									"multi_atk_num": 3,
+									"turn": 0,
+									"zeni": 0
+								}
+							],
+							[
+								{
+									"ai_type": "40 - 20% SA Chance | 1 SA Per Turn",
+									"attack": 51580,
+									"card_id": 9001391,
+									"defence": 8580,
+									"enemy_skill_ids": [
+										"7100,-> Damage Reduction - 48%"
+										"7130,-> Increases damage done to enemies - 170"
+										"7140 -> Cannot be stunned"
+									],
+									"exp": 0,
+									"extra_hp_gauges_count": 6,
+									"finish_special_inform_hp": 0,
+									"first_turn": 0,
+									"hp": 2358000,
+									"is_finish_special_only": false,
+									"is_necessary_to_defeat": true,
+									"multi_atk_num": 4,
+									"turn": 0,
+									"zeni": 0
+								}
+							],
+							[
+								{
+									"ai_type": "56 - 16% SA Chance | 1 SA Per Turn",
+									"attack": 53580,
+									"card_id": 9017631,
+									"defence": 10580,
+									"enemy_skill_ids": [
+										"7110,-> Damage Reduction - 55%"
+										"7130,-> Increases damage done to enemies - 170"
+										"7140,-> Cannot be stunned"
+										"7150 -> Negate the effect that blocks Special Moves"
+									],
+									"exp": 0,
+									"extra_hp_gauges_count": 8,
+									"finish_special_inform_hp": 0,
+									"first_turn": 0,
+									"hp": 3158000,
+									"is_finish_special_only": false,
+									"is_necessary_to_defeat": true,
+									"multi_atk_num": 6,
+									"turn": 0,
+									"zeni": 0
+								}
+							],
+							[
+								{
+									"additional_drops": [],
+									"ai_type": "59 - 17% SA Chance | 1 SA Per Turn",
+									"attack": 56580,
+									"card_id": 9017641,
+									"defence": 15000,
+									"drop": {
+										"item_id": 5551,
+										"quantity": 7,
+										"rarity": 3,
+										"type": "AwakeningItem"
+									},
+									"enemy_skill_ids": [
+										"7120,-> Damage Reduction - 62%"
+										"7130,-> Increases damage done to enemies - 170"
+										"7140,-> Cannot be stunned"
+										"7150,-> Negate the effect that blocks Special Moves"
+										"7160 -> ATK and DEF down - 135, 500, 100"
+									],
+									"exp": 120000,
+									"extra_hp_gauges_count": 10,
+									"finish_special_inform_hp": 0,
+									"first_turn": 0,
+									"hp": 3758000,
+									"is_finish_special_only": false,
+									"is_necessary_to_defeat": true,
+									"multi_atk_num": 7,
+									"turn": 0,
+									"zeni": 30000
+								}
+							]
+						]
+					},
+					"type": 301
+				},
+				"15": {
+					"content": {
+						"script_id": 0
+					},
+					"type": 502
+				},
+				"16": {
+					"content": {
+						"gauge": 1
+					},
+					"type": 107
+				},
+				"17": {
+					"content": {
+						"gauge": 1
+					},
+					"type": 107
+				},
+				"18": {
+					"content": {
+						"content": {
+							"gauge": 3
+						},
+						"type": 107
+					},
+					"type": 403
+				},
+				"2": {
+					"content": {
+						"rarity": 1
+					},
+					"type": 101
+				},
+				"20": {
+					"content": {
+						"damage": 10
+					},
+					"type": 203
+				},
+				"22": {
+					"content": {
+						"damage": 10
+					},
+					"type": 203
+				},
+				"23": {
+					"content": {
+						"damage": 10
+					},
+					"type": 203
+				},
+				"4": {
+					"content": {
+						"damage": 10
+					},
+					"type": 203
+				},
+				"5": {
+					"content": {
+						"rarity": 0
+					},
+					"type": 103
+				},
+				"6": {
+					"content": {
+						"rarity": 3
+					},
+					"type": 103
+				},
+				"8": {
+					"content": {
+						"rarity": 0
+					},
+					"type": 102
+				},
+				"9": {
+					"content": {
+						"rarity": 2
+					},
+					"type": 101
+				}
+			},
+			"first_focus_step": 14,
+			"map": "555_001"
+		},
+		"token": "",
+		"user": {}
+	}
+}

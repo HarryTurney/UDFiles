@@ -103,12 +103,12 @@
 						"enemies": [
 							[
 								{
-									"ai_type": 34,
+									"ai_type": "34 - 19% SA Chance | 1 SA Per Turn",
 									"attack": 47500,
 									"card_id": 1011121,
 									"defence": 5500,
 									"enemy_skill_ids": [
-										5300 //Damage Reduction - 47%//
+										"5300-> Damage Reduction - 47%"
 									],
 									"exp": 20000,
 									"extra_hp_gauges_count": 5,
@@ -124,13 +124,13 @@
 							],
 							[
 								{
-									"ai_type": 69,
+									"ai_type": "69 - 13% SA Chance | 1 SA Per Turn",
 									"attack": 50500,
 									"card_id": 9014261,
 									"defence": 8000,
 									"enemy_skill_ids": [
-										5310, //Damage Reduction - 52%//
-										5330  //HP recovers//
+										"5310,-> Damage Reduction - 52%"
+										"5330 -> HP recovers"
 									],
 									"exp": 20000,
 									"extra_hp_gauges_count": 6,
@@ -146,14 +146,14 @@
 							],
 							[
 								{
-									"ai_type": 70,
+									"ai_type": "70 - 13% SA Chance | 1 SA Per Turn",
 									"attack": 53000,
 									"card_id": 9015471,
 									"defence": 10000,
 									"enemy_skill_ids": [
-										5310, //Damage Reduction - 52%//
-										5330, //HP recovers//
-										5340  //Cannot be stunned//
+										"5310,-> Damage Reduction - 52%"
+										"5330,-> HP recovers"
+										"5340 -> Cannot be stunned"
 									],
 									"exp": 20000,
 									"extra_hp_gauges_count": 7,
@@ -170,7 +170,7 @@
 							[
 								{
 									"additional_drops": [],
-									"ai_type": 71,
+									"ai_type": "71 - 13% SA Chance | 1 SA Per Turn",
 									"attack": 55630,
 									"card_id": 9015481,
 									"defence": 12630,
@@ -181,10 +181,10 @@
 										"type": "AwakeningItem"
 									},
 									"enemy_skill_ids": [
-										5320, //Damage Reduction - 59%//
-										5330, //HP recovers//
-										5340, //Cannot be stunned//
-										5350  //Negate the effect that blocks Special Moves//
+										"5320,-> Damage Reduction - 59%"
+										"5330,-> HP recovers"
+										"5340,-> Cannot be stunned"
+										"5350 -> Negate the effect that blocks Special Moves"
 									],
 									"exp": 60000,
 									"extra_hp_gauges_count": 9,

@@ -118,13 +118,13 @@
 						"enemies": [
 							[
 								{
-									"ai_type": 34,
+									"ai_type": "34 - 19% SA Chance | 1 SA Per Turn",
 									"attack": 47700,
 									"card_id": 9009211,
 									"defence": 6300,
 									"enemy_skill_ids": [
-										6900, //Damage Reduction - 47%//
-										6930  //Increases damage done to enemies//
+										"6900,-> Damage Reduction - 47%"
+										"6930 -> Increases damage done to enemies - 170"
 									],
 									"exp": 20000,
 									"extra_hp_gauges_count": 5,
@@ -140,14 +140,14 @@
 							],
 							[
 								{
-									"ai_type": 40,
+									"ai_type": "40 - 20% SA Chance | 1 SA Per Turn",
 									"attack": 50300,
 									"card_id": 9004701,
 									"defence": 8300,
 									"enemy_skill_ids": [
-										6900, //Damage Reduction - 47%//
-										6930, //Increases damage done to enemies//
-										6940  //Negate the effect that blocks Special Moves//
+										"6900,-> Damage Reduction - 47%"
+										"6930,-> Increases damage done to enemies - 170"
+										"6940 -> Negate the effect that blocks Special Moves"
 									],
 									"exp": 20000,
 									"extra_hp_gauges_count": 6,
@@ -163,15 +163,15 @@
 							],
 							[
 								{
-									"ai_type": 81,
+									"ai_type": "81 - 16% SA Chance | 1 SA Per Turn",
 									"attack": 53300,
 									"card_id": 9017491,
 									"defence": 10300,
 									"enemy_skill_ids": [
-										6910, //Damage Reduction - 53%//
-										6930, //Increases damage done to enemies//
-										6940, //Negate the effect that blocks Special Moves//
-										6950  //HP recovers//
+										"6910,-> Damage Reduction - 53%"
+										"6930,-> Increases damage done to enemies - 170"
+										"6940,-> Negate the effect that blocks Special Moves"
+										"6950 -> HP recovers"
 									],
 									"exp": 20000,
 									"extra_hp_gauges_count": 7,
@@ -188,7 +188,7 @@
 							[
 								{
 									"additional_drops": [],
-									"ai_type": 82,
+									"ai_type": "82 - 17% SA Chance | 1 SA Per Turn",
 									"attack": 55000,
 									"card_id": 9017501,
 									"defence": 12000,
@@ -199,11 +199,11 @@
 										"type": "AwakeningItem"
 									},
 									"enemy_skill_ids": [
-										6920, //Damage Reduction - 61%//
-										6930, //Increases damage done to enemies//
-										6940, //Negate the effect that blocks Special Moves//
-										6950, //HP recovers//
-										6960  //ATK and DEF down//
+										"6920,-> Damage Reduction - 61%"
+										"6930,-> Increases damage done to enemies - 170"
+										"6940,-> Negate the effect that blocks Special Moves"
+										"6950,-> HP recovers"
+										"6960 -> ATK and DEF down - 130, 5000, 100"
 									],
 									"exp": 60000,
 									"extra_hp_gauges_count": 9,

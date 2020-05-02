@@ -1,0 +1,320 @@
+{
+	"sign": {
+		"dummy_card_id": 1000780,
+		"friend_character": {},
+		"missions": [],
+		"sugoroku": {
+			"dice": {
+				"nums": [
+					{
+						"num": 1,
+						"weight": 22
+					},
+					{
+						"num": 2,
+						"weight": 22
+					},
+					{
+						"num": 3,
+						"weight": 22
+					},
+					{
+						"num": 4,
+						"weight": 18
+					},
+					{
+						"num": 5,
+						"weight": 10
+					},
+					{
+						"num": 6,
+						"weight": 8
+					}
+				]
+			},
+			"events": {
+				"0": {
+					"content": {
+						"script_id": 0
+					},
+					"type": 501
+				},
+				"1": {
+					"content": {
+						"content": {
+							"zeni": 5940
+						},
+						"type": 104
+					},
+					"type": 403
+				},
+				"10": {
+					"content": {
+						"damage": 15
+					},
+					"type": 203
+				},
+				"11": {
+					"content": {
+						"gauge": 2
+					},
+					"type": 107
+				},
+				"13": {
+					"content": {
+						"rarity": 1
+					},
+					"type": 101
+				},
+				"14": {
+					"content": {
+						"gauge": 1
+					},
+					"type": 107
+				},
+				"16": {
+					"content": {
+						"rarity": 1
+					},
+					"type": 101
+				},
+				"17": {
+					"content": {
+						"gauge": 2
+					},
+					"type": 107
+				},
+				"18": {
+					"content": {
+						"after_script_id": 0,
+						"battle_info": [
+							{
+								"after_script_id": 2519022,
+								"background_id": 73,
+								"before_script_id": null,
+								"bgm_id": 30,
+								"charge_limit": 0,
+								"charge_limit_script_id": null,
+								"round_id": 51902431
+							},
+							{
+								"after_script_id": 2519023,
+								"background_id": 73,
+								"before_script_id": null,
+								"bgm_id": 36,
+								"charge_limit": 0,
+								"charge_limit_script_id": null,
+								"round_id": 51902432
+							},
+							{
+								"after_script_id": 2519024,
+								"background_id": 73,
+								"before_script_id": null,
+								"bgm_id": 38,
+								"charge_limit": 0,
+								"charge_limit_script_id": null,
+								"round_id": 51902433
+							},
+							{
+								"after_script_id": null,
+								"background_id": 73,
+								"before_script_id": null,
+								"bgm_id": 44,
+								"charge_limit": 0,
+								"charge_limit_script_id": null,
+								"round_id": 51902434
+							}
+						],
+						"battle_round_condition_sets": [],
+						"before_script_id": 2519021,
+						"enemies": [
+							[
+								{
+									"ai_type": "34 - 19% SA Chance | 1 SA Per Turn",
+									"attack": 45000,
+									"card_id": 9011661,
+									"defence": 5500,
+									"enemy_skill_ids": [
+										"3800-> Damage Reduction - 45%"
+									],
+									"exp": 20000,
+									"extra_hp_gauges_count": 4,
+									"finish_special_inform_hp": 0,
+									"first_turn": 0,
+									"hp": 1570000,
+									"is_finish_special_only": false,
+									"is_necessary_to_defeat": true,
+									"multi_atk_num": 3,
+									"turn": 0,
+									"zeni": 2500
+								}
+							],
+							[
+								{
+									"ai_type": "35 - 23% SA Chance | 1 SA Per Turn",
+									"attack": 47500,
+									"card_id": 1009321,
+									"defence": 7000,
+									"enemy_skill_ids": [
+										"3810,-> Damage Reduction - 54%"
+										"3840,-> Cannot be stunned"
+										"3850 -> Increases damage done to enemies - 120"
+									],
+									"exp": 20000,
+									"extra_hp_gauges_count": 5,
+									"finish_special_inform_hp": 0,
+									"first_turn": 0,
+									"hp": 1990000,
+									"is_finish_special_only": false,
+									"is_necessary_to_defeat": true,
+									"multi_atk_num": 4,
+									"turn": 0,
+									"zeni": 2500
+								}
+							],
+							[
+								{
+									"ai_type": "45 - 15% SA Chance | 1 SA Per Turn",
+									"attack": 50000,
+									"card_id": 9012731,
+									"defence": 9500,
+									"enemy_skill_ids": [
+										"3820,-> Damage Reduction - 60%"
+										"3840,-> Cannot be stunned"
+										"3850 -> Increases damage done to enemies - 120"
+									],
+									"exp": 20000,
+									"extra_hp_gauges_count": 6,
+									"finish_special_inform_hp": 0,
+									"first_turn": 0,
+									"hp": 2390000,
+									"is_finish_special_only": false,
+									"is_necessary_to_defeat": true,
+									"multi_atk_num": 5,
+									"turn": 0,
+									"zeni": 5000
+								}
+							],
+							[
+								{
+									"additional_drops": [],
+									"ai_type": "59 - 17% SA Chance | 1 SA Per Turn",
+									"attack": 52000,
+									"card_id": 9012741,
+									"defence": 11500,
+									"drop": {
+										"item_id": 5192,
+										"quantity": 7,
+										"rarity": 3,
+										"type": "AwakeningItem"
+									},
+									"enemy_skill_ids": [
+										"3830,-> Damage Reduction - 65%"
+										"3840,-> Cannot be stunned"
+										"3850 -> Increases damage done to enemies - 120"
+									],
+									"exp": 60000,
+									"extra_hp_gauges_count": 9,
+									"finish_special_inform_hp": 0,
+									"first_turn": 0,
+									"hp": 3570000,
+									"is_finish_special_only": false,
+									"is_necessary_to_defeat": true,
+									"multi_atk_num": 7,
+									"turn": 0,
+									"zeni": 20000
+								}
+							]
+						]
+					},
+					"type": 301
+				},
+				"19": {
+					"content": {
+						"script_id": 0
+					},
+					"type": 502
+				},
+				"20": {
+					"content": {
+						"damage": 15
+					},
+					"type": 203
+				},
+				"21": {
+					"content": {
+						"zeni": 4950
+					},
+					"type": 104
+				},
+				"22": {
+					"content": {
+						"rarity": 3
+					},
+					"type": 101
+				},
+				"23": {
+					"content": {
+						"rarity": 1
+					},
+					"type": 101
+				},
+				"24": {
+					"content": {
+						"rarity": 0
+					},
+					"type": 101
+				},
+				"26": {
+					"content": {
+						"zeni": 4950
+					},
+					"type": 104
+				},
+				"29": {
+					"content": {
+						"rarity": 0
+					},
+					"type": 101
+				},
+				"3": {
+					"content": {
+						"content": {
+							"rarity": 2
+						},
+						"type": 101
+					},
+					"type": 403
+				},
+				"30": {
+					"content": {
+						"zeni": 4950
+					},
+					"type": 104
+				},
+				"5": {
+					"content": {
+						"gauge": 1
+					},
+					"type": 107
+				},
+				"8": {
+					"content": {
+						"damage": 15
+					},
+					"type": 203
+				},
+				"9": {
+					"content": {
+						"rarity": 0
+					},
+					"type": 101
+				}
+			},
+			"first_focus_step": 18,
+			"map": "519_002"
+		},
+		"token": "",
+		"user": {}
+	}
+}

@@ -281,7 +281,7 @@
 							[
 								{
 									"additional_drops": [],
-									"ai_type": 62,
+									"ai_type": "62 - ? (not on Ai Type Sheet)",
 									"attack": 46000,
 									"card_id": 9012441,
 									"defence": 6666,
@@ -292,9 +292,9 @@
 										"type": "AwakeningItem"
 									},
 									"enemy_skill_ids": [
-										3600, //Damage Reduction - 40%//
-										3660, //May avoid attacks - 40%//
-										3690  //Increases damage done to enemies//
+										"3600,-> Damage Reduction - 40%"
+										"3660,-> May avoid attacks - 40%"
+										"3690 -> Increases damage done to enemies - 130"
 									],
 									"exp": 40000,
 									"extra_hp_gauges_count": 5,
@@ -310,14 +310,14 @@
 							],
 							[
 								{
-									"ai_type": 44,
+									"ai_type": "44 - 14% SA Chance | 1 SA Per Turn",
 									"attack": 48500,
 									"card_id": 9012411,
 									"defence": 9000,
 									"enemy_skill_ids": [
-										3610, //Damage Reduction - 45%//
-										3670, //May avoid attacks - 50%//
-										3690  //Increases damage done to enemies//
+										"3610,-> Damage Reduction - 45%"
+										"3670,-> May avoid attacks - 50%"
+										"3690 -> Increases damage done to enemies - 130"
 									],
 									"exp": 80000,
 									"extra_hp_gauges_count": 7,
@@ -333,14 +333,14 @@
 							],
 							[
 								{
-									"ai_type": 59,
+									"ai_type": "59 - 17% SA Chance | 1 SA Per Turn",
 									"attack": 51000,
 									"card_id": 9012421,
 									"defence": 12000,
 									"enemy_skill_ids": [
-										3620, //Damage Reduction - 55%//
-										3680, //May avoid attacks - 80%//
-										3690  //Increases damage done to enemies//
+										"3620,-> Damage Reduction - 55%"
+										"3680,-> May avoid attacks - 80%"
+										"3690 -> Increases damage done to enemies - 130"
 									],
 									"exp": 0,
 									"extra_hp_gauges_count": 9,
@@ -356,13 +356,13 @@
 							],
 							[
 								{
-									"ai_type": 45,
+									"ai_type": "45 - 15% SA Chance | 1 SA Per Turn",
 									"attack": 49000,
 									"card_id": 9012421,
 									"defence": 9500,
 									"enemy_skill_ids": [
-										3600, //Damage Reduction - 40%//
-										3690  //Increases damage done to enemies//
+										"3600,-> Damage Reduction - 40%"
+										"3690 -> Increases damage done to enemies - 130"
 									],
 									"exp": 0,
 									"extra_hp_gauges_count": 9,

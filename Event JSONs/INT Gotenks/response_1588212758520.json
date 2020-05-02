@@ -354,13 +354,13 @@
 						"enemies": [
 							[
 								{
-									"ai_type": 50,
+									"ai_type": "50 - 15% SA Chance | 1 SA Per Turn",
 									"attack": 50200,
 									"card_id": 9011641,
 									"defence": 6000,
 									"enemy_skill_ids": [
-										10100, //Damage Reduction - 49%//
-										10140  //Increases damage done to enemies//
+										"10100,-> Damage Reduction - 49%"
+										"10140 -> Increases damage done to enemies - 250"
 									],
 									"exp": 0,
 									"extra_hp_gauges_count": 5,
@@ -377,7 +377,7 @@
 							[
 								{
 									"additional_drops": [],
-									"ai_type": 44,
+									"ai_type": "44 - 14% SA Chance | 1 SA Per Turn",
 									"attack": 54200,
 									"card_id": 9011081,
 									"defence": 11000,
@@ -388,9 +388,9 @@
 										"type": "AwakeningItem"
 									},
 									"enemy_skill_ids": [
-										10110, //Damage Reduction - 57%//
-										10140, //Increases damage done to enemies//
-										10150  //Negate the effect that blocks Special Moves//
+										"10110,-> Damage Reduction - 57%"
+										"10140,-> Increases damage done to enemies - 250"
+										"10150 -> Negate the effect that blocks Special Moves"
 									],
 									"exp": 120000,
 									"extra_hp_gauges_count": 7,
@@ -406,16 +406,16 @@
 							],
 							[
 								{
-									"ai_type": 76,
+									"ai_type": "76 - 14% SA Chance | 1 SA Per Turn",
 									"attack": 63300,
 									"card_id": 9019651,
 									"defence": 30000,
 									"enemy_skill_ids": [
-										10120, //Damage Reduction - 67%//
-										10140, //Increases damage done to enemies//
-										10150, //Negate the effect that blocks Special Moves//
-										10160, //Cannot be stunned//
-										10170  //Disable DEF down//
+										"10120,-> Damage Reduction - 67%"
+										"10140,-> Increases damage done to enemies - 250"
+										"10150,-> Negate the effect that blocks Special Moves"
+										"10160,-> Cannot be stunned"
+										"10170 -> Disable DEF down"
 									],
 									"exp": 0,
 									"extra_hp_gauges_count": 10,
@@ -431,15 +431,15 @@
 							],
 							[
 								{
-									"ai_type": 64,
+									"ai_type": "64 - 16% SA Chance | 1 SA Per Turn",
 									"attack": 61000,
 									"card_id": 9019641,
 									"defence": 15100,
 									"enemy_skill_ids": [
-										10130, //Damage Reduction - 62%//
-										10140, //Increases damage done to enemies//
-										10150, //Negate the effect that blocks Special Moves//
-										10160  //Cannot be stunned//
+										"10130,-> Damage Reduction - 62%"
+										"10140,-> Increases damage done to enemies - 250"
+										"10150,-> Negate the effect that blocks Special Moves"
+										"10160 -> Cannot be stunned"
 									],
 									"exp": 0,
 									"extra_hp_gauges_count": 10,
@@ -455,14 +455,14 @@
 							],
 							[
 								{
-									"ai_type": 57,
+									"ai_type": "57 - 18% SA Chance | 1 SA Per Turn",
 									"attack": 57000,
 									"card_id": 9019631,
 									"defence": 13000,
 									"enemy_skill_ids": [
-										10110, //Damage Reduction - 57%//
-										10140, //Increases damage done to enemies//
-										10150  //Negate the effect that blocks Special Moves//
+										"10110,-> Damage Reduction - 57%"
+										"10140,-> Increases damage done to enemies - 250"
+										"10150 -> Negate the effect that blocks Special Moves"
 									],
 									"exp": 0,
 									"extra_hp_gauges_count": 10,

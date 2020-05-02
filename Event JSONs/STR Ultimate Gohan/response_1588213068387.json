@@ -133,12 +133,12 @@
 						"enemies": [
 							[
 								{
-									"ai_type": 39,
+									"ai_type": "39 - 12% SA Chance | 1 SA Per Turn",
 									"attack": 40580,
 									"card_id": 1009961,
 									"defence": 4580,
 									"enemy_skill_ids": [
-										3100 //Damage Reduction - 47%//
+										"3100-> Damage Reduction - 47%"
 									],
 									"exp": 20000,
 									"extra_hp_gauges_count": 4,
@@ -154,12 +154,12 @@
 							],
 							[
 								{
-									"ai_type": 40,
+									"ai_type": "40 - 20% SA Chance | 1 SA Per Turn",
 									"attack": 42580,
 									"card_id": 1010181,
 									"defence": 7580,
 									"enemy_skill_ids": [
-										3100 //Damage Reduction - 47%//
+										"3100-> Damage Reduction - 47%"
 									],
 									"exp": 20000,
 									"extra_hp_gauges_count": 5,
@@ -175,14 +175,14 @@
 							],
 							[
 								{
-									"ai_type": 45,
+									"ai_type": "45 - 15% SA Chance | 1 SA Per Turn",
 									"attack": 43000,
 									"card_id": 1008591,
 									"defence": 9000,
 									"enemy_skill_ids": [
-										3110, //Damage Reduction - 60%//
-										3120, //Randomly change all ki balls//
-										3130  //ATK down//
+										"3110,-> Damage Reduction - 60%"
+										"3120,-> Randomly change all ki balls - 35%"
+										"3130 -> ATK down - 130, 100"
 									],
 									"exp": 20000,
 									"extra_hp_gauges_count": 6,
@@ -199,7 +199,7 @@
 							[
 								{
 									"additional_drops": [],
-									"ai_type": 60,
+									"ai_type": "60 - 18% SA Chance | 1 SA Per Turn",
 									"attack": 44000,
 									"card_id": 9011801,
 									"defence": 10000,
@@ -210,9 +210,9 @@
 										"type": "AwakeningItem"
 									},
 									"enemy_skill_ids": [
-										3110, //Damage Reduction - 60%//
-										3120, //Randomly change all ki balls//
-										3140  //ATK down//
+										"3110,-> Damage Reduction - 60%"
+										"3120,-> Randomly change all ki balls - 35%"
+										"3140 -> ATK down - 135, 100"
 									],
 									"exp": 60000,
 									"extra_hp_gauges_count": 8,

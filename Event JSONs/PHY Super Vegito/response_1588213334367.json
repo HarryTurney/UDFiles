@@ -154,12 +154,12 @@
 						"enemies": [
 							[
 								{
-									"ai_type": 33,
+									"ai_type": "33 - 15% SA Chance | 1 SA Per Turn",
 									"attack": 39590,
 									"card_id": 9007831,
 									"defence": 3590,
 									"enemy_skill_ids": [
-										3260 //Damage Reduction - 43%//
+										"3260-> Damage Reduction - 43%"
 									],
 									"exp": 10000,
 									"extra_hp_gauges_count": 0,
@@ -173,12 +173,12 @@
 									"zeni": 2500
 								},
 								{
-									"ai_type": 33,
+									"ai_type": "33 - 15% SA Chance | 1 SA Per Turn",
 									"attack": 39000,
 									"card_id": 1002461,
 									"defence": 4000,
 									"enemy_skill_ids": [
-										3260 //Damage Reduction - 43%//
+										"3260-> Damage Reduction - 43%"
 									],
 									"exp": 10000,
 									"extra_hp_gauges_count": 0,
@@ -194,13 +194,13 @@
 							],
 							[
 								{
-									"ai_type": 40,
+									"ai_type": "40 - 20% SA Chance | 1 SA Per Turn",
 									"attack": 45500,
 									"card_id": 9011271,
 									"defence": 6000,
 									"enemy_skill_ids": [
-										3270, //Damage Reduction - 50%//
-										3300  //Cannot be stunned//
+										"3270,-> Damage Reduction - 50%"
+										"3300 -> Cannot be stunned"
 									],
 									"exp": 20000,
 									"extra_hp_gauges_count": 5,
@@ -216,13 +216,13 @@
 							],
 							[
 								{
-									"ai_type": 45,
+									"ai_type": "45 - 15% SA Chance | 1 SA Per Turn",
 									"attack": 47500,
 									"card_id": 9012581,
 									"defence": 300000,
 									"enemy_skill_ids": [
-										3280, //Damage Reduction - 60%//
-										3300  //Cannot be stunned//
+										"3280,-> Damage Reduction - 60%"
+										"3300 -> Cannot be stunned"
 									],
 									"exp": 20000,
 									"extra_hp_gauges_count": 6,
@@ -239,7 +239,7 @@
 							[
 								{
 									"additional_drops": [],
-									"ai_type": 59,
+									"ai_type": "59 - 17% SA Chance | 1 SA Per Turn",
 									"attack": 50000,
 									"card_id": 9012381,
 									"defence": 400000,
@@ -250,8 +250,8 @@
 										"type": "AwakeningItem"
 									},
 									"enemy_skill_ids": [
-										3290, //Damage Reduction - 65%//
-										3300  //Cannot be stunned//
+										"3290,-> Damage Reduction - 65%"
+										"3300 -> Cannot be stunned"
 									],
 									"exp": 60000,
 									"extra_hp_gauges_count": 9,

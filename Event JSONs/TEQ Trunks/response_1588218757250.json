@@ -112,13 +112,13 @@
 						"enemies": [
 							[
 								{
-									"ai_type": 22,
+									"ai_type": "22 - 17% SA Chance | 1 SA Per Turn",
 									"attack": 48500,
 									"card_id": 1009551,
 									"defence": 6500,
 									"enemy_skill_ids": [
-										6400, //Damage Reduction - 47%//
-										6440  //Increases damage done to enemies//
+										"6400,-> Damage Reduction - 47%"
+										"6440 -> Increases damage done to enemies - 120"
 									],
 									"exp": 0,
 									"extra_hp_gauges_count": 0,
@@ -132,13 +132,13 @@
 									"zeni": 0
 								},
 								{
-									"ai_type": 5,
+									"ai_type": "5 - 33% SA Chance | 1 SA Per Turn",
 									"attack": 46000,
 									"card_id": 1008881,
 									"defence": 5000,
 									"enemy_skill_ids": [
-										6400, //Damage Reduction - 47%//
-										6440  //Increases damage done to enemies//
+										"6400,-> Damage Reduction - 47%"
+										"6440 -> Increases damage done to enemies - 120"
 									],
 									"exp": 0,
 									"extra_hp_gauges_count": 0,
@@ -154,14 +154,14 @@
 							],
 							[
 								{
-									"ai_type": 40,
+									"ai_type": "40 - 20% SA Chance | 1 SA Per Turn",
 									"attack": 51500,
 									"card_id": 9012961,
 									"defence": 8000,
 									"enemy_skill_ids": [
-										6410, //Damage Reduction - 55%//
-										6440, //Increases damage done to enemies//
-										6460  //Disable ATK down//
+										"6410,-> Damage Reduction - 55%"
+										"6440,-> Increases damage done to enemies - 120"
+										"6460 -> Disable ATK down"
 									],
 									"exp": 0,
 									"extra_hp_gauges_count": 6,
@@ -177,15 +177,15 @@
 							],
 							[
 								{
-									"ai_type": 55,
+									"ai_type": "55 - 17% SA Chance | 1 SA Per Turn",
 									"attack": 54000,
 									"card_id": 9017091,
 									"defence": 12000,
 									"enemy_skill_ids": [
-										6420, //Damage Reduction - 60%//
-										6440, //Increases damage done to enemies//
-										6450, //Cannot be stunned//
-										6460  //Disable ATK down//
+										"6420,-> Damage Reduction - 60%"
+										"6440,-> Increases damage done to enemies - 120"
+										"6450,-> Cannot be stunned"
+										"6460 -> Disable ATK down"
 									],
 									"exp": 60000,
 									"extra_hp_gauges_count": 7,
@@ -202,7 +202,7 @@
 							[
 								{
 									"additional_drops": [],
-									"ai_type": 7000,
+									"ai_type": "7000 - ? (AI Type Sheet doesn't have it)",
 									"attack": 58000,
 									"card_id": 9017101,
 									"defence": 14500,
@@ -213,10 +213,10 @@
 										"type": "AwakeningItem"
 									},
 									"enemy_skill_ids": [
-										6430, //Damage Reduction - 64%//
-										6440, //Increases damage done to enemies//
-										6450, //Cannot be stunned//
-										6460  //Disable ATK down//
+										"6430,-> Damage Reduction - 64%"
+										"6440,-> Increases damage done to enemies - 120"
+										"6450,-> Cannot be stunned"
+										"6460 -> Disable ATK down"
 									],
 									"exp": 60000,
 									"extra_hp_gauges_count": 9,
