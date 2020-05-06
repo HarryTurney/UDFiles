@@ -1,0 +1,56 @@
+Level 1: The Omnipotent Saiyan Warrior
+	Stage 1:
+		Enemy: Super Saiyan Vegeta
+		Type: Super STR
+		HP: 1920000
+		Attack: 49000
+		Defence: 7000
+		Skills:
+			Damage Reduction - 49%
+			Increases damage done to enemies - 280
+		SA Chance: 19%
+		SA Per Turn: 1
+
+	Stage 2:
+		Enemy: Super Saiyan Goku
+		Type: Super TEQ
+		HP: 2359000
+		Attack: 51590
+		Defence: 8590
+		Skills:
+			Damage Reduction - 49%
+			Increases damage done to enemies - 280
+		SA Chance: 20%
+		SA Per Turn: 1
+	
+	Stage 3:
+		Enemy: Super Saiyan Gogeta
+		Type: Super AGL
+		HP: 3190000
+		Attack: 54500
+		Defence: 13500
+		Skills:
+			Damage Reduction - 65%
+			Increases damage done to enemies
+			Cannot be stunned
+			Negate the effect that blocks Special Moves
+			Disable ATK & DEF down
+		SA Chance: 17%
+		SA Per Turn: 1
+	
+	Stage 4:
+		Enemy: Super Saiyan God SS Gogeta
+		Type: Super AGL
+		HP: 3990000
+		Attack: 57000
+		Defence: 17000
+		Skills:
+			Damage Reduction - 70%
+			Increases damage done to enemies - 280
+			Cannot be stunned
+			Negate the effect that blocks Special Moves
+			Disable ATK & DEF down
+		SA Chance: 17%
+		SA Per Turn: 1
+
+Level 2: Superdimensional Battle!

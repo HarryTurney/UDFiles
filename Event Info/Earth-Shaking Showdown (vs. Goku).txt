@@ -1,0 +1,62 @@
+Level 1: Ever-Evolving Power
+	Stage 1:
+		Enemy: Super Saiyan Goku
+		Type: Super AGL
+		HP: 1590000
+		Attack: 47590
+		Defence: 5900
+		Skills:
+			Damage Reduction - 49%
+			Increases damage done to enemies - 170
+		SA Chance: 19%
+		SA Per Turn: 1
+	
+	Stage 2:
+		Enemy: Super Saiyan 2 Goku
+		Type: Super AGL
+		HP: 1959002
+		Attack: 49590
+		Defence: 6590
+		Skills:
+			Damage Reduction - 49%
+			Increases damage done to enemies - 170
+		SA Chance: 20%
+		SA Per Turn: 1
+	
+	Stage 3:
+		Enemy: Super Saiyan 3 Goku
+		Type: Super AGL
+		HP: 2395903
+		Attack: 51590
+		Defence: 8590
+		Skills:
+			Damage Reduction - 55%
+			Increases damage done to enemies - 170
+		SA Chance: 15%
+		SA Per Turn: 1
+	
+	Stage 4:
+		Enemy: Super Saiyan God Goku
+		Type: Super AGL
+		HP: 2751059
+		Attack: 53510
+		Defence: 10590
+		Skills:
+			Damage Reduction - 61%
+			Increases damage done to enemies - 170
+		SA Chance: 16%
+		SA Per Turn: 1
+	
+	Stage 5:
+		Enemy: Super Saiyan God SS Goku
+		Type: Super AGL
+		HP: 3459000
+		Attack: 55590
+		Defence: 12590
+		Skills:
+			Damage Reduction - 65%
+			Cannot be stunned
+			Negate the effect that blocks Special Moves
+			Increases damage done to enemies - 170
+		SA Chance: 17%
+		SA Per Turn: 1

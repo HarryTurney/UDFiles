@@ -139,13 +139,13 @@
 						"enemies": [
 							[
 								{
-									"ai_type": "39 - 12% SA Chance | 1 SA Per Turn",
+									"ai_type": 39,
 									"attack": 44500,
 									"card_id": 1009541,
 									"defence": 7200,
 									"enemy_skill_ids": [
-										"4300,-> Damage Reduction - 45%"
-										"4340 -> Increases damage done to enemies - 220"
+										4300,
+										4340
 									],
 									"exp": 20000,
 									"extra_hp_gauges_count": 4,
@@ -161,13 +161,13 @@
 							],
 							[
 								{
-									"ai_type": "40 - 20% SA Chance | 1 SA Per Turn"",
+									"ai_type": 40,
 									"attack": 47200,
 									"card_id": 1009751,
 									"defence": 8500,
 									"enemy_skill_ids": [
-										"4310,-> Damage Reduction - 52%"
-										"4340 -> Increases damage done to enemies - 220"
+										4310,
+										4340
 									],
 									"exp": 20000,
 									"extra_hp_gauges_count": 5,
@@ -183,13 +183,13 @@
 							],
 							[
 								{
-									"ai_type": "45 - 15% SA Chance | 1 SA Per Turn",
+									"ai_type": 45,
 									"attack": 50200,
 									"card_id": 1013831,
 									"defence": 11200,
 									"enemy_skill_ids": [
-										"4320,-> Damage Reduction - 57%"
-										"4340 -> Increases damage done to enemies - 220"
+										4320,
+										4340
 									],
 									"exp": 20000,
 									"extra_hp_gauges_count": 6,
@@ -206,7 +206,7 @@
 							[
 								{
 									"additional_drops": [],
-									"ai_type": "59 - 17% SA Chance | 1 SA Per Turn",
+									"ai_type": 59,
 									"attack": 53200,
 									"card_id": 4013841,
 									"defence": 13200,
@@ -217,11 +217,11 @@
 										"type": "AwakeningItem"
 									},
 									"enemy_skill_ids": [
-										"4330,-> Damage Reduction - 66%"
-										"4340 -> Increases damage done to enemies - 220"
-										"4350,-> Cannot be stunned"
-										"4360,-> Negate the effect that blocks Special Moves"
-										"4370 -> Disable ATK & DEF down"
+										4330,
+										4340,
+										4350,
+										4360,
+										4370
 									],
 									"exp": 60000,
 									"extra_hp_gauges_count": 9,

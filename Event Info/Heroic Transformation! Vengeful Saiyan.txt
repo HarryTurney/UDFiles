@@ -1,0 +1,53 @@
+Level 1: Transforming into a Golden Saiyan!:
+	Stage 1:
+		Enemy: Bardock
+		Type: Super AGL
+		HP: 1930000
+		Attack: 50000
+		Defence: 6000
+		Skills:
+			Damage Reduction - 51%
+			Increases damage done to enemies - 180
+		SA Chance: 19%
+		SA Per Turn: 1
+		
+	Stage 2:
+		Enemy: Bardock
+		Type: Super PHY
+		HP: 2500000
+		Attack: 52000
+		Defence: 8000
+		Skills:
+			Damage Reduction - 51%
+			Increases damage done to enemies - 180
+			Negate the effect that blocks Special Moves
+		SA Chance: 20%
+		SA Per Turn: 1
+		
+	Stage 3:
+		Enemy: Bardock
+		Type: Super TEQ
+		HP: 2900000
+		Attack: 55000
+		Defence: 10000
+		Skills:
+			Damage Reduction - 56%
+			Increases damage done to enemies - 180
+			Negate the effect that blocks Special Moves
+			Disable ATK down
+		SA Chance: 15%
+		SA Per Turn: 1
+		
+	Stage 4:
+		Enemy: Super Saiyan Bardock
+		Type: Super AGL
+		HP: 3550000
+		Attack: 60000
+		Defence: 14000
+		Skills:
+			Damage Reduction - 61%
+			Increases damage done to enemies - 180
+			Negate the effect that blocks Special Moves
+			Disable ATK & DEF down
+		SA Chance: 17%
+		SA Per Turn: 1

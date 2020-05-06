@@ -1,0 +1,51 @@
+Level 2: Phantom Majin Resurrected!
+	Stage 1:
+		Enemy: Hirudegarn (Upper Half)
+		Type: Extreme STR
+		HP: 1900000
+		Attack: 46000
+		Defence: 6666
+		Skills:
+			Damage Reduction - 40%
+			May avoid attacks - 40%
+			Increases damage done to enemies - 130
+		SA Chance: ? (not on Ai Type Sheet)
+		SA Per Turn: ?  (not on Ai Type Sheet)
+	
+	Stage 2:
+		Enemy: Hirudegarn
+		Type: Extreme AGL
+		HP: 2760000
+		Attack: 48500
+		Defence: 9000
+		Skills:
+			Damage Reduction - 45%
+			May avoid attacks - 50%
+			Increases damage done to enemies - 130
+		SA Chance: 14%
+		SA Per Turn: 1
+	
+	Stage 3:
+		Enemy: Hirudegarn (Transformed)
+		Type: Extreme AGL
+		HP: 3550000
+		Attack: 51000
+		Defence: 12000
+		Skills:
+			Damage Reduction - 55%
+			May avoid attacks - 80%
+			Increases damage done to enemies - 130
+		SA Chance: 17%
+		SA Per Turn: 1
+	
+	->
+		Enemy: Hirudegarn (Transformed)
+		Type: Extreme AGL
+		HP: 3550000
+		Attack: 49000
+		Defence: 9500
+		Skills:
+			Damage Reduction - 40%
+			Increases damage done to enemies - 130
+		SA Chance: 15%
+		SA Per Turn: 1

@@ -1,0 +1,66 @@
+Level 3: Human Sin and Divine Failure
+	Stage 1:
+		Enemy: Zamasu
+		Type: Extreme INT
+		HP: 2100000
+		Attack: 48000
+		Defence: 6000
+		Skills:
+			Damage Reduction - 48%
+			Increases damage done to enemies - 130
+		SA Chance: 19%
+		SA Per Turn: 1
+	
+	Stage 2:
+		Enemy: Zamasu
+		Type: Extreme INT
+		HP: 1500000
+		Attack: 50000
+		Defence: 7600
+		Skills:
+			Damage Reduction - 48%
+			Increases damage done to enemies - 130
+			Negate the effect that blocks Special Moves
+		SA Chance: 17%
+		SA Per Turn: 1
+
+		Enemy: Goku Black (Super Saiyan Rosé)
+		Type: Extreme STR
+		HP: 1400000
+		Attack: 51590
+		Defence: 9590
+		Skills:
+			Damage Reduction - 57%
+			Increases damage done to enemies - 130
+			Negate the effect that blocks Special Moves
+		SA Chance: 19%
+		SA Per Turn: 1
+	
+	Stage 3:
+		Enemy: Fusion Zamasu
+		Type: Extreme PHY
+		HP: 3200000
+		Attack: 54500
+		Defence: 13000
+		Skills:
+			Damage Reduction - 62%
+			Increases damage done to enemies - 130
+			Negate the effect that blocks Special Moves
+			Cannot be stunned
+		SA Chance: 24%
+		SA Per Turn: 2
+	
+	Stage 4:
+		Enemy: Fusion Zamasu
+		Type: Extreme AGL
+		HP: 3900000
+		Attack: 56700
+		Defence: 16000
+		Skills:
+			Damage Reduction - 68%
+			Increases damage done to enemies - 130
+			Negate the effect that blocks Special Moves
+			Cannot be stunned
+			HP recovers
+		SA Chance: 24%
+		SA Per Turn: 2

@@ -1,0 +1,51 @@
+Level 2: Battle for Honor and Pride
+	Stage 1:
+		Enemy: Super Saiyan God SS Vegeta
+		Type: Super TEQ
+		HP: 1620000
+		Attack: 44500
+		Defence: 7200
+		Skills:
+			Damage Reduction - 45%
+			Increases damage done to enemies - 220
+		SA Chance: 12%
+		SA Per Turn: 1
+	
+	Stage 2:
+		Enemy: Super Saiyan God SS Vegeta
+		Type: Super INT
+		HP: 2020000
+		Attack: 47200
+		Defence: 8500
+		Skills:
+			Damage Reduction - 52%
+			Increases damage done to enemies - 220
+		SA Chance: 20%
+		SA Per Turn: 1
+	
+	Stage 3:
+		Enemy: Super Saiyan God SS Vegeta
+		Type: Super AGL
+		HP: 2420000
+		Attack: 50200
+		Defence: 11200
+		Skills:
+			Damage Reduction - 57%
+			Increases damage done to enemies - 220
+		SA Chance: 15%
+		SA Per Turn: 1
+	
+	Stage 4:
+		Enemy: Super Saiyan God SS Evolved Vegeta
+		Type: Super AGL
+		HP: 3220000
+		Attack: 53200
+		Defence: 13200
+		Skills:
+			Damage Reduction - 66%
+			Increases damage done to enemies - 220
+			Cannot be stunned
+			Negate the effect that blocks Special Moves
+			Disable ATK & DEF down
+		SA Chance: 17%
+		SA Per Turn: 1

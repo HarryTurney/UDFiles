@@ -1,0 +1,98 @@
+Level 1: Infinite Mechanical Power
+	Stage 1:
+		Enemy: Metal Cooler
+		Type: Extreme AGL
+		HP: 1900000
+		Attack: 47000
+		Defence: 5600
+		Skills:
+			Damage Reduction - 52%
+			Increases damage done to enemies - 180
+		SA Chance: 19%
+		SA Per Turn: 1
+		
+	Stage 2:
+		Enemy: Metal Cooler
+		Type: Extreme INT
+		HP: 2320000
+		Attack: 49600
+		Defence: 7630
+		Skills:
+			Damage Reduction - 52%
+			Increases damage done to enemies - 180
+		SA Chance: 20%
+		SA Per Turn: 1
+		
+	Stage 3:
+		Enemy: Metal Cooler Army
+		Type: Extreme INT
+		HP: 1150000
+		Attack: 53000
+		Defence: 9900
+		Skills:
+			Damage Reduction - 58%
+			Increases damage done to enemies - 180
+			HP recovers - 100, 2, 100
+		SA Chance: 12%
+		SA Per Turn: 1
+		
+		Enemy: Metal Cooler [PHY]
+		Type: Extreme PHY
+		HP: 1000000
+		Attack: 52000
+		Defence: 9500
+		Skills:
+			Damage Reduction - 58%
+			Increases damage done to enemies - 180
+			HP recovers - 100, 2, 100
+		SA Chance: 12%
+		SA Per Turn: 1
+		
+		Enemy: Metal Cooler
+		Type: Extreme AGL
+		HP: 1000000
+		Attack: 52000
+		Defence: 9500
+		Skills:
+			Damage Reduction - 58%
+			Increases damage done to enemies - 180
+			HP recovers - 100, 2, 100
+		SA Chance: 12%
+		SA Per Turn: 1
+		
+		Enemy: Metal Cooler
+		Type: Extreme STR
+		HP: 1000000
+		Attack: 52000
+		Defence: 9500
+		Skills:
+			Damage Reduction - 58%
+			Increases damage done to enemies - 180
+			HP recovers - 100, 2, 100
+		SA Chance: 12%
+		SA Per Turn: 1
+		
+		Enemy: Metal Cooler [TEQ]
+		Type: Extreme TEQ
+		HP: 1000000
+		Attack: 52000
+		Defence: 9500
+		Skills:
+			Damage Reduction - 58%
+			Increases damage done to enemies - 180
+			HP recovers - 100, 2, 100
+		SA Chance: 12%
+		SA Per Turn: 1
+	
+	Stage 4:
+		Enemy: Metal Cooler Core
+		Type: Super AGL
+		HP: 3400000
+		Attack: 54800
+		Defence: 12910
+		Skills:
+			Damage Reduction - 63%
+			Increases damage done to enemies - 180
+			HP recovers - 100, 2, 100
+		SA Chance: 19%
+		SA Per Turn: 1

@@ -1,0 +1,54 @@
+Level 1: Let's Go, Gohan!
+	Stage 1:
+		Enemy: Super Saiyan Gohan (Youth)
+		Type: Super INT
+		HP: 1958000
+		Attack: 49580
+		Defence: 6580
+		Skills:
+			Damage Reduction - 48%
+			Increases damage done to enemies - 170
+		SA Chance: 19%
+		SA Per Turn: 1
+	
+	Stage 2:
+		Enemy: Super Saiyan Gohan (Youth)
+		Type: Super STR
+		HP: 2358000
+		Attack: 51580
+		Defence: 8580
+		Skills:
+			Damage Reduction - 48%
+			Increases damage done to enemies - 170
+			Cannot be stunned
+		SA Chance: 20%
+		SA Per Turn: 1
+	
+	Stage 3:
+		Enemy: Super Saiyan Gohan (Youth)
+		Type: Super AGL
+		HP: 3158000
+		Attack: 53580
+		Defence: 10580
+		Skills: 
+			Damage Reduction - 55%
+			Increases damage done to enemies - 170
+			Cannot be stunned
+			Negate the effect that blocks Special Moves
+		SA Chance: 16%
+		SA Per Turn: 1
+	
+	Stage 4:
+		Enemy: Super Saiyan 2 Gohan (Youth)
+		Type: Super AGL
+		HP: 3758000
+		Attack: 56580
+		Defence: 15000
+		Skills:
+			Damage Reduction - 62%
+			Increases damage done to enemies - 170
+			Cannot be stunned
+			Negate the effect that blocks Special Moves
+			ATK and DEF down - 135, 500, 100
+		SA Chance: 17%
+		SA Per Turn: 1

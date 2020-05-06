@@ -1,0 +1,88 @@
+Level 1: Arrival of the Universe-Crusher
+	Stage 1:
+		Enemy: Amond
+		Type: Extreme STR
+		HP: 400000
+		Attack: 36000
+		Defence: 6000
+		Skills:
+			Damage Reduction - 32%"
+		SA Chance: 33%
+		SA Per Turn: 1
+		
+		Enemy: Daiz
+		Type: Extreme PHY
+		HP: 370000
+		Attack: 37000
+		Defence: 5000
+		Skills:
+			Damage Reduction - 32%"
+		SA Chance: 33%
+		SA Per Turn: 1
+	
+		Enemy: Cacao
+		Type: Extreme AGL
+		HP: 350000
+		Attack: 35000
+		Defence: 4500
+		Skills:
+			Damage Reduction - 32%
+		SA Chance: 25%
+		SA Per Turn: 1
+
+		Enemy: Rasin
+		Type: Extreme TEQ
+		HP: 320000
+		Attack: 33200
+		Defence: 4000
+		Skills:
+			Damage Reduction - 32%
+		SA Chance: 33%
+		SA Per Turn: 1
+
+		Enemy: Lakasei
+		Type: Extreme TEQ
+		HP: 320000
+		Attack: 33200
+		Defence: 4000
+		Skills:
+			Damage Reduction - 32%
+		SA Chance: 33%
+		SA Per Turn: 		
+	
+	Stage 2:
+		Enemy: Turles
+		Type: Extreme INT
+		HP: 2396100
+		Attack: 45961
+		Defence: 7500
+		Skills:
+			Damage Reduction - 45%
+			Increases damage done to enemies - 140
+		SA Chance: 23%
+		SA Per Turn: 1
+	
+	Stage 3:
+		Enemy: Turles
+		Type: Extreme TEQ
+		HP: 3500000
+		Attack: 47961
+		Defence: 9610
+		Skills:
+			Damage Reduction - 68%
+			Increases damage done to enemies - 140
+		SA Chance: 18%
+		SA Per Turn: 1
+	
+	->
+		Enemy: Turles
+		Type: Extreme AGL
+		HP: 3500000
+		Attack: 45000
+		Defence: 10000
+		Skills:
+			Damage Reduction - 52%
+			ATK and DEF down
+			Increases damage done to enemies - 140
+		SA Chance: ?(not in the AI Type Sheet)
+		SA Per Turn: ?(not in the AI Type Sheet)

@@ -1,0 +1,65 @@
+Level 1: The Devil's Circuit:
+	Stage 1:
+		Enemy: Android 14
+		Type: Extreme STR
+		HP: 1140000
+		Attack: 41000
+		Defence: 7000
+		Skills:
+			Damage Reduction - 45%
+			Increases damage done to enemies - 170%
+		SA Chance: 15%
+		SA Per Turn: 1
+	
+		Enemy: Android 15
+		Type: Extreme PHY
+		HP: 1050000
+		Attack: 42000
+		Defence: 6000
+		Skills:
+			Damage Reduction - 45%
+			Increases damage done to enemies - 170%
+		SA Chance: 17%
+		SA Per Turn: 1
+	
+	Stage 2:
+		Enemy: Android 13
+		HP: 2310000
+		Type: Extreme INT
+		Attack: 51000
+		Defence: 9000
+		Skills:
+			Damage Reduction - 56%
+			Increases damage done to enemies - 170%
+			Cannot Be Stunned
+		SA Chance: 20%
+		SA Per Turn: 1
+		
+	Stage 3:
+		Enemy: Android 13
+		Type: Extreme STR
+		HP: 2730000
+		Attack: 53500
+		Defence: 11000
+		Skills:
+			Damage Reduction - 56%
+			Increases damage done to enemies - 170
+			Cannot Be Stunned
+			Negate the effect that blocks Special Moves
+		SA Chance: 17%
+		SA Per Turn: 1
+
+	Stage 4:
+		Enemy: Fusion Android 13
+		Type: Extreme AGL
+		HP: 3450000
+		Attack: 55300
+		Defence: 13000
+		Skills:
+			Damage Reduction - 63%"
+			Increases damage done to enemies - 170
+			Cannot Be Stunned
+			Negate the effect that blocks Special Moves
+			ATK and DEF down - 150, 5000, 100
+		SA Chance: 18%
+		SA Per Turn: 1

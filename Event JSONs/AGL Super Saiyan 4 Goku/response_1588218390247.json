@@ -118,13 +118,13 @@
 						"enemies": [
 							[
 								{
-									"ai_type": "34 - 19% SA Chance | 1 SA Per Turn",
+									"ai_type": 34,
 									"attack": 47590,
 									"card_id": 1014481,
 									"defence": 5900,
 									"enemy_skill_ids": [
-										"5800,-> Damage Reduction - 45%"
-										"5830 -> Increases damage done to enemies - 200"
+										5800,
+										5830
 									],
 									"exp": 20000,
 									"extra_hp_gauges_count": 5,
@@ -140,15 +140,15 @@
 							],
 							[
 								{
-									"ai_type": "45 - 15% SA Chance | 1 SA Per Turn",
+									"ai_type": 45,
 									"attack": 51590,
 									"card_id": 9009421,
 									"defence": 10590,
 									"enemy_skill_ids": [
-										"5810,-> Damage Reduction - 59%"
-										"5830,-> Increases damage done to enemies - 200"
-										"5840,-> Cannot be stunned"
-										"5850 -> Disable ATK down"
+										5810,
+										5830,
+										5840,
+										5850
 									],
 									"exp": 20000,
 									"extra_hp_gauges_count": 7,
@@ -164,15 +164,15 @@
 							],
 							[
 								{
-									"ai_type": "56 - 16% SA Chance | 1 SA Per Turn",
+									"ai_type": 56,
 									"attack": 53000,
 									"card_id": 9015751,
 									"defence": 11590,
 									"enemy_skill_ids": [
-										"5810,-> Damage Reduction - 59%"
-										"5830,-> Increases damage done to enemies - 200"
-										"5840,-> Cannot be stunned"
-										"5850 -> Disable ATK down"
+										5810,
+										5830,
+										5840,
+										5850
 									],
 									"exp": 20000,
 									"extra_hp_gauges_count": 8,
@@ -189,7 +189,7 @@
 							[
 								{
 									"additional_drops": [],
-									"ai_type": "60 - 18% SA Chance | 1 SA Per Turn",
+									"ai_type": 60,
 									"attack": 55000,
 									"card_id": 9014211,
 									"defence": 13000,
@@ -200,10 +200,10 @@
 										"type": "AwakeningItem"
 									},
 									"enemy_skill_ids": [
-										"5820,-> Damage Reduction - 63%"
-										"5830,-> Increases damage done to enemies - 200"
-										"5840,-> Cannot be stunned"
-										"5850 -> Disable ATK down"
+										5820,
+										5830,
+										5840,
+										5850
 									],
 									"exp": 60000,
 									"extra_hp_gauges_count": 9,

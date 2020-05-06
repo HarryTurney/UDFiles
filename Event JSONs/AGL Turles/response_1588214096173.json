@@ -190,12 +190,12 @@
 						"enemies": [
 							[
 								{
-									"ai_type": "5 - 33% SA Chance | 1 SA Per Turn",
+									"ai_type": 5,
 									"attack": 36000,
 									"card_id": 1003941,
 									"defence": 6000,
 									"enemy_skill_ids": [
-										"4200-> Damage Reduction - 32%"
+										4200
 									],
 									"exp": 10000,
 									"extra_hp_gauges_count": 0,
@@ -209,12 +209,12 @@
 									"zeni": 0
 								},
 								{
-									"ai_type": "5 - 33% SA Chance | 1 SA Per Turn",
+									"ai_type": 5,
 									"attack": 37000,
 									"card_id": 1003931,
 									"defence": 5000,
 									"enemy_skill_ids": [
-										"4200-> Damage Reduction - 32%"
+										4200
 									],
 									"exp": 10000,
 									"extra_hp_gauges_count": 0,
@@ -228,12 +228,12 @@
 									"zeni": 0
 								},
 								{
-									"ai_type": "4 - 25% SA Chance | 1 SA Per Turn",
+									"ai_type": 4,
 									"attack": 35000,
 									"card_id": 1003921,
 									"defence": 4500,
 									"enemy_skill_ids": [
-										"4200-> Damage Reduction - 32%"
+										4200
 									],
 									"exp": 10000,
 									"extra_hp_gauges_count": 0,
@@ -252,7 +252,7 @@
 									"card_id": 1003951,
 									"defence": 4000,
 									"enemy_skill_ids": [
-										"4200-> Damage Reduction - 32%"
+										4200
 									],
 									"exp": 10000,
 									"extra_hp_gauges_count": 0,
@@ -266,12 +266,12 @@
 									"zeni": 0
 								},
 								{
-									"ai_type": "5 - 33% SA Chance | 1 SA Per Turn",
+									"ai_type": 5,
 									"attack": 33200,
 									"card_id": 1003961,
 									"defence": 4000,
 									"enemy_skill_ids": [
-										"4200-> Damage Reduction - 32%"
+										4200
 									],
 									"exp": 10000,
 									"extra_hp_gauges_count": 0,
@@ -287,13 +287,13 @@
 							],
 							[
 								{
-									"ai_type": "35 - 23% SA Chance | 1 SA Per Turn",
+									"ai_type": 35,
 									"attack": 45961,
 									"card_id": 1008641,
 									"defence": 7500,
 									"enemy_skill_ids": [
-										"4210,-> Damage Reduction - 45%"
-										"4260 -> Increases damage done to enemies - 140"
+										4210,
+										4260
 									],
 									"exp": 30000,
 									"extra_hp_gauges_count": 6,
@@ -310,7 +310,7 @@
 							[
 								{
 									"additional_drops": [],
-									"ai_type": "57 - 18% SA Chance | 1 SA Per Turn",
+									"ai_type": 57,
 									"attack": 47961,
 									"card_id": 1009981,
 									"defence": 9610,
@@ -321,8 +321,8 @@
 										"type": "AwakeningItem"
 									},
 									"enemy_skill_ids": [
-										"4220,-> Damage Reduction - 68%"
-										"4260 -> Increases damage done to enemies - 140"
+										4220,
+										4260
 									],
 									"exp": 40000,
 									"extra_hp_gauges_count": 9,
@@ -338,14 +338,14 @@
 							],
 							[
 								{
-									"ai_type": "5002 - ?(not in the AI Type Sheet)",
+									"ai_type": 5002,
 									"attack": 45000,
 									"card_id": 4013581,
 									"defence": 10000,
 									"enemy_skill_ids": [
-										"4230,-> Damage Reduction - 52%"
-										"4250,-> ATK and DEF down"
-										"4260 -> Increases damage done to enemies - 140"
+										4230,
+										4250,
+										4260
 									],
 									"exp": 0,
 									"extra_hp_gauges_count": 9,

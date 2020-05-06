@@ -1,0 +1,54 @@
+Level 2: The Supreme Super Saiyan 4!
+	Stage 1:
+		Enemy: Goku (GT)
+		Type: Super STR
+		HP: 1859000
+		Attack: 47590
+		Defence: 5900
+		Skills:
+			Damage Reduction - 45%
+			Increases damage done to enemies - 200
+		SA Chance: 19%
+		SA Per Turn: 1
+	
+	Stage 2:
+		Enemy: Super Saiyan 4 Goku
+		Type: Super STR
+		HP: 2759400
+		Attack: 51590
+		Defence: 10590
+		Skills:
+			Damage Reduction - 59%
+			Increases damage done to enemies - 200
+			Cannot be stunned
+			Disable ATK down
+		SA Chance: 15%
+		SA Per Turn: 1
+		
+	Stage 3:
+		Enemy: Super Saiyan 4 Goku
+		Type: Super AGL
+		HP: 3184000
+		Attack: 53000
+		Defence: 11590
+		Skills:
+			Damage Reduction - 59%
+			Increases damage done to enemies - 200
+			Cannot be stunned
+			Disable ATK down
+		SA Chance: 16%
+		SA Per Turn: 1
+		
+	Stage 4:
+		Enemy: Super Saiyan 4 Goku
+		Type: Super AGL
+		HP: 3594000
+		Attack: 55000
+		Defence: 13000
+		Skills:
+			amage Reduction - 63%
+			Increases damage done to enemies - 200
+			Cannot be stunned
+			Disable ATK down
+		SA Chance: 18%
+		SA Per Turn: 1

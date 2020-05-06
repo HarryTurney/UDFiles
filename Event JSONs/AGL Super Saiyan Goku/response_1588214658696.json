@@ -100,13 +100,13 @@
 						"enemies": [
 							[
 								{
-									"ai_type": "34 - 19% SA Chance | 1 SA Per Turn",
+									"ai_type": 34,
 									"attack": 47590,
 									"card_id": 9014761,
 									"defence": 5900,
 									"enemy_skill_ids": [
-										"4800,-> Damage Reduction - 49%"
-										"4860 -> Increases damage done to enemies - 170"
+										4800,
+										4860
 									],
 									"exp": 0,
 									"extra_hp_gauges_count": 4,
@@ -122,13 +122,13 @@
 							],
 							[
 								{
-									"ai_type": "40 - 20% SA Chance | 1 SA Per Turn",
+									"ai_type": 40,
 									"attack": 49590,
 									"card_id": 9014771,
 									"defence": 6590,
 									"enemy_skill_ids": [
-										"4800,-> Damage Reduction - 49%"
-										"4860 -> Increases damage done to enemies - 170"
+										4800,
+										4860
 									],
 									"exp": 0,
 									"extra_hp_gauges_count": 5,
@@ -144,13 +144,13 @@
 							],
 							[
 								{
-									"ai_type": "45 - 15% SA Chance | 1 SA Per Turn",
+									"ai_type": 45,
 									"attack": 51590,
 									"card_id": 9014781,
 									"defence": 8590,
 									"enemy_skill_ids": [
-										"4810,-> Damage Reduction - 55%"
-										"4860 -> Increases damage done to enemies - 170"
+										4810,
+										4860
 									],
 									"exp": 0,
 									"extra_hp_gauges_count": 6,
@@ -166,13 +166,13 @@
 							],
 							[
 								{
-									"ai_type": "56 - 16% SA Chance | 1 SA Per Turn",
+									"ai_type": 56,
 									"attack": 53510,
 									"card_id": 9014791,
 									"defence": 10590,
 									"enemy_skill_ids": [
-										"4820,-> Damage Reduction - 61%"
-										"4860 -> Increases damage done to enemies - 170"
+										4820,
+										4860
 									],
 									"exp": 60000,
 									"extra_hp_gauges_count": 7,
@@ -189,7 +189,7 @@
 							[
 								{
 									"additional_drops": [],
-									"ai_type": "59 - 17% SA Chance | 1 SA Per Turn",
+									"ai_type": 59,
 									"attack": 55590,
 									"card_id": 4014801,
 									"defence": 12590,
@@ -200,10 +200,10 @@
 										"type": "AwakeningItem"
 									},
 									"enemy_skill_ids": [
-										"4830,-> Damage Reduction - 65%"
-										"4840,-> Cannot be stunned"
-										"4850,-> Negate the effect that blocks Special Moves"
-										"4860 -> Increases damage done to enemies - 170"
+										4830,
+										4840,
+										4850,
+										4860
 									],
 									"exp": 60000,
 									"extra_hp_gauges_count": 9,

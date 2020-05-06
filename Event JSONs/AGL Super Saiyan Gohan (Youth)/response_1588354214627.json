@@ -185,13 +185,13 @@
 						"enemies": [
 							[
 								{
-									"ai_type": "34 - 19% SA Chance | 1 SA Per Turn",
+									"ai_type": 34,
 									"attack": 49580,
 									"card_id": 1010051,
 									"defence": 6580,
 									"enemy_skill_ids": [
-										"7100,-> Damage Reduction - 48%"
-										"7130 -> Increases damage done to enemies - 170"
+										7100,
+										7130
 									],
 									"exp": 0,
 									"extra_hp_gauges_count": 5,
@@ -207,14 +207,14 @@
 							],
 							[
 								{
-									"ai_type": "40 - 20% SA Chance | 1 SA Per Turn",
+									"ai_type": 40,
 									"attack": 51580,
 									"card_id": 9001391,
 									"defence": 8580,
 									"enemy_skill_ids": [
-										"7100,-> Damage Reduction - 48%"
-										"7130,-> Increases damage done to enemies - 170"
-										"7140 -> Cannot be stunned"
+										7100,
+										7130,
+										7140
 									],
 									"exp": 0,
 									"extra_hp_gauges_count": 6,
@@ -230,15 +230,15 @@
 							],
 							[
 								{
-									"ai_type": "56 - 16% SA Chance | 1 SA Per Turn",
+									"ai_type": 56,
 									"attack": 53580,
 									"card_id": 9017631,
 									"defence": 10580,
 									"enemy_skill_ids": [
-										"7110,-> Damage Reduction - 55%"
-										"7130,-> Increases damage done to enemies - 170"
-										"7140,-> Cannot be stunned"
-										"7150 -> Negate the effect that blocks Special Moves"
+										7110,
+										7130,
+										7140,
+										7150
 									],
 									"exp": 0,
 									"extra_hp_gauges_count": 8,
@@ -255,7 +255,7 @@
 							[
 								{
 									"additional_drops": [],
-									"ai_type": "59 - 17% SA Chance | 1 SA Per Turn",
+									"ai_type": 59,
 									"attack": 56580,
 									"card_id": 9017641,
 									"defence": 15000,
@@ -266,11 +266,11 @@
 										"type": "AwakeningItem"
 									},
 									"enemy_skill_ids": [
-										"7120,-> Damage Reduction - 62%"
-										"7130,-> Increases damage done to enemies - 170"
-										"7140,-> Cannot be stunned"
-										"7150,-> Negate the effect that blocks Special Moves"
-										"7160 -> ATK and DEF down - 135, 500, 100"
+										7120,
+										7130,
+										7140,
+										7150,
+										7160
 									],
 									"exp": 120000,
 									"extra_hp_gauges_count": 10,
