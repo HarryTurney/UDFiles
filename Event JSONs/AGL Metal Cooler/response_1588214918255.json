@@ -236,9 +236,9 @@
 									"card_id": 1015451,
 									"defence": 9500,
 									"enemy_skill_ids": [
-										"5210,-> Damage Reduction - 58%"
-										"5230,-> Increases damage done to enemies - 180"
-										"5240 -> HP recovers - 100, 2, 100"
+										5210,
+										5230,
+										5240
 									],
 									"exp": 0,
 									"extra_hp_gauges_count": 0,
