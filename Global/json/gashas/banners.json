@@ -113,20 +113,20 @@
 		{
 			"courses": [
 				{
-					"description": "{color: #FFFF00}DOKKAN\u30d5\u30a7\u30b9\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u767b\u5834\u4e2d!!{color}\n\u30ec\u30a2\u30ea\u30c6\u30a3\u300cR\u30fbSR\u30fbSSR\u300d\u306e\u4e2d\u304b\u3089\n1\u4f53\u306e\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u3092\u4ef2\u9593\u306b\u3067\u304d\u308b\u30ac\u30b7\u30e3\u3067\u3059",
+					"description": "New {color: #FFCC00}Kefla{color} arrives!\nGet a Rare or higher character with this Summon.",
 					"no": 1,
-					"title": "{color: #FF3300}D{color}{color: #FF9900}O{color}{color: #CCFF00}K{color}{color: #33FF00}K{color}{color: #00FFCC}A{color}{color: #0099FF}N{color}{color: #9966FF}\u30d5{color}{color: #9933CC}\u30a7{color}{color: #CC3366}\u30b9{color}"
+					"title": "{color: #FF3300}D{color}{color: #FF9900}O{color}{color: #CCFF00}K{color}{color: #33FF00}K{color}{color: #00FFCC}A{color}{color: #0099FF}N {color}{color: #9966FF}F{color}{color: #9933CC}E{color}{color: #CC3366}S{color}{color: #CC3340}T{color}"
 				},
 				{
-					"description": "{color: #FFFF00}DOKKAN\u30d5\u30a7\u30b9\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u767b\u5834\u4e2d!!{color}\n\u30ec\u30a2\u30ea\u30c6\u30a3\u300cR\u30fbSR\u30fbSSR\u300d\u306e\u4e2d\u304b\u3089\n10\u4f53\u306e\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u3092\u4ef2\u9593\u306b\u3067\u304d\u308b\u30ac\u30b7\u30e3\u3067\u3059",
+					"description": "New {color: #FFCC00}Kefla{color} arrives!\nGet a Rare or higher character with this Summon.",
 					"no": 2,
-					"title": "{color: #FF3300}D{color}{color: #FF9900}O{color}{color: #CCFF00}K{color}{color: #33FF00}K{color}{color: #00FFCC}A{color}{color: #0099FF}N{color}{color: #9966FF}\u30d5{color}{color: #9933CC}\u30a7{color}{color: #CC3366}\u30b9{color}"
+					"title": "{color: #FF3300}D{color}{color: #FF9900}O{color}{color: #CCFF00}K{color}{color: #33FF00}K{color}{color: #00FFCC}A{color}{color: #0099FF}N {color}{color: #9966FF}F{color}{color: #9933CC}E{color}{color: #CC3366}S{color}{color: #CC3340}T{color}"
 				}
 			],
 			"current_step": 1,
-			"description": "{center: begin}{color: #FF3399}DOKKAN\u30d5\u30a7\u30b9{color}\u306b{color: #FF0000}\u30b1\u30d5\u30e9{color}\u304c\u767b\u5834!!\n\u9023\u7d9a\u30ac\u30b7\u30e3\u306f{color: #FFFF00}SSR\u30ad\u30e3\u30e9\u30af\u30bf\u30fc{color}\u304c{color: #FFFF00}\u300c\u5fc5\u305a1\u4f53\u300d\u767b\u5834!!{color}{center}",
+			"description": "description": "{center:begin}Dokkan Festival! New {color: #FFCC00}Kefla{color} arrives!\nOne SSR character guaranteed per Multi-Summon!{center}",
 			"id": 747,
-			"name": "DOKKAN\u30d5\u30a7\u30b9"
+			"Dokkan Festival [Kefla]"
 		},
 		{
 			"courses": [
