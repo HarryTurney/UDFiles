@@ -679,6 +679,15 @@
                 }
             ]
         },
+        {
+            "id": 202,
+            "quests":[
+                {
+                    "id": 202001,
+                    "name": "Team Bardock's Trial"
+                }
+            ]
+        },
 		{
 			"id": 305,
             "banner_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_banner/quest_list_banner_305.png",
