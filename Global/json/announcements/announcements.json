@@ -1,0 +1,50 @@
+{
+	"announcements":[
+        {
+            "id": 100011,
+            "summary": "",
+            "title": "What Is Baba's Shop?",
+            "bodies": [
+                {
+                    "description": "\r\nFind must-have items here!\r\n{size:30}{color : #9966FF}Trade with Baba!{color}{size}\r\n\r\nYou can use {color: #FFFF00}Trade Pts.{color}, {color: #FFFF00}Zeni{color} or {color: #FFFF00}Treasure Items{color}\r\nto trade for items at \"Baba's Shop\".\r\n\r\n{size: 24}{color: #FFFF00}{outline: #FF0000, 2}= Trade Pts. ={size}{color}{outline}\r\n",
+                    "image": null,
+                },
+                {
+                    "description": "\r\n- Items that can be exchanged with Trade Pts. will be updated\r\nafter a certain period of time, or can be updated immediately\r\nby consuming a Dragon Stone.\r\n\r\n- The items up for trade are selected randomly.\r\n\r\n- Initially, only a few items are available for trade. \r\nUse Trade Pts. to unlock more item slots. \r\nThe more item slots unlocked, the higher \r\nthe chance for you to find the items you're after!\r\n\r\n- There is a rare chance of finding precious items \r\nor discounts!\r\n\r\n{size: 24}{color: #FFFF00}{outline: #FF0000, 2}= How to Earn Trade Pts. ={size}{color}{outline}\r\n\r\n- Characters or items can be exchanged for Trade Pts.",
+                    "image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/100011/7_1_en.png",
+                },
+                {
+                    "description": "-  The amount of Trade Pts. you get from exchanges \r\ndepends on the characters or items you offer.\r\nIn addition, please be aware that {color:\u00a0#FF3333}characters or items\r\ncannot be retrieved once they are exchanged{color}.\r\n\r\n- Please note that Baba won't accept all items.",
+                    "image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/100011/7_2_1_en.png",
+                },
+                {
+                    "description": "{size: 24}{color: #FFFF00}{outline: #FF0000, 2}= Use Zeni to Trade ={size}{color}{outline}\r\n\r\n- There are also items than can be purchased with Zeni \r\nat Baba's Shop.\r\n\r\n- After you purchase a certain item with Zeni, it will be \r\nrestocked after a certain period of time.\r\n\r\n- The items that can be purchased with Zeni rarely change.\r\n",
+                    "image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/100011/7_2_2_en.png",
+                },
+                {
+                    "description": "\r\n{size: 24}{color: #FFFF00}{outline: #FF0000, 2}= Use Treasure Items to Trade ={size}{color}{outline}\r\n\r\n- There are also items that can be exchanged with \r\nTreasure Items at Baba's Shop.\r\n\r\n- Treasure Items can be obtained from the maps of \r\nstages after Area 16, \"Reunited\", in \"Quest\"\r\nor from certain events.",
+                    "image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/100011/7_3_en.png",
+                },
+                {
+                    "description": "- Certain items that can be exchanged with \r\nTreasure Items are only available for a limited time.\r\n\r\n- New Treasure Items can be added at any time.\r\n\r\n- You can switch between different Treasures by swiping\r\nleft or right under the \"Treasure\" tab at Baba's Shop.\r\n",
+                    "image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/100011/7_4_en.png",
+                },
+                {
+                    "description": "\r\n{size: 24}{color: #FFFF00}{outline: #FF0000, 2}= Tips on Baba's Shop ={size}{color}{outline}\r\n\r\n- Baba's Shop is a place where you can\r\nexchange things you don't need for Trade Pts.\r\nthen purchase things you do want with the points!\r\n\r\n- If you happen to collect more Awakening Medals or items\r\nthan you need, exchange them for Trade Pts. at Baba's Shop.\r\n\r\n- Try your luck at Baba's Shop if you miss your chance\r\nto collect certain Awakening Medals in events.\r\nThey might appear in Baba's Shop for trade.\r\nKeep an eye on the update timer for new stock!\r\n\r\n- The more slots you unlock in Baba's Shop,\r\nthe higher the probability you will find the items you need!\r\n\r\n{color:\u00a0#FF3333}* Please note that the pricing in Zeni and Trade Pts. are\r\nsubject to change without prior warning.{color}\r\n",
+                    "image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/100011/EN_news_banner_ver4.6.0_C.png",
+                }
+            ]
+        },
+        {
+            "id": 200539,
+            "summary": "",
+            "title": "Limited event \nAwakening power! Trials in new areas",
+            "bodies": [
+                {
+                    "description": "{center:begin}{color: #FFFF00}{outline: #FF0000, 2}▼ Characters that must be used{outline}{color}{center}\r\n{relatedCharacterListBtn:card_id:1019170,1019200,1019090,1019240,1019220,1019101}\r\n{size:20}*You can check the required character \r\n from the \"Character\" button. \r\n *The list of the following characters \r\nmust unlock all potential. \r\n・[Infinite Power] Borgos\r\n・[Total Invasion] Tora\r\n・[Cunning Moves] Fasha\r\n [Battle-Hardened Hero] Bardock\r\n [Ruffian's Strike] Shugesh{size}",
+                    "layout_type": 2
+                }
+            ]
+        }
+    ]
+}
