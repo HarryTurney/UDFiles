@@ -1,0 +1,49 @@
+{
+	"steps": [
+		{
+			"gasha_rates": {
+				"id": 1195,
+				"name": "Normal"
+			},
+			"name": "1-3 Times",
+			"note": "*\"SSR Character\" is guarabteed to appear in Summon #10 of a Multi-Summon\nPlease refer to \"SSR Guaranteed Summon\" for the rates",
+			"special_gashas": [
+				{
+					"id": 1196,
+					"items_name": "SSR character",
+					"name": "SSR confirmed (dragon stone discount)"
+				}
+			]
+		},
+		{
+			"gasha_rates": {
+				"id": 1197,
+				"name": "Normal",
+			},
+			"name": "4th time and later",
+			"note": "*\"SSR Character\" is guarabteed to appear in Summon #10 of a Multi-Summon\nPlease refer to \"SSR Guaranteed Summon\" for the rates",
+			"special_gashas": [
+				{
+					"id": 1198,
+					"items_name": "SSR character",
+					"name": "SSR confirmed"
+
+				}
+			]
+		},
+		{
+			"gasha_rates": {
+				"id": 1193,
+				"name": "Normal",
+			},
+			"note": "*\"SSR Character\" is guarabteed to appear in Summon #10 of a Multi-Summon\nPlease refer to \"SSR Guaranteed Summon\" for the rates",
+			"special_gashas": [
+				{
+					"id": 1194,
+					"items_name": "SSR character",
+					"name": "SSR confirmed"
+				}
+			]
+		}
+	]
+}
