@@ -83,13 +83,13 @@
 					"price": 5,
 					"description": "Get a Rare or higher character with this Summon.",
 					"no": 1,
-					"title": "{color: #FFCC00}\"Rapid Growth\"{color} {color: #FFFF99}Summon{color}"
+					"title": "{color: #FFCC00}\"Rapid Growth\"{color}\n{color: #FFFF99}Summon{color}"
 				},
 				{
 					"price": 30,
 					"description": "{color : #FFFF00}3 times only! 30 Dragon Stones for a Multi-Summon!{color}\n{color : #FFFF00}One featured SSR character{color} guaranteed!\nGet 10 Rare or higher characters with this Summon.",
 					"no": 2,
-					"title": "\n{color: #FFCC00}\"Rapid Growth\"{color} {color: #FFFF99}Summon{color}"
+					"title": "{color: #FFCC00}\"Rapid Growth\"{color}\n{color: #FFFF99}Summon{color}"
 				},
 				{
 					"price": 50,
@@ -109,19 +109,19 @@
 					"price": 5,
 					"description": "Get a Rare or higher character with this Summon.",
 					"no": 1,
-					"title": "{color: #FFCC00}\"Vegeta Family\"{color} {color: #FFFF99}Summon{color}"
+					"title": "{color: #FFCC00}\"Vegeta Family\"{color}\n {color: #FFFF99}Summon{color}"
 				},
 				{
 					"price": 30,
 					"description": "{color : #FFFF00}3 times only! 30 Dragon Stones for a Multi-Summon!{color}\n{color : #FFFF00}One featured SSR character{color} guaranteed!\nGet 10 Rare or higher characters with this Summon.",
 					"no": 2,
-					"title": "{color: #FFCC00}\"Vegeta Family\"{color} {color: #FFFF99}Summon{color}"
+					"title": "{color: #FFCC00}\"Vegeta Family\"{color}\n {color: #FFFF99}Summon{color}"
 				},
 				{
 					"price": 50,
 					"description": "{color : #FFFF00}One featured SSR character{color} guaranteed!\nGet 10 Rare or higher characters with this summmon.",
 					"no": 2,
-					"title": "{color: #FFCC00}\"Vegeta Family\"{color}\n{color: #FFFF99}Summon{color}"
+					"title": "{color: #FFCC00}\"Vegeta Family\"{color}\n {color: #FFFF99}Summon{color}"
 				}
 			],
 			"current_step": 1,
