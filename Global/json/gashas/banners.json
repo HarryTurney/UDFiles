@@ -87,13 +87,7 @@
 				},
 				{
 					"price": 30,
-					"description": "{color : #FFFF00}3 times only! 30 Dragon Stones for a Multi-Summon!{color}\n{color : #FFFF00}One featured SSR character{color} guaranteed!\nGet 10 Rare or higher characters with this Summon.",
-					"no": 2,
-					"title": "{color: #FFCC00}\"Rapid Growth\"{color}\n{color: #FFFF99}Summon{color}"
-				},
-				{
-					"price": 50,
-					"description": "{color : #FFFF00}One featured SSR character{color} guaranteed!\nGet 10 Rare or higher characters with this summmon.",
+					"description": "{color : #FFFF00}3 times only! 30 Dragon Stones for a Multi-Summon!{color}\n{color : #FFFF00}One featured SSR character{color} guaranteed!\nGet 10 Rare or higher characters with this Summon.!",
 					"no": 2,
 					"title": "{color: #FFCC00}\"Rapid Growth\"{color}\n{color: #FFFF99}Summon{color}"
 				}
@@ -101,7 +95,7 @@
 			"description": "{center:begin}Characters related to the\n{color: #4B76F2}\"Rapid Growth\" Category{color} assemble!{center}",
 			"end_at": 1592294399,
 			"id": 748,
-			"name": "Category Summon [Vegeta Family]"
+			"name": "Category Summon [Rapid Growth]"
 		},
 		{
 			"courses": [
