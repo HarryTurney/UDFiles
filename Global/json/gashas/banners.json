@@ -3,127 +3,147 @@
 		{
 			"courses": [
 				{
+					"price": 200,
 					"description": "Use Friend Points to obtain a character!",
 					"no": 1,
 					"title": "{color: #FFFF00}Friend Summon{color}"
 				},
 				{
+					"price": 2000,
 					"description": "One {color : #FFFF00}Hercule Statue{color} or {color : #FFFF00}Z-Awakened character{color} guaranteed!\nGet 10 characters with this Summon.",
 					"no": 2,
 					"title": "{color: #FFFF00}Friend Summon{color}"
 				}
 			],
 			"description": "{center:begin}{color: #FFCC00}Great Saiyaman 1 & 2{color} that can be awakened into an {color : #FF0000}LR{color} is here!\nOne {color : #FFFF00}Z-Awakened character{color} or {color : #FFFF00}Hercule Statue{color} \nguaranteed per Multi-Summon!{center}",
-			"end_at": 1893456000,
 			"id": 454,
 			"name": "Friend Summon"
 		},
 		{
 			"courses": [
 				{
-					"description": "\u8001\u754c\u738b\u795e\u3092\u5fc5\u305a\u7372\u5f97\u3067\u304d\u308b\u30ac\u30b7\u30e3\u3067\u3059\n{color: #FF0000}\u203b\u767b\u5834\u3059\u308b\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u306f\u8001\u754c\u738b\u795e\u306e\u307f\u3068\u306a\u308a\u307e\u3059{color}",
+					"price": 5,
+					"description": "{color : #FFFF00}2 times only!{color} \"Mysterious Ritual\" Summon!\nPerform a Multi-Summon to get {color : #FFFF00}10 Elder Kai{color}!\n*The available character in this Summon Event is {color : #FFFF00}Elder Kai{color} only.",
 					"no": 1,
-					"title": "t{color: #FF99FF}\u4e0d{color}{color: #FF9966}\u601d{color}{color: #FFFF00}\u8b70{color}{color: #99FF00}\u306a{color}{color: #00FF99}\u5100{color}{color: #33FFFF}\u5f0f{color}{color: #CC0000}\u30ac\u30b7\u30e3{color}"
+					"title": "{color : #FFFF00}\"Mysterious Ritual\" Summon{color}"
 				},
 				{
-					"description": "{color: #FF0000}1\u56de\u9650\u5b9a!!{color}\n{color: #FFFF00}\u8001\u754c\u738b\u795e\u3092\u5fc5\u305a10\u4f53\u7372\u5f97\u3067\u304d\u308b\u30ac\u30b7\u30e3\u3067\u3059{color}\n{color: #FF0000}\u203b\u767b\u5834\u3059\u308b\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u306f\u8001\u754c\u738b\u795e\u306e\u307f\u3068\u306a\u308a\u307e\u3059{color}",
+					"price": 50,
+					"description": "{color : #FFFF00}2 times only!{color} \"Mysterious Ritual\" Summon!\nPerform a Multi-Summon to get {color : #FFFF00}10 Elder Kai{color}!\n*The available character in this Summon Event is {color : #FFFF00}Elder Kai{color} only.",
 					"no": 2,
-					"title": "{color: #FF99FF}\u4e0d{color}{color: #FF9966}\u601d{color}{color: #FFFF00}\u8b70{color}{color: #99FF00}\u306a{color}{color: #00FF99}\u5100{color}{color: #33FFFF}\u5f0f{color}{color: #CC0000}\u30ac\u30b7\u30e3{color}"
+					"title": "{color : #FFFF00}\"Mysterious Ritual\" Summon{color}"
 				}
 			],
-			"current_step": 1,
-			"description": "{center: begin}\u30d5\u30f3\u30d5\u30f3 \u30d5\u30fc\u30fc\u30f3\u266a \u30d5\u30d5\u30fc\u30f3 \u30d5\u30fc\u30fc\u30f3\u266a\n{color: #FFFF00}\u4e0d\u601d\u8b70\u306a\u5100\u5f0f\u30ac\u30b7\u30e3\u958b\u50ac\u4e2d!!{color}{center}",
+			"description": "{center:begin}{color : #FFFF00}2 times only!{color} \"Mysterious Ritual\" Summon!\nUse {color : #FFFF00}50 Dragon Stones{color} to get {color : #FFFF00}10 Elder Kai{color}!{center}",
 			"id": 750,
-			"name": "\u4e0d\u601d\u8b70\u306a\u5100\u5f0f\u30ac\u30b7\u30e3"
+			"name": "\"Mysterious Ritual\" Summon"
 		},
 		{
 			"courses": [
 				{
-					"description": "{color: #FFFF00}DOKKAN\u30d5\u30a7\u30b9\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u767b\u5834\u4e2d!!{color}\n\u30ec\u30a2\u30ea\u30c6\u30a3\u300cR\u30fbSR\u30fbSSR\u300d\u306e\u4e2d\u304b\u3089\n1\u4f53\u306e\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u3092\u4ef2\u9593\u306b\u3067\u304d\u308b\u30ac\u30b7\u30e3\u3067\u3059",
+					"price": 5,
+					"description": "Get a Rare or higher character with this Summon.",
 					"no": 1,
-					"title": "{color: #FF9900}\u6975\u9650{color}{color: #FF3300}D{color}{color: #FF9900}O{color}{color: #CCFF00}K{color}{color: #33FF00}K{color}{color: #00FFCC}A{color}{color: #0099FF}N{color}{color: #9966FF}\u30d5{color}{color: #9933CC}\u30a7{color}{color: #CC3366}\u30b9{color}"
+					"title": "{color: #FF9900}Extreme Z{color} {color : #FF3300}D{color}{color : #FF9900}O{color}{color : #CCFF00}K{color}{color : #33FF00}K{color}{color : #00FFCC}A{color}{color : #0099FF}N{color} {color : #FFFF00}FESTIVAL{color}"
 				},
 				{
-					"description": "{color: #FFFF00}DOKKAN\u30d5\u30a7\u30b9\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u767b\u5834\u4e2d!!{color}\n\u30ec\u30a2\u30ea\u30c6\u30a3\u300cR\u30fbSR\u30fbSSR\u300d\u306e\u4e2d\u304b\u3089\n10\u4f53\u306e\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u3092\u4ef2\u9593\u306b\u3067\u304d\u308b\u30ac\u30b7\u30e3\u3067\u3059",
+					"price": 50,
+					"description": "{color : #FFFF00}One SSR character guaranteed!{color}\nGet 10 Rare or higher characters with this Summon.",
 					"no": 2,
-					"title": "{color: #FF9900}\u6975\u9650{color}{color: #FF3300}D{color}{color: #FF9900}O{color}{color: #CCFF00}K{color}{color: #33FF00}K{color}{color: #00FFCC}A{color}{color: #0099FF}N{color}{color: #9966FF}\u30d5{color}{color: #9933CC}\u30a7{color}{color: #CC3366}\u30b9{color}"
+					"title": "{color: #FF9900}Extreme Z{color} {color : #FF3300}D{color}{color : #FF9900}O{color}{color : #CCFF00}K{color}{color : #33FF00}K{color}{color : #00FFCC}A{color}{color : #0099FF}N{color} {color : #FFFF00}FESTIVAL{color}"
 				}
 			],
-			"current_step": 1,
-			"description": "{center: begin}{color: #FF9900}\u6975\u9650{color}{color: #FF3300}DOKKAN{color}{color: #FFEE00}\u30d5\u30a7\u30b9{color}\u958b\u50ac\u4e2d!! {color: #FF0000}\u8d85\u5f37\u529b{color}\u306b\u899a\u9192\u3059\u308b\n{color: #00CCFF}\u30b4\u30af\u30a6\u30d6\u30e9\u30c3\u30af(\u8d85\u30b5\u30a4\u30e4\u4eba\u30ed\u30bc){color}\u3092\u4ef2\u9593\u306b!!{center}",
+			"description": "{center:begin}{color : #FF9900}Extreme Z{color} {color : #FFFF00}Dokkan Festival{color} is now on!\nGrab the chance to recruit {color: #00CCFF}Goku Black (Super Saiyan Rosé){color}\nwho can be Extreme Z-Awakened!{center}",
 			"id": 751,
-			"name": "\u6975\u9650DOKKAN\u30d5\u30a7\u30b9"
+			"name": "Extreme Z Dokkan Festival [Goku Black (Super Saiyan Rosé)]"
 		},
 		{
 			"courses": [
 				{
-					"description": "{color: #FFCC00}\u4f53\u5c5e\u6027{color}\u306e\u307f\u304c{color: #FFA500}Lv{color} {color: #FFFF00}Max{color}\u3067\u767b\u5834\n\u30ec\u30a2\u30ea\u30c6\u30a3\u300cR\u30fbSR\u30fbSSR\u300d\u306e\u4e2d\u304b\u3089\n1\u4f53\u306e\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u3092\u4ef2\u9593\u306b\u3067\u304d\u308b\u30ac\u30b7\u30e3\u3067\u3059",
+					"price": 5,
+					"description": "A great chance to get {color: #FFCC00}PHY{color} characters at {color : #FFFF00}MAX LEVEL{color}!\nGet a Rare or higher character with this Summon.",
 					"no": 1,
-					"title": "{color: #FFCC00}\u4f53\u5c5e\u6027\u30ac\u30b7\u30e3{color}"
+					"title": "{color: #FFCC00}PHY Type Summon{color}"
 				},
 				{
-					"description": "{color: #FFFF00}\u8001\u754c\u738b\u795e1\u4f53\u304a\u307e\u3051\u4ed8\u304d!!{color}{color: #FFCC00}\u4f53\u5c5e\u6027{color}\u306e\u307f\u304c{color: #FFA500}Lv{color} {color: #FFFF00}Max{color}\u3067\u767b\u5834\n\u30ec\u30a2\u30ea\u30c6\u30a3\u300cR\u30fbSR\u30fbSSR\u300d\u306e\u4e2d\u304b\u3089\n10\u4f53\u306e\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u3092\u4ef2\u9593\u306b\u3067\u304d\u308b\u30ac\u30b7\u30e3\u3067\u3059",
+					"price": 50,
+					"description": "A great chance to get {color: #FFCC00}PHY{color} characters at {color : #FFFF00}MAX LEVEL{color}!\n{color : #FFFF00}One SSR character{color} guaranteed!",
 					"no": 2,
-					"title": "{color: #FFCC00}\u4f53\u5c5e\u6027\u30ac\u30b7\u30e3{color}"
+					"title": "{color: #FFCC00}PHY Type Summon{color}"
 
 				}
 			],
-			"current_step": 1,
-			"description": "{center: begin}{color: #FFCC00}\u5b6b\u609f\u98ef(\u9752\u5e74\u671f){color}\u30fb{color: #FFCC00}\u9b54\u4eba\u30d6\u30a6(\u60aa){color}\u304c{color: #FFFF00}\u30c9\u30c3\u30ab\u30f3\u899a\u9192!!{color}\n\u9023\u7d9a\u30ac\u30b7\u30e3\u306f{color: #FFCC33}\u8001\u754c\u738b\u795e{color}\u304c{color: #FFFF00}1\u4f53{color}\u304a\u307e\u3051\u3067\u3064\u3044\u3066\u304f\u308b!!{center}",
+			"description": "{center:begin}Summon {color: #FFCC00}Tien{color} and {color: #FFCC00}Cell (2nd Form){color},\nwho can both be {color : #FFFF00}Dokkan Awakened{color}!\nPerform a Multi-Summon to get {color: #CC66FF}Elder Kai{color}!{center}",
 			"id": 754,
-			"name": "TESTTESTTESTTESTTEST\u4f53\u5c5e\u6027\u30ac\u30b7\u30e3"
+			"name": "PHY Character-Exclusive Summon"
 		},
 		{
 			"courses": [
 				{
-					"description": "\u30ec\u30a2\u30ea\u30c6\u30a3\u300cR\u30fbSR\u30fbSSR\u300d\u306e\u4e2d\u304b\u3089\n1\u4f53\u306e\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u3092\u4ef2\u9593\u306b\u3067\u304d\u308b\u30ac\u30b7\u30e3\u3067\u3059",
+					"price": 5,
+					"description": "Get a Rare or higher character with this Summon.",
 					"no": 1,
-					"title": "{color: #33FF00}\u30ab\u30c6\u30b4\u30ea\u30ac\u30b7\u30e3{color}"
+					"title": "{color: #FFCC00}\"Vegeta Family\"{color}\n{color: #FFFF99}Summon{color}"
 				},
 				{
-					"description": "{color: #FF0000}3\u56de\u9650\u5b9a!!\u9f8d\u77f3\u5272\u5f15!!{color}\n\u30ec\u30a2\u30ea\u30c6\u30a3\u300cR\u30fbSR\u30fbSSR\u300d\u306e\u4e2d\u304b\u3089\n10\u4f53\u306e\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u3092\u4ef2\u9593\u306b\u3067\u304d\u308b\u30ac\u30b7\u30e3\u3067\u3059",
+					"price": 30,
+					"description": "{color : #FFFF00}3 times only! 30 Dragon Stones for a Multi-Summon!{color}\n{color : #FFFF00}One featured SSR character{color} guaranteed!\nGet 10 Rare or higher characters with this Summon.",
 					"no": 2,
-					"title": "{color: #33FF00}\u30ab\u30c6\u30b4\u30ea\u30ac\u30b7\u30e3{color}"
+					"title": "{color: #FFCC00}\"Rapid Growth\"{color}\n{color: #FFFF99}Summon{color}"
+				},
+				{
+					"price": 50,
+					"description": "{color : #FFFF00}One featured SSR character{color} guaranteed!\nGet 10 Rare or higher characters with this summmon.",
+					"no": 2,
+					"title": "{color: #FFCC00}\"Rapid Growth\"{color}\n{color: #FFFF99}Summon{color}"
 				}
 			],
-			"current_step": 1,
-			"description": "{center: begin}{color: #FFCC00}\u6025\u6fc0\u306a\u6210\u9577{color}{color: #33FF00}\u30ab\u30c6\u30b4\u30ea\u30ac\u30b7\u30e3{color}\u958b\u50ac\u4e2d!!\n\u9023\u7d9a\u30ac\u30b7\u30e3\u306f{color: #FFFF00}\u30d4\u30c3\u30af\u30a2\u30c3\u30d7SSR\u304c\u300c\u5fc5\u305a1\u4f53\u300d\u767b\u5834!!{color}{center}",
+			"description": "{center:begin}Characters related to the\n{color: #4B76F2}\"Rapid Growth\" Category{color} assemble!{center}",
 			"end_at": 1592294399,
 			"id": 748,
-			"name": "\u30ab\u30c6\u30b4\u30ea\u30ac\u30b7\u30e3\n[\u6025\u6fc0\u306a\u6210\u9577]"
+			"name": "Category Summon [Vegeta Family]"
 		},
 		{
 			"courses": [
 				{
-					"description": "\u30ec\u30a2\u30ea\u30c6\u30a3\u300cR\u30fbSR\u30fbSSR\u300d\u306e\u4e2d\u304b\u3089\n1\u4f53\u306e\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u3092\u4ef2\u9593\u306b\u3067\u304d\u308b\u30ac\u30b7\u30e3\u3067\u3059",
+					"price": 5,
+					"description": "Get a Rare or higher character with this Summon.",
 					"no": 1,
-					"title": "{color: #00CCFF}\u30ab\u30c6\u30b4\u30ea\u30ac\u30b7\u30e3{color}"
+					"title": "{color: #FFCC00}\"Vegeta Family\"{color}\n{color: #FFFF99}Summon{color}"
 				},
 				{
-					"description": "{color: #FF0000}3\u56de\u9650\u5b9a!!\u9f8d\u77f3\u5272\u5f15!!{color}\n\u30ec\u30a2\u30ea\u30c6\u30a3\u300cR\u30fbSR\u30fbSSR\u300d\u306e\u4e2d\u304b\u3089\n10\u4f53\u306e\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u3092\u4ef2\u9593\u306b\u3067\u304d\u308b\u30ac\u30b7\u30e3\u3067\u3059",
+					"price": 30,
+					"description": "{color : #FFFF00}3 times only! 30 Dragon Stones for a Multi-Summon!{color}\n{color : #FFFF00}One featured SSR character{color} guaranteed!\nGet 10 Rare or higher characters with this Summon.",
 					"no": 2,
-					"title": "{color: #00CCFF}\u30ab\u30c6\u30b4\u30ea\u30ac\u30b7\u30e3{color}"
+					"title": "{color: #FFCC00}\"Vegeta Family\"{color}\n{color: #FFFF99}Summon{color}"
+				},
+				{
+					"price": 50,
+					"description": "{color : #FFFF00}One featured SSR character{color} guaranteed!\nGet 10 Rare or higher characters with this summmon.",
+					"no": 2,
+					"title": "{color: #FFCC00}\"Vegeta Family\"{color}\n{color: #FFFF99}Summon{color}"
 				}
 			],
 			"current_step": 1,
-			"description": "{center: begin}{color: #FFCC33}\u30d9\u30b8\u30fc\u30bf\u306e\u7cfb\u8b5c{color}{color: #00CCFF}\u30ab\u30c6\u30b4\u30ea\u30ac\u30b7\u30e3{color}\u958b\u50ac\u4e2d!!\n\u9023\u7d9a\u30ac\u30b7\u30e3\u306f{color: #FFFF00}\u30d4\u30c3\u30af\u30a2\u30c3\u30d7SSR\u304c\u300c\u5fc5\u305a1\u4f53\u300d\u767b\u5834!!{color}{center}",
+			"description": "{center:begin}Characters related to the\n{color: #4B76F2}\"Vegeta Family\" Category{color} assemble!{center}",
 			"id": 752,
-			"name": "\u30ab\u30c6\u30b4\u30ea\u30ac\u30b7\u30e3\n[\u30d9\u30b8\u30fc\u30bf\u306e\u7cfb\u8b5c]"
+			"name": "Category Summon [Vegeta Family]"
 		},
 		{
 			"courses": [
 				{
+					"price": 5,
 					"description": "New {color: #FFCC00} Kefla{color} arrives!\nGet a Rare or higher character with this Summon.",
 					"no": 1,
 					"title": "{color: #FF3300}D{color}{color: #FF9900}O{color}{color: #CCFF00}K{color}{color: #33FF00}K{color}{color: #00FFCC}A{color}{color: #0099FF}N {color}{color: #9966FF} F{color}{color: #9933CC}E{color}{color: #CC3366}S{color}{color: #CC3340}T{color}"
 				},
 				{
+					"price": 30,
 					"description": "New {color: #FFCC00}Kefla{color} arrives!\nGet a Rare or higher character with this Summon.",
 					"no": 2,
 					"title": "{color: #FF3300}D{color}{color: #FF9900}O{color}{color: #CCFF00}K{color}{color: #33FF00}K{color}{color: #00FFCC}A{color}{color: #0099FF}N {color}{color: #9966FF} F{color}{color: #9933CC}E{color}{color: #CC3366}S{color}{color: #CC3340}T{color}"
 				}
 			],
-			"current_step": 1,
 			"description":"{center:begin}Dokkan Festival! New {color: #FFCC00}Kefla{color} arrives!\nOne SSR character guaranteed per Multi-Summon!{center}",
 			"id": 747,
 			"name": "Dokkan Festival [Kefla]"
@@ -131,17 +151,18 @@
 		{
 			"courses": [
 				{
-					"description": "FESTIVAL Summon an SSR character now!",
+					"price": 5,
+					"description": "Summon an SSR character now!",
 					"no": 1,
 					"title": "{color : #FFFF00}Summon Sprint!{color}"
 				},
 				{
-					"description": "FESTIVAL Summon an SSR character now!",
+					"price": 50,
+					"description": "Summon an SSR character now!",
 					"no": 2,
 					"title": "{color : #FFFF00}Summon Sprint!{color}"
 				}
 			],
-			"current_step": 1,
 			"description": "{center:begin}A special Summon for new players only!\nSummon an {color: #FFCC00} SSR Character{color} now!{center}",
 			"id": 76,
 			"name": "Summon Sprint"
