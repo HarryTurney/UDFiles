@@ -9,7 +9,7 @@
 		{
 			"gasha_rates": {
 				"id": 662,
-				"name": "\u901a\u5e38"
+				"name": "TEST\u901a\u5e38"
 			},
 			"note": "\u203b\u51fa\u73fe\u78ba\u7387\u306f\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u6bce\u306b\u7570\u306a\u308a\u307e\u3059\u3002\n\u203b\u5404\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u306f\u91cd\u8907\u3057\u3066\u51fa\u73fe\u3059\u308b\u5834\u5408\u304c\u3042\u308a\u307e\u3059\u3002",
 			"special_gashas": [
@@ -89,7 +89,7 @@
 				{
 					"id": 1203,
 					"items_name": "SSR\u30ad\u30e3\u30e9\u30af\u30bf\u30fc",
-					"name": "SSR\u78ba\u5b9a(\u9f8d\u77f3\u5272\u5f15)"
+					"name": "TESTSSR\u78ba\u5b9a(\u9f8d\u77f3\u5272\u5f15)"
 				}
 			]
 		},
