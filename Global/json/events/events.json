@@ -4361,7 +4361,8 @@
             "recommend":{
                 "description": "For Advanced Users!"
             }
-        },{ "id": 601,
+        },
+        { "id": 601,
             "banner_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_banner/quest_list_banner_601.png",
             "event_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_header/quest_top_banner_601_1.png",
             "minibanner_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_banner/quest_event_banner_601.png",
