@@ -113,14 +113,14 @@
 		{
 			"courses": [
 				{
-					"description": "New {color: #FFCC00}Kefla{color} arrives!\nGet a Rare or higher character with this Summon.",
+					"description": "New {color: #FFCC00} Kefla{color} arrives!\nGet a Rare or higher character with this Summon.",
 					"no": 1,
-					"title": "{color: #FF3300}D{color}{color: #FF9900}O{color}{color: #CCFF00}K{color}{color: #33FF00}K{color}{color: #00FFCC}A{color}{color: #0099FF}N {color}{color: #9966FF}F{color}{color: #9933CC}E{color}{color: #CC3366}S{color}{color: #CC3340}T{color}"
+					"title": "{color: #FF3300}D{color}{color: #FF9900}O{color}{color: #CCFF00}K{color}{color: #33FF00}K{color}{color: #00FFCC}A{color}{color: #0099FF}N {color}{color: #9966FF} F{color}{color: #9933CC}E{color}{color: #CC3366}S{color}{color: #CC3340}T{color}"
 				},
 				{
 					"description": "New {color: #FFCC00}Kefla{color} arrives!\nGet a Rare or higher character with this Summon.",
 					"no": 2,
-					"title": "{color: #FF3300}D{color}{color: #FF9900}O{color}{color: #CCFF00}K{color}{color: #33FF00}K{color}{color: #00FFCC}A{color}{color: #0099FF}N {color}{color: #9966FF}F{color}{color: #9933CC}E{color}{color: #CC3366}S{color}{color: #CC3340}T{color}"
+					"title": "{color: #FF3300}D{color}{color: #FF9900}O{color}{color: #CCFF00}K{color}{color: #33FF00}K{color}{color: #00FFCC}A{color}{color: #0099FF}N {color}{color: #9966FF} F{color}{color: #9933CC}E{color}{color: #CC3366}S{color}{color: #CC3340}T{color}"
 				}
 			],
 			"current_step": 1,
@@ -131,20 +131,20 @@
 		{
 			"courses": [
 				{
-					"description": "\u3000\u521d\u5fc3\u8005\u5fdc\u63f4\u306e\u7279\u5225\u306a\u30ac\u30b7\u30e3!!SSR\u78ba\u5b9a!!",
+					"description": "FESTIVAL Summon an SSR character now!",
 					"no": 1,
-					"title": "{color : #FFFF00}\u30b9\u30bf\u30fc\u30c8\u30c0\u30c3\u30b7\u30e5\u30ac\u30b7\u30e3!!{color}"
+					"title": "{color : #FFFF00}Summon Sprint!{color}"
 				},
 				{
-					"description": "{color : #FFFF00}\u30b9\u30bf\u30fc\u30c8\u30c0\u30c3\u30b7\u30e5\u30ac\u30b7\u30e3!!{color}\n\u3000\u521d\u5fc3\u8005\u5fdc\u63f4\u306e\u7279\u5225\u306a\u30ac\u30b7\u30e3!!SSR\u78ba\u5b9a!!",
+					"description": "FESTIVAL Summon an SSR character now!",
 					"no": 2,
-					"title": "{color : #FFFF00}\u8d85\u30b5\u30a4\u30e4\u4eba\u30d5\u30a7\u30b9!!{color}"
+					"title": "{color : #FFFF00}Summon Sprint!{color}"
 				}
 			],
 			"current_step": 1,
-			"description": "\u3000\u3000\u3000\u3000\u3000\u3000\u3000{color : #FFFF00}\u30b9\u30bf\u30fc\u30c8\u30c0\u30c3\u30b7\u30e5\u30ac\u30b7\u30e3!!{color}\n\u3000\u521d\u5fc3\u8005\u5fdc\u63f4\u306e\u7279\u5225\u306a\u30ac\u30b7\u30e3!!SSR\u78ba\u5b9a\u3067\u3068\u3063\u3066\u3082\u304a\u5f97!!",
+			"description": "description":"{center:begin}A special Summon for new players only!\nSummon an {color: #FFCC00} SSR Character{color} now!{center}",
 			"id": 76,
-			"name": "\u30b9\u30bf\u30fc\u30c8\u30c0\u30c3\u30b7\u30e5\u30ac\u30b7\u30e3t"
+			"name": "Summon Sprint"
 		}
 	]
 }
