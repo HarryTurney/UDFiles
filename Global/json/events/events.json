@@ -345,8 +345,7 @@
 					"id": 153001,
                     "name": "[AGL Special Training]"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 154,
@@ -358,8 +357,7 @@
 					"id": 154001,
                     "name": "[TEQ Special Training]"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 155,
@@ -371,8 +369,7 @@
 					"id": 155001,
                     "name": "[INT Special Training]"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 156,
@@ -384,8 +381,7 @@
 					"id": 156001,
                     "name": "[STR Special Training]"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 157,
@@ -397,8 +393,7 @@
 					"id": 157001,
                     "name": "[PHY Special Training]"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{	
 			"id": 158,
@@ -425,8 +420,7 @@
 					"id": 157005,
                     "name": "[PHY Special Training]"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 160,
@@ -450,8 +444,7 @@
 					"id": 160004,
                     "name": "Return of the Magical Girl Fighters"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{	"id": 161,
             "banner_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_banner/quest_list_banner_161.png",
@@ -462,8 +455,7 @@
 					"id": 161001,
                     "name": "Little Rangers' Task"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 162,
@@ -507,8 +499,7 @@
 					"id": 162009,
                     "name": "Showdown with Android #21"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 171,
@@ -524,8 +515,7 @@
 					"id": 171002,
                     "name": "Ghostly Prank Continues!"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{	
 			"id": 179,
@@ -541,8 +531,7 @@
 					"id": 179002,
                     "name": "Clash! Dokkan Butoden Part 2"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{	
 			"id": 181,
@@ -581,8 +570,7 @@
 					"id": 181008,
                     "name": "The Ominous Fused Form!"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 189,
@@ -597,8 +585,7 @@
 					"id": 189002,
                     "name": "The Evil Saiyan's True Form!"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 193,
@@ -609,8 +596,7 @@
 					"id": 193001,
                     "name": "[AGL] Battle-Smart Brawler! Borgos"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 194,
@@ -621,8 +607,7 @@
 					"id": 197001,
                     "name": "[TEQ] Battle-Smart Brawler! Tora"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 195,
@@ -633,8 +618,7 @@
 					"id": 195001,
                     "name": "[INT] Battle-Smart Brawler! Fasha"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 196,
@@ -645,8 +629,7 @@
 					"id": 196001,
                     "name": "[STR] Battle-Smart Brawler! Bardock"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 197,
@@ -658,8 +641,7 @@
 					"id": 197001,
                     "name": "[PHY] Battle-Smart Brawler! Shugesh"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 198,
@@ -686,8 +668,7 @@
 					"id": 198005,
                     "name": "[PHY] Battle-Smart Brawler! Shugesh"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
             "id": 199,
@@ -696,8 +677,7 @@
 					"id": 199001,
                     "name": "Godly Level Special Training"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 305,
@@ -757,8 +737,7 @@
 					"id": 305013,
                     "name": "Full-Power Whis?!"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 315,
@@ -810,8 +789,7 @@
 					"id": 315011,
                     "name": "Blood of the Saiyan Race"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 319,
@@ -1421,8 +1399,7 @@
                     ],
                     "name": "Galactic Adventurer"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 322,
@@ -1470,8 +1447,7 @@
 					"id": 322010,
                     "name": "Baby the Wicked Life Form"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 323,
@@ -1519,8 +1495,7 @@
 					"id": 323010,
                     "name": "The Strongest Warrior Awakens!"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 324,
@@ -1568,8 +1543,7 @@
 					"id": 324010,
                     "name": "The Two-Top on Earth!?"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 325,
@@ -1609,8 +1583,7 @@
 					"id": 325008,
                     "name": "The Match Concludes!"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 327,
@@ -1642,8 +1615,7 @@
 					"id": 327006,
                     "name": "Arale Saves the Day!"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 328,
@@ -1679,8 +1651,7 @@
 					"id": 328007,
                     "name": "Final Judgment"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 329,
@@ -1707,8 +1678,7 @@
                     ],
                     "name": "Boss Rabbit's Magic Touch"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 330,
@@ -1740,8 +1710,7 @@
 					"id": 330006,
                     "name": "SS4 vs. Giant Ape Baby"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 331,
@@ -1773,8 +1742,7 @@
 					"id": 331006,
                     "name": "Stop the Reckless Majin!"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 332,
@@ -1802,8 +1770,7 @@
 					"id": 332005,
                     "name": "Proof of Courage"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 333,
@@ -1831,8 +1798,7 @@
 					"id": 333005,
                     "name": "Broly,Tenacious Beast"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 334,
@@ -1856,8 +1822,7 @@
 					"id": 334004,
                     "name": "Fusion Mayhem!"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 335,
@@ -1913,8 +1878,7 @@
 					"id": 335012,
                     "name": "Team Universe 7,Assemble!"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 336,
@@ -1938,8 +1902,7 @@
 					"id": 336004,
                     "name": "Raditz's Battle"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 337,
@@ -1963,8 +1926,7 @@
 					"id": 337004,
                     "name": "To a New Realm"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 338,
@@ -1996,8 +1958,7 @@
 					"id": 338006,
                     "name": "Wrath of the Dragon!"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 339,
@@ -2037,8 +1998,7 @@
 					"id": 339008,
                     "name": "Great Conflict Ahead"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 340,
@@ -2058,8 +2018,7 @@
 					"id": 340003,
                     "name": "Paikuhan's True Power"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 341,
@@ -2095,8 +2054,7 @@
 					"id": 341007,
                     "name": "Another Battle-Crazed Saiyan Clash!"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 343,
@@ -2128,8 +2086,7 @@
 					"id": 343006,
                     "name": "Super Namekian vs. The Power of Friendship"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 344,
@@ -2173,8 +2130,7 @@
 					"id": 344009,
                     "name": "Universe Survival Showdown"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 345,
@@ -2210,8 +2166,7 @@
 					"id": 345007,
                     "name": "After the Tables Have Turned"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 346,
@@ -2251,8 +2206,7 @@
 					"id": 346008,
                     "name": "Body Change"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 347,
@@ -2300,8 +2254,7 @@
 					"id": 347010,
                     "name": "Furious Transformation!"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 348,
@@ -2325,8 +2278,7 @@
 					"id": 348004,
                     "name": "Aftermath of a Fierce Fight..."
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 349,
@@ -2354,8 +2306,7 @@
 					"id": 349005,
                     "name": "Showdown with Cooler"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 351,
@@ -2375,8 +2326,7 @@
 					"id": 351003,
                     "name": "Videl Learns to Fly"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 352,
@@ -2408,8 +2358,7 @@
 					"id": 352006,
                     "name": "A Girl's Wish"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 353,
@@ -2437,8 +2386,7 @@
 					"id": 353005,
                     "name": "The Terrifying Plan to Destroy the Sun"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 354,
@@ -2466,8 +2414,7 @@
 					"id": 354005,
                     "name": "Upa's Wish"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 355,
@@ -2523,8 +2470,7 @@
 					"id": 355012,
                     "name": "The Saiyan Warrior Race"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 356,
@@ -2536,8 +2482,7 @@
 					"id": 356001,
                     "name": "On the Desert Planet"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 357,
@@ -2593,8 +2538,7 @@
 					"id": 357012,
                     "name": "Eternal Story"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 361,
@@ -2618,8 +2562,7 @@
 					"id": 361004,
                     "name": "Goku vs. Duplicate Vegeta"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 362,
@@ -2675,8 +2618,7 @@
 					"id": 362012,
 					"name": "End of Everything"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 363,
@@ -2755,8 +2697,7 @@
 					"id": 364010,
                     "name": "The Greatest Challenge?!"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 365,
@@ -2796,8 +2737,7 @@
 					"id": 365008,
                     "name": "Blast! Family Kamehameha!"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{ "id": 366,
             "banner_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_banner/quest_list_banner_366.png",
@@ -2836,8 +2776,7 @@
 					"id": 366008,
                     "name": "Confident Androids"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 367,
@@ -2857,8 +2796,7 @@
 					"id": 367003,
                     "name": "The Long-awaited Fight! Goku vs. Monaka"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 368,
@@ -2898,8 +2836,7 @@
 					"id": 368008,
                     "name": "Bloodcurdling Message"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 369,
@@ -2947,8 +2884,7 @@
 					"id": 369010,
                     "name": "Peace for the Future"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 371,
@@ -3004,8 +2940,7 @@
 					"id": 371012,
                     "name": "Gohan and Trunks"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 372,
@@ -3036,8 +2971,7 @@
 					"id": 372006,
                     "name": "Miraculous Power of the Spirit Bomb!"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 373,
@@ -3073,8 +3007,7 @@
 					"id": 373007,
                     "name": "Strongest vs. Strongest"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 374,
@@ -3121,8 +3054,7 @@
 					"id": 374010,
                     "name": "Vegeta the Prince of Destruction Returns!"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 377,
@@ -3166,8 +3098,7 @@
 					"id": 377009,
                     "name": "God of Destruction's Supervisor"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
             "id": 378,
@@ -3204,8 +3135,7 @@
 					"id": 378008,
                     "name": "A New Gohan Arrives on Earth"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 401,
@@ -3221,8 +3151,7 @@
 					"id": 401002,
                     "name": "The Final Showdown"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 403,
@@ -3238,8 +3167,7 @@
 					"id": 403002,
                     "name": "Super Saiyan Goku"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 404,
@@ -3255,8 +3183,7 @@
 					"id": 404002,
                     "name": "The Assassin's Struggle"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 405,
@@ -3272,8 +3199,7 @@
                     "id": 405002,
                     "name": "The Determined Martial Artist"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 406,
@@ -3292,8 +3218,7 @@
                     "id": 406002,
                     "name": "Raging Counterstrike"
                 }
-            ],
-            "recommend": null
+            ]
         },
         { 
             "id": 408,
@@ -3309,8 +3234,7 @@
                     "id": 408002,
                     "name": "Dignity of a Clan"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 409,
@@ -3326,8 +3250,7 @@
                     "id": 409002,
                     "name": "An Invasion Bet on Primacy"
                 }
-            ],
-            "recommend": null
+            ]
         },
         { 
             "id": 411,
@@ -3343,8 +3266,7 @@
                     "id": 409002,
                     "name": "An Invasion Bet on Primacy"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
             "id": 412,
@@ -3360,8 +3282,7 @@
                     "id": 412002,
                     "name": "True Strength"
                 }
-            ],
-            "recommend": null
+            ]
         },
         {
             "id": 413,
@@ -3377,8 +3298,7 @@
                     "id": 413002,
                     "name": "Behind the Mask"
                 }
-            ],
-            "recommend": null
+            ]
         },
         {
             "id": 414,
@@ -3394,8 +3314,7 @@
                     "id": 414002,
                     "name": "Warrior of Hope"
                 }
-            ],
-            "recommend": null
+            ]
         },
         {
             "id": 415,
@@ -3411,8 +3330,7 @@
                     "id": 415002,
                     "name": "Earth-Shaking Power"
                 }
-            ],
-            "recommend": null
+            ]
         },
         {
             "id": 416,
@@ -3428,8 +3346,7 @@
                     "id": 416002,
                     "name": "The Power of Piccolo Reborn"
                 }
-            ],
-            "recommend": null
+            ]
         },
         {
             "id": 417,
@@ -3445,8 +3362,7 @@
                     "id": 417002,
                     "name": "Proud Martial Artist"
                 }
-            ],
-            "recommend": null
+            ]
         },
         {
             "id": 418,
@@ -3466,8 +3382,7 @@
                     "id": 418003,
                     "name": "Heroes Get Exhausted!?"
                 }
-            ],
-            "recommend": null
+            ]
         },
         {
             "id": 420,
@@ -3483,8 +3398,7 @@
                     "id": 420002,
                     "name": "The Strongest Space Pirate"
                 }
-            ],
-            "recommend": null
+            ]
         },
         {
             "id": 421,
@@ -3500,8 +3414,7 @@
                     "id": 421002,
                     "name": "Proof of Genius"
                 }
-            ],
-            "recommend": null
+            ]
         },
         {
             "id": 422,
@@ -3517,8 +3430,7 @@
                     "id": 422002,
                     "name": "The Time Patrol Warrior"
                 }
-            ],
-            "recommend": null
+            ]
         },
         {
             "id": 501,
@@ -3538,8 +3450,7 @@
                     "id": 501003,
                     "name": "The Demon Returns"
                 }
-            ],
-            "recommend": null
+            ]
         },
         {
             "id": 502,
@@ -3563,8 +3474,7 @@
                     "id": 502004,
                     "name": "Tournament of Destiny"
                 }
-            ],
-            "recommend": null
+            ]
         },
         {
             "id": 503,
@@ -3584,8 +3494,7 @@
                     "id": 503003,
                     "name": "Regression to Evil"
                 }
-            ],
-            "recommend": null
+            ]
         },
         {
             "id": 504,
@@ -3601,8 +3510,7 @@
                     "id": 504002,
                     "name": "Ultimate Finishing Move"
                 }
-            ],
-            "recommend": null
+            ]
         },
         {
             "id": 505,
@@ -3622,8 +3530,7 @@
                     "id": 505003,
                     "name": "Fusion Reborn!"
                 }
-            ],
-            "recommend": null
+            ]
         },
         {
             "id": 506,
@@ -3643,8 +3550,7 @@
                     "id": 506003,
                     "name": "Overwhelming Force of Evil!"
                 }
-            ],
-            "recommend": null
+            ]
         },
         {
             "id": 507,
@@ -3660,8 +3566,7 @@
                     "id": 507002,
                     "name": "Full-Power Final Battle"
                 }
-            ],
-            "recommend": null
+            ]
         },
         {
             "id": 508,
@@ -3681,8 +3586,7 @@
                     "id": 508003,
                     "name": "The Ultimate Form"
                 }
-            ],
-            "recommend": null
+            ]
         },
         {
             "id": 509,
@@ -3698,8 +3602,7 @@
                     "id": 509002,
                     "name": "Yamcha's Premonition"
                 }
-            ],
-            "recommend": null
+            ]
         },
         {
             "id": 510,
@@ -3715,8 +3618,7 @@
                     "id": 510002,
                     "name": "The Most Powerful Blow"
                 }
-            ],
-            "recommend": null
+            ]
         },
         {
             "id": 511,
@@ -3736,8 +3638,7 @@
                     "id": 511003,
                     "name": "God of Destruction's Visit"
                 }
-            ],
-            "recommend": null
+            ]
         },
         {
             "id": 512,
@@ -3757,8 +3658,7 @@
                     "id": 512003,
                     "name": "Ultimate Splendor"
                 }
-            ],
-            "recommend": null
+            ]
         },
         {
             "id": 513,
@@ -3782,8 +3682,7 @@
                     "id": 513004,
                     "name": "Super Gotenks at Full Throttle!"
                 }
-            ],
-            "recommend": null
+            ]
         },
         {
             "id": 514,
@@ -3799,8 +3698,7 @@
                     "id": 514002,
                     "name": "The Most Extreme Battle in the Multiverse!"
                 }
-            ],
-            "recommend": null
+            ]
         },
         {
             "id": 515,
@@ -3820,8 +3718,7 @@
                     "id": 515003,
                     "name": "The Strongest Majin is Born!"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 515,
@@ -3841,8 +3738,7 @@
 					"id": 515003,
                     "name": "The Strongest Majin is Born!"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 516,
@@ -3854,8 +3750,7 @@
 					"id": 516001,
                     "name": "Emperor's Obsession"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 517,
@@ -3875,8 +3770,7 @@
 					"id": 517003,
                     "name": "Countdown to the Crash"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 517,
@@ -3896,8 +3790,7 @@
                     "id": 517003,
                     "name": "Countdown to the Crash"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 519,
@@ -3917,8 +3810,7 @@
 					"id": 519003,
                     "name": "Super Ultimate Battle!"
                 }
-            ],
-            "recommend": null
+            ]
         },
         {
             "id": 520,
@@ -3934,8 +3826,7 @@
                     "id": 520002,
                     "name": "Searing Rose-Colored Fury"
                 }
-            ],
-            "recommend": null
+            ]
         },
         {
             "id": 522,
@@ -3951,8 +3842,7 @@
                     "id": 522002,
                     "name": "Miraculous World-Protecting Power!"
                 }
-            ],
-            "recommend": null
+            ]
         },
         {
             "id": 523,
@@ -3972,8 +3862,7 @@
                     "id": 523003,
                     "name": "Human Sin and Divine Failure"
                 }
-            ],
-            "recommend": null
+            ]
         },
         {
             "id": 524,
@@ -3989,8 +3878,7 @@
                     "id": 524002,
                     "name": "Battle for Honor and Pride"
                 }
-            ],
-            "recommend": null
+            ]
         },
         {
             "id": 525,
@@ -4006,8 +3894,7 @@
                     "id": 525002,
                     "name": "The Supreme Super Saiyan 4!"
                 }
-            ],
-            "recommend": null
+            ]
         },
         {
             "id": 526,
@@ -4023,8 +3910,7 @@
                     "id": 526002,
                     "name": "The Unrivaled Super Saiyan 4!"
                 }
-            ],
-            "recommend": null
+            ]
         },
         {
             "id": 527,
@@ -4052,8 +3938,7 @@
                     ],
                     "name": "Extreme Ultimate Transformation"
                 }
-            ],
-            "recommend": null
+            ]
         },
         {
             "id": 528,
@@ -4075,8 +3960,7 @@
                     "id": 528002,
                     "name": "Results of Trainings in the Otherworld"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 529,
@@ -4088,8 +3972,7 @@
 					"id": 529001,
                     "name": "The Saiyan Veiled with Mysteries"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 530,
@@ -4101,8 +3984,7 @@
 					"id": 530001,
                     "name": "Hell's Ultimate Weapon"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 531,
@@ -4114,8 +3996,7 @@
 					"id": 531001,
                     "name": "All-Time Nastiest Evolution"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 532,
@@ -4127,8 +4008,7 @@
 					"id": 532001,
                     "name": "The Ultimate Super Gogeta"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 533,
@@ -4144,8 +4024,7 @@
 					"id": 533002,
                     "name": "The True Golden Frieza"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 534,
@@ -4157,8 +4036,7 @@
 					"id": 534001,
                     "name": "The Unknown Battle"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 535,
@@ -4174,8 +4052,7 @@
 					"id": 535002,
                     "name": "Phantom Majin Resurrected!"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 536,
@@ -4187,8 +4064,7 @@
 					"id": 536001,
                     "name": "The Ultimate Pair of the Otherworld!"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 537,
@@ -4200,8 +4076,7 @@
 					"id": 537001,
                     "name": "The Ultimate Pair of the Present World!"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 538,
@@ -4213,8 +4088,7 @@
 					"id": 538001,
                     "name": "Kaboom! Ultra Instinct"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 539,
@@ -4226,8 +4100,7 @@
 					"id": 539001,
                     "name": "Arrival of the Universe-Crusher"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 540,
@@ -4243,8 +4116,7 @@
 					"id": 540002,
                     "name": "Confronting the Strongest of All Universes"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 541,
@@ -4260,8 +4132,7 @@
 					"id": 541002,
                     "name": "Deadly Battle in the Future!"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 542,
@@ -4273,8 +4144,7 @@
 					"id": 542001,
                     "name": "Transcend Super Saiyan 4!"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 543,
@@ -4286,8 +4156,7 @@
 					"id": 543001,
                     "name": "Superb Ranger"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 544,
@@ -4299,8 +4168,7 @@
 					"id": 544001,
                     "name": "Ever-Evolving Power"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 545,
@@ -4312,8 +4180,7 @@
 					"id": 545001,
                     "name": "Ever-Evolving Evil"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 546,
@@ -4325,8 +4192,7 @@
 					"id": 546001,
                     "name": "Infinite Mechanical Power"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 548,
@@ -4338,8 +4204,7 @@
 					"id": 548001,
                     "name": "The Greatest Saiyan Adversary"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 547,
@@ -4351,8 +4216,7 @@
 					"id": 547001,
                     "name": "The Deadliest Assassin"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 548,
@@ -4364,8 +4228,7 @@
 					"id": 548001,
                     "name": "The Greatest Saiyan Adversary"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 549,
@@ -4377,8 +4240,7 @@
 					"id": 549001,
                     "name": "The Omnipotent Saiyan Warrior"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 550,
@@ -4390,8 +4252,7 @@
 					"id": 550001,
                     "name": "Full-Power Showdown!"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 551,
@@ -4403,8 +4264,7 @@
 					"id": 551001,
                     "name": "Ever-Evolving Prince"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 552,
@@ -4416,8 +4276,7 @@
 					"id": 552001,
                     "name": "Warriors of the New Generation!"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 553,
@@ -4429,8 +4288,7 @@
 					"id": 553001,
                     "name": "This Is It! Super Saiyan!"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 554,
@@ -4442,8 +4300,7 @@
 					"id": 554001,
                     "name": "A New Super Warrior is Born!"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 555,
@@ -4455,8 +4312,7 @@
 					"id": 555001,
                     "name": "Let's Go,Gohan!"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 556,
@@ -4468,8 +4324,7 @@
 					"id": 556001,
                     "name": "The Devil's Circuit"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 557,
@@ -4481,8 +4336,7 @@
 					"id": 557001,
                     "name": "Resurrection of the Ruinous Prince"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 558,
@@ -4494,8 +4348,7 @@
 					"id": 558001,
                     "name": "Transforming into a Golden Saiyan!"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
             "id": 559,
@@ -4569,8 +4422,7 @@
                     ],
                     "name": "[VS. Super PHY Transcended Warrior"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 602,
@@ -4634,8 +4486,7 @@
                     ],
                     "name": "[VS. Extreme AGL Summit of the Universe"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 603,
@@ -4685,8 +4536,7 @@
                     ],
                     "name": "Protector of Future Peace"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 604,
@@ -4736,8 +4586,7 @@
                     ],
                     "name": "Super Saiyan Awakens"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 605,
@@ -4787,8 +4636,7 @@
                     ],
                     "name": "Life Form of Hate and Ruin"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 606,
@@ -4838,8 +4686,7 @@
                     ],
                     "name": "Raging Killer Move"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 701,
@@ -4947,8 +4794,7 @@
                     ],
                     "name": "Dokkan Event Boss Rush 10"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 710,
@@ -5384,8 +5230,7 @@
                     ],
                     "name": "\"Androids\" Only"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 711,
@@ -5465,8 +5310,7 @@
                     ],
                     "name": "Dragon Stone Stage"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 712,
@@ -5484,8 +5328,7 @@
                     ],
                     "name": "Fighting Legend: Goku"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 720,
@@ -5630,8 +5473,7 @@
                     ],
                     "name": "[VS. Super PHY Super Battle Road"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
             "id": 721,
@@ -5688,8 +5530,7 @@
                     ],
                     "name": "Almighty Cleave"
                 }
-            ],
-            "recommend": null
+            ]
         },
 		{
 			"id": 713,
