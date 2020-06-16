@@ -142,7 +142,7 @@
 				}
 			],
 			"current_step": 1,
-			"description": "description":"{center:begin}A special Summon for new players only!\nSummon an {color: #FFCC00} SSR Character{color} now!{center}",
+			"description": "{center:begin}A special Summon for new players only!\nSummon an {color: #FFCC00} SSR Character{color} now!{center}",
 			"id": 76,
 			"name": "Summon Sprint"
 		}
