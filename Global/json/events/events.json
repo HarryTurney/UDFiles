@@ -679,15 +679,45 @@
                 }
             ]
         },
-        {
+		{
             "id": 202,
-            "quests":[
-                {
-                    "id": 202001,
-                    "name": "Team Bardock's Trial"
-                }
-            ]
-        },
+            "quests": [
+				{
+					"id": 202001,
+					"limitations": [
+						{
+							"description": "・You must use [Grand Opening] Team Bardock",
+							"id": 467
+						},
+						{
+							"description": "▼You can only challenge the event with the following characters when fully dokkan awakened\n\n[Battle-Hardened Hero] Bardock\n・[Total Invasion] Tora\n・[Cunning Moves] Fasha\n・【Infinite Power】Borgos\n・[Ruffian's Strike] Shugesh",
+							"id": 478
+						},
+						{
+                            "description": "・You must use [Battle-Hardened Hero] Bardock",
+                            "id": 479
+						},
+						{
+							"description": "・You must use [Total Invasion] Tora",
+                            "id": 480
+						},
+						{
+							"description": "・You must use [Cunning Moves] Fasha",
+                            "id": 481
+						},
+						{
+							"description": "・You must use [Infinite Power] Borgos",
+                            "id": 482
+						},
+						{
+							"description": "・You must use [Ruffian's Strike] Shugesh",
+                            "id": 483
+						}
+					],
+					"name": "Team Bardock's Trial"
+				}
+			]
+		},
 		{
 			"id": 305,
             "banner_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_banner/quest_list_banner_305.png",
