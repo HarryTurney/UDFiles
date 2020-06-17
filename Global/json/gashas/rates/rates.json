@@ -2,6 +2,20 @@
 	"steps": [
 		{
 			"gasha_rates": {
+				"id": 1208,
+				"name": "Normal"
+			},
+			"note": "*The distribution ratio for each character in each category is uniform. \n *Since each provision ratio is rounded off to the fourth decimal place, the total may not be 100%. \n *Each character may appear twice.",
+			"special_gashas": [
+				{
+					"id": 1209,
+					"items_name": "SSR Character",
+					"name": "SSR Guaranteed"
+				}
+			]
+		},
+		{
+			"gasha_rates": {
 				"id": 116
 			},
 			"note": "*The distribution ratio for each character in each category is uniform. \n *Since each provision ratio is rounded off to the fourth decimal place, the total may not be 100%."
