@@ -1,0 +1,53 @@
+{
+	"dragonball_sets": [
+		{
+			"ball_type": 0,
+			"dragonballs": [
+				{
+					"area_name": "The Ultimate Life Form!",
+					"description": "NORMAL Above",
+					"id": 4,
+					"quest_name": "Malicious Android: Cell"
+				},
+				{
+					"area_name": "The Emperor\u2019s Wrath",
+					"description": "NORMAL Above",
+					"id": 7,
+					"quest_name": "Alien Warrior Encounter 1"
+				},
+				{
+					"area_name": "A Call to Arms",
+					"description": "NORMAL Above",
+					"id": 5,
+					"quest_name": "World's Greatest Teacher"
+				},
+				{
+					"area_name": "The Wheels of Fate Turn",
+					"description": "NORMAL Above",
+					"id": 1,
+					"quest_name": "To the Tournament!"
+				},
+				{
+					"area_name": "A Gloomy Parallel World",
+					"description": "NORMAL Above",
+					"id": 2,
+					"quest_name": "Pursuing Mercenary Tao"
+				},
+				{
+					"area_name": "A Call to Arms",
+					"description": "NORMAL Above",
+					"id": 6,
+					"quest_name": "Revenge of Crane School"
+				},
+				{
+					"area_name": "The Ultimate Life Form!",
+					"description": "NORMAL Above",
+					"id": 3,
+					"quest_id": 2001,
+					"quest_name": "Premonition of Doom"
+				}
+			],
+			"id": 1
+		}
+	]
+}
