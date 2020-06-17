@@ -445,7 +445,7 @@
             "id": 2573,
             "summary": "Tons of the STA-Restoring Item, \"Aged Meat\", and \r\nKeys that can be used at the Portal of Memories \r\nwill be sent to all players.",
             "title": "Aged Meat and Key Distribution!",
-            "banner": "https://github.com/HarryTurney/UDFiles/blob/master/Global/images/announcements/101770/EN_news_banner_plain_camp_20200416_small.png",
+            "banner": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/101770/EN_news_banner_plain_camp_20200416_small.png",
             "bodies": [
                 {
                     "description": "\r\nDear Players, \r\n\r\nThank you for your continuous support for \r\nDragon Ball Z Dokkan Battle! \r\nAs a token of gratitude, the following items \r\nwill be distributed to all players.\r\n\r\n{size: 24}{color: #FFFF00}{outline: #FF0000, 2}= Distribution List ={size}{color}{outline}\r\n\r\n- Story Key x30\r\n- Challenge Key x30\r\n- Z-Battle Key x15\r\n- Aged Meat (S) x15\r\n- Aged Meat (M) x5\r\n",
