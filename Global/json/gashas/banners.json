@@ -3,6 +3,43 @@
 		{
 			"courses": [
 				{
+					"description": "New {color: #FFCC00}Super Saiyan God Son Goku{color} arrives!\nGet a Rare or higher character with this Summon.",
+					"no": 1,
+					"title": "{color: #CCCC00}Legendary Summon{color}"
+				},
+				{
+					"description": "New {color: #FFCC00}Super Saiyan God Son Goku{color} arrives!\nGet a Rare or higher character with this Summon.",
+					"no": 2,
+					"title": "{color: #CCCC00}Legendary Summon{color}"
+				}
+			],
+			"current_step": 1,
+			"description": "{center: begin}{color: #CCCC00}Legendary Summon{color}now being held!! {color: #00CCFF}LR{color}{color: #FF9900}Dokkan Awaken{color}\n{color: #FFCC00}New SSR{color}{color: #FF0000}Super Saiyan God Son Goku{color}as a unit!!{center}",
+			"id": 755,
+			"name": "Legendary Summons"
+		},
+		{
+			"courses": [
+				{
+					"description": "{color: #FF0000}Only Once!!{color}\n{color: #FFFF00}It is a gacha where you can acquire 10 elder kais{color}\n{color: #FF0000}*The characters that appears is Mysterious Ritual Elder Kai{color}",
+					"no": 1,
+					"title": "{color: #FF99FF}E{color}{color: #FF9966}L{color}{color: #FFFF00}D{color}{color: #99FF00}E{color}{color: #00FF99}R{color}{color: #33FFFF}-{color}{color: #CC0000}KAI{color}"
+				},
+				{
+					"description": "{color: #FF0000}Only Once!!{color}\n{color: #FFFF00}It is a gacha where you can acquire 10 elder kais{color}\n{color: #FF0000}*The characters that appears is Mysterious Ritual Elder Kai{color}",
+					"no": 2,
+					"title": "{color: #FF99FF}E{color}{color: #FF9966}L{color}{color: #FFFF00}D{color}{color: #99FF00}E{color}{color: #00FF99}R{color}{color: #33FFFF}-{color}{color: #CC0000}KAI{color}"
+				}
+			],
+			"current_step": 1,
+			"description": "{center: begin}Hoon Hoon Hoon♪ Hoon Hoon Hoon♪\n{color: #FFFF00}Mysterious Ceremony Gasha is being held!!{color}{center}",
+			"id": 756,
+			"name": "Mysterious Ritual Gacha"
+		},
+		{
+			"courses": [
+				
+				{
 					"description": "Use Friend Points to obtain a character!",
 					"no": 1,
 					"title": "{color: #FFFF00}Friend Summon{color}"
