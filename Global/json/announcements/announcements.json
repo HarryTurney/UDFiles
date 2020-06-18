@@ -564,11 +564,11 @@
             "title": "LR Super Saiyan God SS Vegito Arrives!",
             "bodies": [
                 {
-                    "description": " \r\n{center : begin}{size: 28}{outline: #FF0000, 2}{color: #FFFF00}Let's challenge the \"Trials from the Gods\"!!{color}{outline}{size}\r\n\r\nUse the treasure {color: #9966FF}「Supreme Kai's Stones」{color} that you can get by clearing the mission \r\nRecruit [Determined Fusion] Vegetto!!{center}",
+                    "description": " \r\n{center : begin}{size: 28}{outline: #FF0000, 2}{color: #FFFF00}Let's challenge the \"Trials from the Gods\"!!{color}{outline}{size}\r\n\r\nUse the treasure {color: #9966FF}「Supreme Kai's Stones」{color}\r\nthat you can get by clearing the mission \r\nRecruit [Determined Fusion] Vegetto!!{center}",
                     "image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/100787/news_banner_plain_camp_20171130_A_large.png"
                 },
                 {
-                    "description": " \r\n{center : begin}\u30df\u30c3\u30b7\u30e7\u30f3\u3092\u9054\u6210\u3057\u3066\r\n{color: #FFCC66}\u899a\u9192\u30e1\u30c0\u30eb\u300c\u30dd\u30bf\u30e9\u300d{color}\u3092\u96c6\u3081{color : #FF3300}\u3010\u6c7a\u610f\u306e\u5408\u4f53\u3011\u30d9\u30b8\u30c3\u30c8{color}\u3092\r\n\u3010LR\u3011\u307e\u3067\u30c9\u30c3\u30ab\u30f3\u899a\u9192\u3055\u305b\u3088\u3046!!\r\n\r\n{color : #FF3300}\u3010\u6c7a\u610f\u306e\u5408\u4f53\u3011\u30d9\u30b8\u30c3\u30c8{color}\u3092\u30c9\u30c3\u30ab\u30f3\u899a\u9192\u3055\u305b\u308b\u3068\r\n\u6700\u5927Lv.120\u306e\u3010UR\u3011\u3078\u3068\u9650\u754c\u7a81\u7834\u203c{center}\r\n",
+                    "description": " \r\n{center : begin}Achieve the mission and collect the \r\nawakening medal{color: #FFCC66}「Potara」{color}Dokkan Awaken\r\n{color : #FF3300}[Determined Fusion] Vegetto{color} to [LR]!!\r\n\r\nAwakening {color : #FF3300}[Engraved Strength] Vegetto{color} to a maximum of \r\nLv.120 [UR] and exceeding the limit!{center}\r\n",
                     "image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/100787/EN_chara_banner_1011660_small.png"
                 },
                 {
