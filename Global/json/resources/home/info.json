@@ -58,11 +58,6 @@
 			"id": 30012950
 		},
 		{
-			"description": "Learn how to play from the master himself!!",
-			"image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/resources/home/banner/4/myp_banner_roshi_tips.png",
-			"id": 2
-		},
-		{
 			"description": "Test5",
 			"image": "",
 			"id": 5
@@ -81,6 +76,16 @@
 			"description": "Test1",
 			"image": "",
 			"id": 1
+		},
+		{
+			"description": "Learn how to play from the master himself!!",
+			"image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/resources/home/banner/4/myp_banner_roshi_tips.png",
+			"id": 2
+		},
+		{
+			"description": "Test0",
+			"image": "",
+			"id": 0
 		}
 
 	],
