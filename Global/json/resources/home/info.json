@@ -61,7 +61,28 @@
 			"description": "Learn how to play from the master himself!!",
 			"image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/resources/home/banner/4/myp_banner_roshi_tips.png",
 			"id": 2
+		},
+		{
+			"description": "Test5",
+			"image": "",
+			"id": 5
+		},
+		{
+			"description": "Test4",
+			"image": "",
+			"id": 4
+		},
+		{
+			"description": "Test3",
+			"image": "",
+			"id": 3
+		},
+		{
+			"description": "Test1",
+			"image": "",
+			"id": 1
 		}
+
 	],
 	"rmbattles": {
 		"description": "Held every day until the end period!! Defeat strong enemies with UR and LR characters!!\nGet \"Battlefield Memeory\" by clearing stages!!",
