@@ -488,16 +488,17 @@
             "id": 1851,
             "summary": "",
             "title": "The Wallpaper Feature \nIs Now Available!",
+            "banner": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/101457/EN_news_banner_kabegami_large.png",
             "bodies": [
                 {
-                    "description": " \r\n{center: begin}{size : 28}{color : #7F1300}{outline : #FFFF00 , 2}{shadow : #FFFE9E, 3, 3, 5}\r\nFighting Legend: Goku \r\nTicket Summon \r\nis now on!{outline}{color}{size}{shadow}\r\n\r\n{size : 25}All the available characters in \r\nthis summon are {color : #FFFF00}SR or SSR Goku{color}!\r\n\r\nCollect tickets to perform summons!{center}{size}\r\n\r\n{size: 24}{color: #FFFF00}{outline: #FF0000, 2}= Featured Characters ={size}{color}{outline}\r\n",
+                    "description": "\r\n{center: begin}{size : 27}{color : #FFFF00}{outline : #FF9900, 2}The Wallpaper feature \r\nis now available!{size}{color}{outline} \r\n\r\nUse the Wallpaper feature to make\r\nDragon Ball Z Dokkan Battle even more interesting!{center} \r\n\r\n{size: 24}{color: #FFFF00}{outline: #FF0000, 2}= Wallpaper ={size}{color}{outline}\r\n\r\nThe wallpaper \"{color : #FFFF00}Super Warriors{color}\" will be given\r\nas a present to celebrate the introduction of\r\nthe Wallpaper feature!\r\n\r\nIn addition, more wallpapers will become available\r\nduring the 300 Million Global DLs Reached campaign!\r\n",
                     "image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/101457/EN_news_banner_kabegami_large.png"
                 },
                 {
-                    "description": " \r\n\u203b\u8a73\u7d30\u306f\u300c\u30e1\u30cb\u30e5\u30fc \uff1e \u58c1\u7d19\u8a2d\u5b9a\u300d\u753b\u9762\u5185\u306e\r\n\u300c\u4f7f\u3044\u65b9\u300d\u3088\u308a\u3054\u78ba\u8a8d\u304f\u3060\u3055\u3044\u3002\r\n\r\n{size: 25}{outline: #FF0000, 2}{color: #FFFF00}\u25cf\u58c1\u7d19{color}{outline}{size}\r\n\u672c\u6a5f\u80fd\u306e\u767b\u5834\u3092\u8a18\u5ff5\u3057\u3066\r\n{size: 23}{color: #FFFF00}\u58c1\u7d19\u300c\u8d85\u6226\u58eb\u305f\u3061\u300d{color}{size}\u3092\u30d7\u30ec\u30bc\u30f3\u30c8!!"
+                    "description": "\r\nStay tuned for more upcoming wallpapers!\r\n\r\n* Please navigate the path \"Menu --> Wallpaper Settings\" \r\nand check the \"How to Use\" page for more details.\r\n\r\n{size: 24}{color: #FFFF00}{outline: #FF0000, 2}= Wallpaper Claiming Period ={size}{color}{outline}\r\n\r\nPermanently available starting from 2019/8/19 (Mon) 21:00 PST\r\n\r\n* Caution: Event Times in Dokkan Battle are listed in Pacific \r\nStandard Time (PST) instead of Pacific Daylight Time (PDT).\r\n\r\nWe hope you continue to enjoy playing \r\nDragon Ball Z Dokkan Battle!\r\n"
                 },
                 {
-                    "description": " \r\n{center: begin}{size: 26}{color: #FFFF00}\u4eca\u5f8c\u767b\u5834\u3059\u308b\u58c1\u7d19\u306b\u3082\u4e5e\u3046\u3054\u671f\u5f85!!{size}{color}{center}\r\n\r\n{size: 25}{outline: #FF0000, 2}{color: #FFFF00}\u25cf\u58c1\u7d19\u53d7\u53d6\u671f\u9593{color}{outline}{size}\r\n2019/8/20(\u706b)  14:00 \uff5e \u7121\u671f\u9650\r\n\r\n\u4eca\u5f8c\u3068\u3082\u300c\u30c9\u30e9\u30b4\u30f3\u30dc\u30fc\u30ebZ \u30c9\u30c3\u30ab\u30f3\u30d0\u30c8\u30eb\u300d\u3092\r\n\u3088\u308d\u3057\u304f\u304a\u9858\u3044\u3044\u305f\u3057\u307e\u3059\u3002"
+                    "description": ""
                 }
             ]
         },
