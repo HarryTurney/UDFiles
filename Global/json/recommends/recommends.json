@@ -1,6 +1,7 @@
 [
 	{
-		"description": "Able to transcend the UR limit through Dokkan Awakening! \nYou can also use him to level up Broly's Super Attack!",		"id": 6,
+		"description": "Able to transcend the UR limit through Dokkan Awakening! \nYou can also use him to level up Broly's Super Attack!",	
+		"id": 6,
 		"target": {
 			"acquirements": [
 				{
