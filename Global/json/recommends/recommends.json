@@ -1,0 +1,990 @@
+[
+	{
+		"description": "Able to transcend the UR limit through Dokkan Awakening! \nYou can also use him to level up Broly's Super Attack!",		"id": 6,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 501,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_501.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Boost stats with the event exclusive Potential Orbs! \nCollect characters to level up Super Attack!",
+		"id": 526,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 201,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_201.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Boost stats with the event exclusive Potential Orbs! \nCollect Awakening Medals and aim for Dokkan Awakening!",
+		"id": 515,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 196,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_196.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Boost stats with the event exclusive Potential Orbs! \nCollect Awakening Medals and aim for Dokkan Awakening!",
+		"id": 513,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 194,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_194.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Boost stats with the event exclusive Potential Orbs! \nCollect Awakening Medals and aim for Dokkan Awakening!",
+		"id": 512,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 193,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_193.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Boost stats with the event exclusive Potential Orbs! \nCollect Awakening Medals and aim for Dokkan Awakening!",
+		"id": 514,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 195,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_195.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Collect Awakening Medals and aim for Dokkan Awakening! \nDon't forget to unlock Hidden Potential Routes!",
+		"id": 477,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 374,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_374.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Collect Awakening Medals and aim for Dokkan Awakening! \nDon't forget to unlock Hidden Potential Routes!",
+		"id": 478,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 374,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_374.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Collect Awakening Medals and aim for Dokkan Awakening! \nDon't forget to unlock Hidden Potential Routes!",
+		"id": 463,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 372,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_372.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Collect Awakening Medals and aim for Dokkan Awakening! \nAlso recommended for leveling up the Super Attack of \nCumber after Dokkan Awakening!",
+		"id": 452,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 189,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_189.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Boost stats with the event exclusive Potential Orbs! \nCollect Awakening Medals and aim for Dokkan Awakening!",
+		"id": 413,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 369,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_413.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Collect Awakening Medals and aim for Dokkan Awakening! \nDon't forget to unlock Hidden Potential Routes!",
+		"id": 393,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 366,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_366.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Boost stats with the event exclusive Potential Orbs! \nCollect characters to level up Super Attack!",
+		"id": 407,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 368,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_368.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Collect characters to level up Super Attack! \nCollect Awakening Medals to perform a Dokkan Awakening!",
+		"id": 387,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 365,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_365.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Collect Awakening Medals and aim for Dokkan Awakening! \nDon't forget to unlock Hidden Potential Routes!",
+		"id": 376,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 181,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_181.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Collect Awakening Medals and aim for Dokkan Awakening! \nDon't forget to unlock Hidden Potential Routes!",
+		"id": 375,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 181,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_181.png"
+				}
+			]
+		}
+	},
+	{ 
+		"description": "Collect Awakening Medals and aim for Dokkan Awakening! \nDon't forget to unlock Hidden Potential Routes!",
+		"id": 365,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 355,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_355.png"
+				}
+			]
+		}
+	},
+	{
+
+		"description": "Boost stats with the event exclusive Potential Orbs! \nCollect Awakening Medals to Dokkan Awaken him!",
+		"id": 368,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 362,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_362.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Use her Leader Skill to give \n\"Universe 6\" Category allies a power boost! \nCollect  characters to level up Super Attack!",
+		"id": 348,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 363,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_363.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "This character is recommended as a Training Partner \nto level up Champa's Super Attack!",
+		"id": 347,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 363,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_347.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Stats will be boosted when fighting alongside allies of \ntwo different Categories! \"Namekians\" Category allies \ncan give their Ki and ATK & DEF a greater boost!",
+		"id": 346,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 363,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_346.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Changes Ki Spheres and has a medium chance of stunning \nthe attacked enemy! Recommended as a Training Partner \nfor characters with the same name!",
+		"id": 345,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 363,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_345.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Boost stats with the event exclusive Potential Orbs! \nCollect Awakening Medals to perform Dokkan Awakening!",
+		"id": 314,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 356,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_356.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Use his Leader Skill to give \n\"Transformation Boost\" Category allies a power boost! \nCollect characters to level up Super Attack!",
+		"id": 269,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 355,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_355.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Collect Awakening Medals and aim for Dokkan Awakening! \nRaise your Super Attack level before Dokkan Awakening!",
+		"id": 267,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 355,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_355.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Use his Leader Skill to give \n\"Movie Heroes\" Category allies a power boost! \nCollect characters to level up Super Attack!",
+		"id": 266,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 355,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_355.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Collect characters to level up Super Attack! \nCollect Awakening Medals to Dokkan Awaken him!",
+		"id": 289,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 352,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_352.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Collect Awakening Medals and aim for Dokkan Awakening! \nRaise your Super Attack level before Dokkan Awakening!",
+		"id": 242,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 351,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_351.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "A powerful Super Attack that \nhas a high chance of stunning the target! \nDon't forget to unlock Hidden Potential Routes!",
+		"id": 159,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 171,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_171.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Use his Leader Skill to give \n\"Movie Bosses\" Category allies a power boost! \nCollect characters to level up Super Attack!",
+		"id": 268,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 355,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_355.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Boosts Extreme Class allies and recovers HP at start of turn! \nHis Super Attack seals the enemy's Super Attack!",
+		"id": 313,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 345,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_345.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Boosts Extreme Class allies and reduces damage received! \nHis Super Attack stuns enemies!",
+		"id": 312,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 345,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_345.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "This character is recommended as a Training Partner \nto level up Hell Fighter #17's Super Attack!",
+		"id": 311,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 345,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_345.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Collect characters to level up Super Attack! \nDon't forget to unlock Hidden Potential Routes!",
+		"id": 131,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 343,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_343.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Collect Awakening Medals and aim for Dokkan Awakening! \nRaise your Super Attack level before Dokkan Awakening!",
+		"id": 133,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 343,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_343.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Her Leader Skill can boost \"Peppy Gals\" Category allies! \nThe more \"Peppy Gals\" allies there are, \nthe more powerful she becomes!",
+		"id": 203,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 160,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_160.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Collect characters to level up Super Attack! \nCollect Awakening Medals to Dokkan Awaken him!",
+		"id": 248,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 347,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_347.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Boost stats with the event exclusive Potential Orbs! \nCollect Awakening Medals to Dokkan Awaken him!",
+		"id": 155,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 155,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_155.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Boost stats with the event exclusive Potential Orbs! \nCollect Awakening Medals to Dokkan Awaken him!",		"id": 154,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 154,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_154.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Boost stats with the event exclusive Potential Orbs! \nCollect Awakening Medals to Dokkan Awaken him!",		"id": 153,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 153,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_153.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Boost stats with the event exclusive Potential Orbs! \nCollect Awakening Medals to Dokkan Awaken him!",
+		"id": 156,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 156,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_156.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Boost stats with the event exclusive Potential Orbs! \nCollect Awakening Medals to Dokkan Awaken him!",
+		"id": 157,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 157,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_157.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Select him as a Training Partner \nto level up Goku's Super Attack! \nCollect Awakening Medals and aim for Dokkan Awakening!",
+		"id": 201,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 335,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_335.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Use him to level up Frieza (Final Form) (Angel)'s Super Attack! \nCollect Awakening Medals and aim for Dokkan Awakening!",
+		"id": 199,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 335,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_335.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Both her Super Attack and Passive Skill can stun the enemy! \nA character from the \"Peppy Gals\" and \n\"Universe Survival Saga\" Categories!",
+		"id": 198,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 335,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_335.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Select him as a Training Partner \nto level up Gotenks' Super Attack! \nA character from the valuable \"Fusion\" Category!",
+		"id": 196,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 334,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_334.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Boost stats with the event exclusive Potential Orbs! \nCollect Awakening Medals to Dokkan Awaken her!",		"id": 202,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 150,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_150.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Boost stats with the event exclusive Potential Orbs! \nCollect Awakening Medals to Dokkan Awaken him!",
+		"id": 328,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 357,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_357.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Collect Awakening Medals and aim for Dokkan Awakening!\nRaise your Super Attack level before Dokkan Awakening!",
+		"id": 134,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 340,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_340.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Boost stats with the event exclusive Potential Orbs! \nCollect Awakening Medals to Dokkan Awaken him!",
+		"id": 298,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 332,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_298.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Dokkan Awaken and select him as a Training Partner \nto level up Super Saiyan Trunks (Future)'s Super Attack!",
+		"id": 127,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 328,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_127.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Collect characters to level up Super Attack! \nCollect Awakening Medals to Dokkan Awaken him!",
+		"id": 195,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 334,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_195.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Collect characters to level up Super Attack! \nCollect Awakening Medals to Dokkan Awaken him into an LR!",
+		"id": 149,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 602,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_602.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Can attack all enemies with Super Attacks \nafter Dokkan Awakening! \nRaise your Super Attack level before Dokkan Awakening!",
+		"id": 129,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 336,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_336.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Collect characters to level up Super Attack! \nCollect Awakening Medals to perform a Dokkan Awakening!",
+		"id": 389,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 365,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_389.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Collect Awakening Medals and Dokkan Awaken him into \nBaby Vegeta! Recommended as a Training Partner for \ncharacters with the same name!",
+		"id": 329,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 324,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_329.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Extremely reliable in Super Saiyan 3 Goku's Extreme Z-Battle! \nCollect Awakening Medals to transcend the UR limit!",
+		"id": 128,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 333,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_128.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Collect characters to level up Super Attack! \nCollect Awakening Medals to Dokkan Awaken her!",		
+		"id": 152,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 135,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_135.png"
+				},
+				{
+					"area_id": 177,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_177.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Collect characters to level up Super Attack! \nCollect Awakening Medals to Dokkan Awaken him!",
+		"id": 135,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 322,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_322.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Able to transcend the UR limit through Dokkan Awakening! \nMake sure to raise your Super Attack level \nbefore Dokkan Awakening!",
+		"id": 197,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 325,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_325.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Boosts DEF and also raises ATK when attacked! \nBoosts Super Class allies for 1 turn after \nperforming a Super Attack!",
+		"id": 310,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 345,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_345.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Collect characters to level up Super Attack! \nCollect Awakening Medals to Dokkan Awaken him!",	
+		"id": 151,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 133,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_133.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Collect characters to level up Super Attack! \nCollect Awakening Medals to Dokkan Awaken him into an LR!",
+		"id": 148,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 601,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_601.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Collect characters to level up Super Attack! \nDon't forget to unlock Hidden Potential Routes!",
+		"id": 132,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 343,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_343.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Collect Awakening Medals and aim for Dokkan Awakening! \nAlso recommended for leveling up the Super Attack of \ncharacters with the same name!",
+		"id": 388,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 365,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_365.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Collect Awakening Medals and aim for Dokkan Awakening! \nRaise your Super Attack level before Dokkan Awakening!",
+		"id": 353,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 364,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_364.png"
+				}
+			]
+		}
+	},
+	{
+		
+		"description": "Collect characters to level up Super Attack! \nCollect Awakening Medals to Dokkan Awaken him into an LR!",
+		"id": 530,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 606,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_606.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Let her and Android #17 (Future) attack in the same turn! \nPlus launches an additional Super Attack when fighting \n\"Hybrid Saiyans\" Category enemies!",
+		"id": 427,
+		"targets": [
+			{
+				"acquirements": [
+					{
+						"area_id": 371,
+						"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_371.png"
+					}
+				]
+			}
+		]
+	},
+	{
+		"description": "Fight alongside Android #18 (Future) in battle to unleash \nhis true potential! Plus launches an additional Super Attack \nwhen fighting \"Hybrid Saiyans\" Category enemies!",
+		"id": 426,
+		"targets": [
+			{
+				"acquirements": [
+					{
+						"area_id": 371,
+						"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_371.png"
+					}
+				]
+			}
+		]
+	},
+	{
+		"description": "Collect characters to level up Super Attack! \nCollect Awakening Medals to Dokkan Awaken him into an LR!",
+		"id": 406,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 605,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_605.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Collect characters to level up Super Attack! \nCollect Awakening Medals to Dokkan Awaken him into an LR!",
+		"id": 245,
+		"target": {
+			"acquirements": [
+				{
+					"area_id": 604,
+					"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_604.png"
+				}
+			]
+		}
+	},
+	{
+		"description": "Wields a rare skill that unleashes counterattacks \nwith each normal attack received! \nSecure victory with furious counterattacks!",
+		"id": 164,
+		"targets": [
+			{
+				"acquirements": [
+					{
+						"area_id": 337,
+						"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_337.png"
+					}
+				]
+			},
+			{
+				"acquirements": [
+					{
+						"area_id": 337,
+						"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_337.png"
+					}
+				]
+			}
+		]
+	},
+	{
+		"description": "Raises ATK & DEF and gets an additional Ki, ATK & DEF boost when \nfacing multiple enemies! Also has a high chance of performing \na critical hit when fighting \"Androids\" Category enemies!",
+		"id": 425,
+		"targets": [
+			{
+				"acquirements": [
+					{
+						"area_id": 371,
+						"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_371.png"
+					}
+				]
+			}
+		]
+	},
+	{
+		"description": "Collect Awakening Medals and aim for Dokkan Awakening! \nAlso recommended for leveling up the \nSuper Attack of characters with the same name!",		
+		"id": 519,
+		"targets": [
+			{
+				"acquirements": [
+					{
+						"area_id": 377,
+						"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_377.png"
+					},
+					{
+						"area_id": 320,
+						"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_320.png"
+					}
+				]
+			},
+			{
+				"acquirements": [
+					{
+						"area_id": 377,
+						"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_377.png"
+					},
+					{
+						"area_id": 320,
+						"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_320.png"
+					}
+				]
+			},
+			{
+				"acquirements": [
+					{
+						"area_id": 377,
+						"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_377.png"
+					},
+					{
+						"area_id": 320,
+						"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_320.png"
+					}
+				]
+			},
+			{
+				"acquirements": [
+					{
+						"area_id": 377,
+						"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_377.png"
+					},
+					{
+						"area_id": 320,
+						"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_320.png"
+					}
+				]
+			},
+			{
+				"acquirements": [
+					{
+						"area_id": 377,
+						"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_377.png"
+					},
+					{
+						"area_id": 320,
+						"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_320.png"
+					}
+				]
+			}
+		]
+	},
+	{
+		"description": "His great chance of evading attacks and DEF boost are \nperfect for holding off fierce enemy attacks! Attack in \nthe same turn as Beerus to give allies' ATK a super boost!",
+		"id": 518,
+		"targets": [
+			{
+				"acquirements": [
+					{
+						"area_id": 511,
+						"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_511_3.png"
+					}
+				]
+			}
+		]
+	},
+	{
+		"description": "His Leader Skill can give \"Super Saiyans\" Category allies \na power boost! After Transformation, launch his Active Skill \nto enter an invincible \"\"Rage\"\" state!",
+		"id": 370,
+		"targets": [
+			{
+				"acquirements": [
+					{
+						"area_id": 553,
+						"listbutton_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_listbutton/myp_banner_event_553.png"
+					}
+				]
+			}
+		]
+	}
+]
