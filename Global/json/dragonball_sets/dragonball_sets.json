@@ -43,6 +43,48 @@
 					"description": "NORMAL Above",
 					"id": 3,
 					"quest_name": "Premonition of Doom"
+				},
+				{
+					"area_name": "The Emperor's Wrath",
+					"description": "NORMAL Above",
+					"id": 9,
+					"quest_name": "Alien Warrior Encounter 4"
+				},
+				{
+					"area_name": "The Emperor's Wrath",
+					"description": "NORMAL Above",
+					"id": 11,
+					"quest_name": "Brutal Counterattack"
+				},
+				{
+					"area_name": "The Dreaded Ginyu Force",
+					"description": "NORMAL Above",
+					"id": 14,
+					"quest_name": "Orange-Haired Hazard"
+				},
+				{
+					"area_name": "The Emperor\u2019s Wrath",
+					"description": "NORMAL Above",
+					"id": 10,
+					"quest_name": "Alien Warrior Encounter 5"
+				},
+				{
+					"area_name": "The Dreaded Ginyu Force",
+					"description": "NORMAL Above",
+					"id": 12,
+					"quest_name": "Pint-Sized Super Warrior"
+				},
+				{
+					"area_name": "The Dreaded Ginyu Force",
+					"description": "NORMAL Above",
+					"id": 13,
+					"quest_name": "Piccolo's Terms"
+				},
+				{
+					"area_name": "The Emperor\u2019s Wrath",
+					"description": "NORMAL Above",
+					"id": 8,
+					"quest_name": "Alien Warrior Encounter 3"
 				}
 			],
 			"id": 1

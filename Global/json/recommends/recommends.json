@@ -990,5 +990,27 @@
 				]
 			}
 		]
-	}
+	},
+	{
+		"description": "Boost stats with the event exclusive Potential Orbs! \nCollect characters to level up Super Attack!",
+		"id": 344,
+		"target":{
+		   "acquirements":[
+			  {
+				 "area_id":179
+			  }
+		   ]
+		}
+	 },
+	 {
+		"description": "Boost stats with the event exclusive Potential Orbs! \nCollect characters to level up Super Attack!",
+		"id": 343,
+		"target":{
+		   "acquirements":[
+			  {
+				 "area_id":179
+			  }
+		   ]
+		}
+	 }
 ]
