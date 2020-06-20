@@ -85,6 +85,48 @@
 					"description": "NORMAL Above",
 					"id": 8,
 					"quest_name": "Alien Warrior Encounter 3"
+				},
+				{
+					"area_name": "The Androids Attack!",
+					"description": "NORMAL Above",
+					"id": 18,
+					"quest_name": "Android #18's Super Power"
+				},
+				{
+					"area_name": "The Dreaded Ginyu Force",
+					"description": "NORMAL Above",
+					"id": 15,
+					"quest_name": "Red Magma"
+				},
+				{
+					"area_name": "The Dreaded Ginyu Force",
+					"description": "NORMAL Above",
+					"id": 16,
+					"quest_name": "The Mighty Ginyu Force"
+				},
+				{
+					"area_name": "The Androids Attack!",
+					"description": "NORMAL Above",
+					"id": 19,
+					"quest_name": "Enter Android #17!"
+				},
+				{
+					"area_name": "The Androids Attack!",
+					"description": "NORMAL Above",
+					"id": 17,
+					"quest_name": "Android #18's Games Part 1"
+				},
+				{
+					"area_name": "Assault of the Saiyans!",
+					"description": "NORMAL Above",
+					"id": 21,
+					"quest_name": "Find Goku! Part 2"
+				},
+				{
+					"area_name": "The Androids Attack!",
+					"description": "NORMAL Above",
+					"id": 20,
+					"quest_name": "Nightmare Team Assault"
 				}
 			],
 			"id": 1
