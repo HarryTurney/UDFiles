@@ -3,25 +3,21 @@
 		{
 			"description": "Expand Quest Inventory & Item limit.",
 			"id": 1,
-			"is_wishable": true,
 			"title": "I want help in battle!"
 		},
 		{
 			"description": "Increase Team Cost and get rare Awakening Medals.",
 			"id": 2,
-			"is_wishable": true,
 			"title": "I want a stronger team!"
 		},
 		{
 			"description": "Get many items.",
 			"id": 3,
-			"is_wishable": true,
 			"title": "I want a bunch of items!"
 		},
 		{
 			"description": "Increase Character Inventory space. Get Dragon Stones.",
 			"id": 4,
-			"is_wishable": true,
 			"title": "I want more allies!"
 		}
 	]
