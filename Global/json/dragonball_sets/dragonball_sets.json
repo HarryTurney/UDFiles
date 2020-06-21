@@ -127,6 +127,594 @@
 					"description": "NORMAL Above",
 					"id": 20,
 					"quest_name": "Nightmare Team Assault"
+				},
+				{
+					"area_name": "Arise, Saiyan Prince",
+					"description": "NORMAL Above",
+					"id": 28,
+					"quest_name": "Super Saiyan Showdown!"
+				},
+				{
+					"area_name": "Merciless Frieza",
+					"description": "NORMAL Above",
+					"id": 26,
+					"quest_name": "Offense and Defense Part 6"
+				},
+				{
+					"area_name": "Assault of the Saiyans!",
+					"description": "NORMAL Above",
+					"id": 23,
+					"quest_name": "Enter Goku!"
+				},
+				{
+					"area_name": "Assault of the Saiyans!",
+					"description": "NORMAL Above",
+					"id": 22,
+					"quest_name": "Find Goku! Part 4"
+				},
+				{
+					"area_name": "Merciless Frieza",
+					"description": "NORMAL Above",
+					"id": 27,
+					"quest_name": "Raging Battle"
+				},
+				{
+					"area_name": "Assault of the Saiyans!",
+					"description": "NORMAL Above",
+					"id": 24,
+					"quest_name": "Saiyan Attack"
+				},
+				{
+					"area_name": "Merciless Frieza",
+					"description": "NORMAL Above",
+					"id": 25,
+					"quest_name": "Offense and Defense Part 2"
+				},
+				{
+					"area_name": "Red Ribbon Machinations",
+					"description": "NORMAL Above",
+					"id": 29,
+					"quest_name": "To the Lab"
+				},
+				{
+					"area_name": "Red Ribbon Machinations",
+					"description": "NORMAL Above",
+					"id": 32,
+					"quest_name": "Unexpected Savior"
+				},
+				{
+					"area_name": "Unknown Saiyans",
+					"description": "HARD",
+					"id": 34,
+					"quest_name": "The Wayward Champion"
+				},
+				{
+					"area_name": "Red Ribbon Machinations",
+					"description": "NORMAL Above",
+					"id": 30,
+					"quest_name": "Red Ribbon's Return 2"
+				},
+				{
+					"area_name": "Unknown Saiyans",
+					"description": "NORMAL Above",
+					"id": 33,
+					"quest_name": "Find Goku! Part 6"
+				},
+				{
+					"area_name": "Red Ribbon Machinations",
+					"description": "NORMAL Above",
+					"id": 31,
+					"quest_name": "Dr. Gero's Ambition"
+				},
+				{
+					"area_name": "Unknown Saiyans",
+					"description": "NORMAL Above",
+					"id": 35,
+					"quest_name": "The Wayward Invader"
+				},
+				{
+					"area_name": "Terror Returns",
+					"description": "NORMAL & HARD",
+					"id": 40,
+					"quest_name": "Telekinetic Rampage"
+				},
+				{
+					"area_name": "Terror Returns",
+					"description": "HARD Above",
+					"id": 39,
+					"quest_name": "Battle-Smart Brawler 4"
+				},
+				{
+					"area_name": "Unknown Saiyans",
+					"description": "NORMAL Above",
+					"id": 38,
+					"quest_name": "Best Team There Is"
+				},
+				{
+					"area_name": "Unknown Saiyans",
+					"description": "HARD Above",
+					"id": 37,
+					"quest_name": "Battle-Smart Brawler 3"
+				},
+				{
+					"area_name": "Unknown Saiyans",
+					"description": "NORMAL Above",
+					"id": 36,
+					"quest_name": "Battle-Smart Brawler 1"
+				},
+				{
+					"area_name": "Terror Returns",
+					"description": "HARD Above",
+					"id": 41,
+					"quest_name": "Exquisite Team-Up"
+				},
+				{
+					"area_name": "Terror Returns",
+					"description": "NORMAL Above",
+					"id": 42,
+					"quest_name": "Intellect and Speed"
+				},
+				{
+					"area_name": "The Ultimate Android",
+					"description": "NORMAL Above",
+					"id": 49,
+					"quest_name": "Destiny Repeated"
+				},
+				{
+					"area_name": "When Warriors Collide",
+					"description": "NORMAL Above",
+					"id": 44,
+					"quest_name": "Uninvited Enemies"
+				},
+				{
+					"area_name": "When Warriors Collide",
+					"description": "NORMAL Above",
+					"id": 45,
+					"quest_name": "Ginyu's Big Mistake"
+				},
+				{
+					"area_name": "The Ultimate Android",
+					"description": "NORMAL Above",
+					"id": 48,
+					"quest_name": "In Pursuit of Dr. Gero!"
+				},
+				{
+					"area_name": "When Warriors Collide",
+					"description": "NORMAL Above",
+					"id": 46,
+					"quest_name": "Plundered Energy"
+				},
+				{
+					"area_name": "When Warriors Collide",
+					"description": "NORMAL Above",
+					"id": 47,
+					"quest_name": "Missing Target"
+				},
+				{
+					"area_name": "When Warriors Collide",
+					"description": "NORMAL & HARD",
+					"id": 43,
+					"quest_name": "A Peculiar Goku"
+				},
+				{
+					"area_name": "The Ultimate Android",
+					"description": "NORMAL Above",
+					"id": 53,
+					"quest_name": "All Guns Blazing"
+				},
+				{
+					"area_name": "The Ultimate Android",
+					"description": "NORMAL Above",
+					"id": 50,
+					"quest_name": "Intense Onslaught"
+				},
+				{
+					"area_name": "Distorted Destiny",
+					"description": "NORMAL Above",
+					"id": 56,
+					"quest_name": "Lost Warrior"
+				},
+				{
+					"area_name": "The Ultimate Android",
+					"description": "NORMAL Above",
+					"id": 52,
+					"quest_name": "Aggressive Circuitry"
+				},
+				{
+					"area_name": "The Ultimate Android",
+					"description": "NORMAL Above",
+					"id": 54,
+					"quest_name": "Nightmarish Android"
+				},
+				{
+					"area_name": "The Ultimate Android",
+					"description": "NORMAL Above",
+					"id": 51,
+					"quest_name": "Martial Warrior's Offense"
+				},
+				{
+					"area_name": "Distorted Destiny",
+					"description": "NORMAL Above",
+					"id": 55,
+					"quest_name": "Extraordinary Evil"
+				},
+				{
+					"area_name": "Reunited",
+					"description": "NORMAL Above",
+					"id": 57,
+					"quest_name": "Reunion with Krillin"
+				},
+				{
+					"area_name": "Reunited",
+					"description": "NORMAL Above",
+					"id": 61,
+					"quest_name": "Showdown! New Ginyu Force?!"
+				},
+				{
+					"area_name": "Reunited",
+					"description": "NORMAL Above",
+					"id": 62,
+					"quest_name": "Ending of the Body Exchange"
+				},
+				{
+					"area_name": "Frieza's Menace!",
+					"description": "NORMAL Above",
+					"id": 63,
+					"quest_name": "Frieza's Army Attacks!"
+				},
+				{
+					"area_name": "Reunited",
+					"description": "NORMAL Above",
+					"id": 59,
+					"quest_name": "Turles the New Saiyan"
+				},
+				{
+					"area_name": "Reunited",
+					"description": "NORMAL Above",
+					"id": 60,
+					"quest_name": "Ginyu's Trespass!"
+				},
+				{
+					"area_name": "Reunited",
+					"description": "NORMAL Above",
+					"id": 58,
+					"quest_name": "Saiyan Trio"
+				},
+				{
+					"area_name": "Frieza's Menace!",
+					"description": "NORMAL Above",
+					"id": 66,
+					"quest_name": "Imperial Power"
+				},
+				{
+					"area_name": "Frieza's Menace!",
+					"description": "HARD",
+					"id": 65,
+					"quest_name": "Zarbon's Transformation"
+				},
+				{
+					"area_name": "Frieza's Menace!",
+					"description": "HARD Above",
+					"id": 67,
+					"quest_name": "Frieza's Second Transformation"
+				},
+				{
+					"area_name": "The Epic Attack and Defense",
+					"description": "NORMAL Above",
+					"id": 70,
+					"quest_name": "Master of the Demon Realm, Part 3"
+				},
+				{
+					"area_name": "Frieza's Menace!",
+					"description": "NORMAL Above",
+					"id": 64,
+					"quest_name": "Breaking the Siege"
+				},
+				{
+					"area_name": "The Epic Attack and Defense",
+					"description": "NORMAL Above",
+					"id": 68,
+					"quest_name": "Cooler's Armored Squad"
+				},
+				{
+					"area_name": "The Epic Attack and Defense",
+					"description": "HARD Above",
+					"id": 69,
+					"quest_name": "Frieza's Final Transformation"
+				},
+				{
+					"area_name": "Stop the Majin's Revival!",
+					"description": "HARD Above",
+					"id": 92,
+					"quest_name": "The Forgotten Champion"
+				},
+				{
+					"area_name": "Stop the Majin's Revival!",
+					"description": "SUPER",
+					"id": 96,
+					"quest_name": "An Unseen Enemy Part 5"
+				},
+				{
+					"area_name": "Stop the Majin's Revival!",
+					"description": "HARD Above",
+					"id": 97,
+					"quest_name": "The Mysterious Duo"
+				},
+				{
+					"area_name": "Plot of Darkness",
+					"description": "HARD Above",
+					"id": 98,
+					"quest_name": "Nothing Ventured..."
+				},
+				{
+					"area_name": "Stop the Majin's Revival!",
+					"description": "HARD Above",
+					"id": 94,
+					"quest_name": "An Unseen Enemy Part 2"
+				},
+				{
+					"area_name": "Stop the Majin's Revival!",
+					"description": "HARD Above",
+					"id": 95,
+					"quest_name": "An Unseen Enemy Part 3"
+				},
+				{
+					"area_name": "Stop the Majin's Revival!",
+					"description": "HARD Above",
+					"id": 93,
+					"quest_name": "The Recruited Warrior"
+				},
+				{
+					"area_name": "Plot of Darkness",
+					"description": "HARD Above",
+					"id": 101,
+					"quest_name": "Lord of the Demon Realm"
+				},
+				{
+					"area_name": "Plot of Darkness",
+					"description": "Z-HARD Above",
+					"id": 100,
+					"quest_name": "The First Assassin"
+				},
+				{
+					"area_name": "Omen of Brutal Brawl",
+					"description": "Z-HARD Above",
+					"id": 105,
+					"quest_name": "Probe"
+				},
+				{
+					"area_name": "Plot of Darkness",
+					"description": "HARD Above",
+					"id": 103,
+					"quest_name": "The Angry Majin"
+				},
+				{
+					"area_name": "Plot of Darkness",
+					"description": "HARD Above",
+					"id": 99,
+					"quest_name": "Subjugated by Ambition"
+				},
+				{
+					"area_name": "Omen of Brutal Brawl",
+					"description": "Z-HARD Above",
+					"id": 104,
+					"quest_name": "After Awakening"
+				},
+				{
+					"area_name": "Plot of Darkness",
+					"description": "Z-HARD Above",
+					"id": 102,
+					"quest_name": "Countdown"
+				},
+				{
+					"area_name": "A New Threat",
+					"description": "HARD Above",
+					"id": 106,
+					"quest_name": "The Nightmare Begins"
+				},
+				{
+					"area_name": "A New Threat",
+					"description": "HARD Above",
+					"id": 112,
+					"quest_name": "Accelerating Danger"
+				},
+				{
+					"area_name": "A New Threat",
+					"description": "HARD Above",
+					"id": 107,
+					"quest_name": "Turles Returns!"
+				},
+				{
+					"area_name": "A New Threat",
+					"description": "SUPER",
+					"id": 111,
+					"quest_name": "Indomitable Human Spirit"
+				},
+				{
+					"area_name": "A New Threat",
+					"description": "HARD Above",
+					"id": 108,
+					"quest_name": "Destroyer of the Universe - 1"
+				},
+				{
+					"area_name": "A New Threat",
+					"description": "HARD Above",
+					"id": 110,
+					"quest_name": "Destroyer of the Universe - 4"
+				},
+				{
+					"area_name": "A New Threat",
+					"description": "HARD Above",
+					"id": 109,
+					"quest_name": "Destroyer of the Universe - 2"
+				},
+				{
+					"area_name": "Stop Cell's Perfect Form!",
+					"description": "HARD Above",
+					"id": 118,
+					"quest_name": "Cell's Predicament"
+				},
+				{
+					"area_name": "Stop Cell's Perfect Form!",
+					"description": "HARD Above",
+					"id": 113,
+					"quest_name": "A Cruel Twist of Fate"
+				},
+				{
+					"area_name": "Stop Cell's Perfect Form!",
+					"description": "SUPER",
+					"id": 115,
+					"quest_name": "Contact"
+				},
+				{
+					"area_name": "Stop Cell's Perfect Form!",
+					"description": "HARD Above",
+					"id": 119,
+					"quest_name": "Fighting Runs in the Family"
+				},
+				{
+					"area_name": "Stop Cell's Perfect Form!",
+					"description": "Z-HARD Above",
+					"id": 117,
+					"quest_name": "Have the Tables Turned?!"
+				},
+				{
+					"area_name": "Stop Cell's Perfect Form!",
+					"description": "HARD Above",
+					"id": 114,
+					"quest_name": "Decisions"
+				},
+				{
+					"area_name": "Stop Cell's Perfect Form!",
+					"description": "HARD Above",
+					"id": 116,
+					"quest_name": "Evolution"
+				},
+				{
+					"area_name": "Ambitious Androids",
+					"description": "HARD Above",
+					"id": 122,
+					"quest_name": "Tenacious Scientist"
+				},
+				{
+					"area_name": "Ambitious Androids",
+					"description": "HARD Above",
+					"id": 121,
+					"quest_name": "Promises"
+				},
+				{
+					"area_name": "Ambitious Androids",
+					"description": "HARD Above",
+					"id": 120,
+					"quest_name": "One Big Chance"
+				},
+				{
+					"area_name": "Ambitious Androids",
+					"description": "HARD Above",
+					"id": 124,
+					"quest_name": "#17 x 2"
+				},
+				{
+					"area_name": "Ambitious Androids",
+					"description": "HARD Above",
+					"id": 125,
+					"quest_name": "The Ultimate Android"
+				},
+				{
+					"area_name": "Ambitious Androids",
+					"description": "HARD Above",
+					"id": 126,
+					"quest_name": "Androids #17 and #18"
+				},
+				{
+					"area_name": "Ambitious Androids",
+					"description": "HARD Above",
+					"id": 123,
+					"quest_name": "Mysterious #17"
+				},
+				{
+					"area_name": "Signs of Invasion",
+					"description": "HARD Above",
+					"id": 132,
+					"quest_name": "A Bizarre Reunion"
+				},
+				{
+					"area_name": "Signs of Invasion",
+					"description": "HARD Above",
+					"id": 129,
+					"quest_name": "Fierce Battle against Abo and Kado"
+				},
+				{
+					"area_name": "Signs of Invasion",
+					"description": "HARD Above",
+					"id": 127,
+					"quest_name": "Alien Warrior Encounter 6"
+				},
+				{
+					"area_name": "Signs of Invasion",
+					"description": "HARD Above",
+					"id": 130,
+					"quest_name": "The Brother of Frieza"
+				},
+				{
+					"area_name": "Demonic Technology",
+					"description": "SUPER",
+					"id": 133,
+					"quest_name": "A Staff Officer's Battle"
+				},
+				{
+					"area_name": "Signs of Invasion",
+					"description": "HARD Above",
+					"id": 128,
+					"quest_name": "Abo-Kado Fusion!"
+				},
+				{
+					"area_name": "Signs of Invasion",
+					"description": "HARD Above",
+					"id": 131,
+					"quest_name": "A New Sworn Enemy...?!"
+				},
+				{
+					"area_name": "Demonic Technology",
+					"description": "HARD Above",
+					"id": 137,
+					"quest_name": "An Ace in the Hole"
+				},
+				{
+					"area_name": "Taxing Endeavor",
+					"description": "HARD Above",
+					"id": 140,
+					"quest_name": "Training and Experience"
+				},
+				{
+					"area_name": "Taxing Endeavor",
+					"description": "HARD Above",
+					"id": 139,
+					"quest_name": "Resumption"
+				},
+				{
+					"area_name": "Demonic Technology",
+					"description": "HARD Above",
+					"id": 135,
+					"quest_name": "A Loyal Android"
+				},
+				{
+					"area_name": "Demonic Technology",
+					"description": "HARD Above",
+					"id": 138,
+					"quest_name": "Reclaiming Identity"
+				},
+				{
+					"area_name": "Demonic Technology",
+					"description": "HARD Above",
+					"id": 134,
+					"quest_name": "Bio-Soldier"
+				},
+				{
+					"area_name": "Demonic Technology",
+					"description": "HARD Above",
+					"id": 136,
+					"quest_name": "Dr. Gero's Smirk"
 				}
 			],
 			"id": 1

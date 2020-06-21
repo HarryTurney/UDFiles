@@ -19,6 +19,91 @@
 			"description": "Increase Character Inventory space. Get Dragon Stones.",
 			"id": 4,
 			"title": "I want more allies!"
+        },
+		{
+			"description": "Get Training Items and Awakening Medals for AGL char.",
+			"id": 5,
+			"title": "I want to make an AGL char. stronger!"
+		},
+		{
+			"description": "Get Training Items and Awakening Medals for TEQ char.",
+			"id": 6,
+			"title": "I want to make a TEQ char. stronger!"
+		},
+		{
+			"description": "Get Training Items and Awakening Medals for INT char.",
+			"id": 7,
+			"title": "I want to make an INT char. stronger!"
+		},
+		{
+			"description": "Get Training Items and Awakening Medals for STR char.",
+			"id": 8,
+			"title": "I want to make a STR char. stronger!"
+		},
+		{
+			"description": "Get Training Items and Awakening Medals for PHY char.",
+			"id": 9,
+			"title": "I want to make a PHY char. stronger!"
+		},
+		{
+			"description": "Get Character Slots and Dragon Stones.",
+			"id": 10,
+			"title": "I want to have more allies!"
+		},
+		{
+			"description": "Get Character Slots and Dragon Stones.",
+			"id": 11,
+			"title": "I want to have more allies!"
+		},
+		{
+			"description": "Get lots of Treasure that can be obtained in Quest.",
+			"id": 12,
+			"title": "Gimme lots of treasure!"
+		},
+		{
+			"description": "Get an extra team deck.",
+			"id": 13,
+			"title": "More teams, please!"
+		},
+		{
+			"description": "Acquire tons of Incredible Gems!",
+			"id": 14,
+			"title": "Lots of Treasures, please!"
+		},
+		{
+			"description": "Get a bounty of Potential Orbs to boost AGL Type allies!",
+			"id": 15,
+			"title":  "Unlock AGL Type Hidden Potential!"
+		},
+		{
+			"description": "Get a bounty of Potential Orbs to boost TEQ Type allies!",
+			"id": 16,
+			"title":  "Unlock TEQ Type Hidden Potential!"
+		},
+		{
+			"description": "Get a bounty of Potential Orbs to boost INT Type allies!",
+			"id": 17,
+			"title":  "Unlock INT Type Hidden Potential!"
+		},
+		{
+			"description": "Get a bounty of Potential Orbs to boost STR Type allies!",
+			"id": 18,
+			"title":  "Unlock STR Type Hidden Potential!"
+		},
+		{
+			"description": "Get a bounty of Potential Orbs to boost PHY Type allies!",
+			"id": 19,
+			"title": "Unlock PHY Type Hidden Potential!"
+		},
+		{
+			"description": "Get an extra team deck!",
+			"id": 20,
+			"title":  "I want more teams!"
+		},
+		{
+			"description": "Get 10 Incredible Hourglasses!",
+			"id": 21,
+			"title":  "I want to go back to the past!"
 		}
 	]
 }

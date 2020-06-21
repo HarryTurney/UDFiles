@@ -4838,9 +4838,9 @@
         },
 		{
 			"id": 710,
-            "banner_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_banner/quest_list_banner_606.png",
-            "event_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_header/quest_top_banner_606.png",
-            "minibanner_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_banner/quest_event_banner_606.png",
+            "banner_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_banner/quest_list_banner_710.png",
+            "event_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_header/quest_top_banner_710.png",
+            "minibanner_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_banner/quest_event_banner_710.png",
             "quests":[
                 {
 					"id": 710001,
