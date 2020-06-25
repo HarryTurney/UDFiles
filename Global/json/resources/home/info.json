@@ -1,6 +1,14 @@
 {
 	"banners": [
 		{
+			"description": "LR Super Saiyan Son Goku will Extreme Z Awaken!!",
+			"id": 30013439
+		},
+		{
+			"description": "Until July 31 (Fri) 16:59!! Let's open the event and challenge the fierce battle!!",
+			"id": 30013438
+		},
+		{
 			"description": "New players only! Complete the mission to get SSR Android #18!",
 			"image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/resources/home/banner/634/guide_01_myp_en.png",
 			"id": 30012319
