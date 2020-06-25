@@ -409,6 +409,28 @@
 		}
 	},
 	{
+		"description": "Collect characters to level up Super Attack! \nDon't forget to unlock Hidden Potential Routes!",
+		"id": 136,
+		"target":{
+		   "acquirements":[
+			  {
+				 "area_id":338
+			  }
+		   ]
+		}
+	 },
+	 {
+		"description": "Collect characters to level up Super Attack! \nDon't forget to unlock Hidden Potential Routes!",
+		"id": 137,
+		"target":{
+		   "acquirements":[
+			  {
+				 "area_id":338
+			  }
+		   ]
+		}
+	 },
+	{
 		"description": "Collect Awakening Medals and aim for Dokkan Awakening! \nRaise your Super Attack level before Dokkan Awakening!",
 		"id": 133,
 		"target": {
