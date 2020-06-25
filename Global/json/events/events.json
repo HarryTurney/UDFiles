@@ -5691,6 +5691,63 @@
                     "name": "Vs. Universe 6"
                 }
             ]
-        }
+        },
+		{
+			"id": 722,
+			"quests": [
+				{
+					"id": 722001,
+					"limitations": [
+						{
+							"description": "▼Only the following characters can challenge\n\n・[Fusion Power of the Dynamic Duo] Goku (Kaioken)\n・[Namekian Mutation] Slug\n・[Wings of Wonder] Gohan (Kid)\n・[Infinite Curiosity] Goku\n・[Ace Up the Sleeve] Piccolo\n・[Polished Technique] Krillin\n・[Raging Killer Move] Krillin\n・[Evil Namekian] Slug (Giant Form)\n・[A True Master's Dignity] Piccolo\n[Innocent Friendship] Gohan (Kid)\n・[Earnest Determination] Nail",
+							"id": 468
+						},
+						{
+							"description": "Teams including this unit can challenege:\n[Fusion Power of the Dynamic Duo] Goku (Kaioken)",
+							"id": 469
+						},
+						{
+							"description": "Teams including this unit can challenege:\n[Namekian Mutation] Slug",
+							"id": 470
+						},
+						{
+							"description": "Support Items are not allowed",
+							"id": 471
+						},
+						{
+							"description": "Cannot Continue",
+							"id": 472
+						}
+					],
+					"name": "Fusion Power of the Dynamic Duo"
+				},
+				{
+					"id": 722002,
+					"limitations": [
+						{
+							"description": "Teams including this unit can challenege:\n[Fusion Power of the Dynamic Duo] Goku (Kaioken)",
+							"id": 473
+						},
+						{
+							"description": "\u3010\u8d8a\u5883\u30b3\u30f3\u30d3\u306e\u5408\u4f53\u30d1\u30ef\u30fc\u3011\u5b6b\u609f\u7a7a(\u754c\u738b\u62f3)\n\u3092\u542b\u3080\u30c1\u30fc\u30e0\u3067\u6311\u6226\u53ef\u80fd",
+							"id": 474
+						},
+						{
+							"description": "Teams including this unit can challenege:\n[Namekian Mutation] Slug",
+							"id": 475
+						},
+						{
+							"description": "Support Items are not allowed",
+							"id": 476
+						},
+						{
+							"description": "Cannot Continue",
+							"id": 477
+						}
+					],
+					"name": "Namekian Mutation"
+				}
+			]
+		}
     ]
 }
