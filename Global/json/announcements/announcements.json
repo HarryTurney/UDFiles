@@ -1,12 +1,44 @@
 {
 	"announcements":[
         {
+            "id": 2729,
+            "summary": "",
+            "title": "Notice of New Fierce Battle Event!!",
+            "bodies": [
+                {
+                    "description": " \r\n{center:begin}{size: 26}{color: #99FFFF}{shadow : #3399FF ,2, 2, 4}Two Saiyans using all their power!!\r\nDeafeat the upcoming fierce battle event!!{color}{shadow}\r\n\r\nStay tuned for a new fierce battle event!{center}{size}\r\n\r\n*Please note that the event\r\ncontent and period may change\r\nwithout notice.\r\n\r\nThank you for your continued support for\r\n\"Dragon Ball Z Dokkan Battle\"."
+                }
+            ]
+        },
+        {
             "id": 2724,
             "summary": "*Added on June 17 (Wed)\r\nThis bug has been fixed.",
             "title": "Defects in transformation conditions\nfor specific characters",
             "bodies": [
                 {
                     "description": "{color: #FFFF00}2020/6/17(Wed) 14:00{color}\r\n\r\nThank you for playing\r\nDragon Ball Z Dokkan Battle.\r\n\r\nThis bug has been fixed.\r\n\r\nAs an apology for this problem,\r\nwe will send one \"Dragon Stone\" to all users.\r\n\r\n▼Dragon Stone Receiving Period\r\n2020/6/17(Wed) Sequential distribution\r\n ～2020/7/1(Wed) 23:59\r\n* \"Dragon Stone\" will be distributed to the present box.\r\n\r\nWe apologize for any inconvenience this\r\nmay have caused to our users.\r\n\r\nThank you for your continued support for\r\n\"Dragon Ball Z Dokkan Battle\".\r\n\r\nーーーーーーーーーーーーーーーーーーーーーーーーー\r\n\r\nThank you for using Dragon Ball Z Dokkan Battle.\r\n\r\nWe have confirmed the following defects under the \r\ntransformation conditions of [Heroic Warrior] Gohan (Future).\r\n\r\n▼変身条件\r\nAfter the 4th turn from the start of the battle, if the \r\ncharacter with \"Trunks\" in the name (excluded kid, \r\nand GT) is on the team when HP is 58% or more, he \r\nwill transform\r\n\r\n▼不具合内容\r\n{size: 20}[Pride of Humans] Super Saiyan Trunks (Future) & Mai (Future) {size}\r\nare not transformed into \"Super Saiyan Gohan(Future)\"\r\neven if the conditions are met while being organized in the team.\r\n\r\nWe will inform you about this matter in the notification\r\nin the application as soon as the correction is \r\ncompleted.\r\n\r\nWe also plan to inform you of the\r\napology for this matter at a later date.\r\n\r\nWe apologize for any inconvenience this may have\r\ncaused to our users.\r\n\r\nThank you for your continued support for\r\n\"Dragon Ball Z Dokkan Battle\"."
+                }
+            ]
+        },
+        {
+            "id": 2728,
+            "summary": "",
+            "title": "[Notice] A new stage will appear in the special edition event!",
+            "bodies": [
+                {
+                    "description": " \r\n{center:begin}{size:26}{color: #FF99FF}{shadow: #FF6600, 1, 1, 2}A new stage is scheduled to appear \r\nin the special edition event \r\n\"Spread Love! Magical Girl Fighters!\"!!{shadow}{color}{size}{center}\r\n\r\n{size: 25}{outline: #FF0000, 2}{color: #FFFF00}● Event information{color}{outline}{size}\r\nIn the new stage, you can recruit \r\n{outline: #CC33FF,2} Roasie{outline} and {outline: #3399FF,2} Kakunsa {outline} who can Dokkan Awaken!!"
+                },
+                {
+                    "description": ""
+                },
+                {
+                    "description": ""
+                },
+                {
+                    "description": ""
+                },
+                {
+                    "description": " \r\n{center:begin}{size:26}{color: #FFFF00}Stay tuned for\r\na new stage\r\ncoming soon!!{color}{size}{center}\r\n\r\n{size: 25}{outline: #FF0000, 2}{color: #FFFF00}● Notes{color}{outline}{size}\r\nDue to the new stage addition,\r\n\"Spread Love! Magical Girl Fighters!\" will be temporarily\r\nunavailable during the following preparation period. \r\nPlease take note.\r\n\r\n{size: 25}{outline: #FF0000, 2}{color: #FFFF00}●Preparation period{color}{outline}{size}\r\n29th June, 2020 (Mon) ~\r\n\r\n*Preparation for additional stages\r\nwill start on 29th June (Mon).\r\n*The event will be held again as\r\nsoon as additional preparations\r\nfor the stage are completed.\r\n*Please note that the event\r\ncontent and period may change\r\nwithout notice.\r\n\r\nThank you for your continued support for\r\n\"Dragon Ball Z Dokkan Battle\"."
                 }
             ]
         },
