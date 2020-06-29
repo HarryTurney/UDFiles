@@ -1,6 +1,648 @@
 {
 	"announcements":[
         {
+            "id": 200541,
+            "summary": "Log in every day and get up to 77 dragon stones!\r\nYou can also get the hidden treasure \"Wishing Strip 3\" etc.!!",
+            "title": "Shine in heaven!\nTanabata Dokkan Login Bonus",
+            "bodies": [
+                {
+                    "description": "{center:begin}{loginBonus : 1132}{center}* The deadline for receiving the login bonus\r\nfor 7/30 (Thu) is until 7/31 (Fri) 3:59.\r\n*The login bonus will be updated every day at 4:00.\r\n\r\n{center: begin}{size: 28}{color: #FFFFCC}{outline: #FF3399, 2}Shine in heaven!{outline}{color} \r\n{color: #81F7F3}{outline: #00BFFF, 2}Tanabata {outline}{color}{color: #F2F5A9}{outline: #FF00FF, 2} DOKKAN {outline}{color}{outline: #BF00FF, 2} Missions{outline}\r\nheld!!{size}\r\n\r\n{size: 23}Log in every day and get 2 {outline: #FF0000, 2}{color: #FFFF00} \"dragon stones\"{color}{outline}!!\r\nOn 7/7 (Tuesday), you can get luxurious\r\nrewards such as 7 {outline: #FF0000, 2}{color: #FFFF00} \"Dragon Stones\"{color}{outline}!!\r\n\r\nIf you log in without fail during the period,\r\nyou can get a total of {outline: #FF0000, 2}{color: #FFFF00} 77 \"dragon stones\"{color}{outline}!!\r\n\r\nFurthermore, during the following period,\r\nyou will receive a {color: #FFFF00} special reward {color} when\r\nyou log in for the first time!!{size}{center}\r\n\r\n{outline: #FF0000, 2}▼6/30 (Tue) 13:00-7/31 (Fri) 3:59{outline}\r\n・10 Dragon Stones\r\n・1 Treasure \"Wish Strip 3\"\r\n{outline: #FF0000, 2}▼ 7/7 (Tue) 13:00-7/31 (Fri) 3:59{outline}\r\n・1 Treasure \"Wish Strip 3\""
+                },
+                {
+                    "description": " \r\n* With this login bonus, you can get up\r\nto 2 hidden treasures, \"Wishing Strip 3\".\r\n{center:begin}\r\n{size: 23}In addition, there are plenty of rewards such\r\nas training items useful for character training!!{size}\r\n\r\n{size: 26}Be sure to log in and\r\nget a luxurious reward!!{size}{center}\r\n\r\n*Please note that the campaign\r\ncontent and period may change\r\nwithout notice.\r\n\r\nThank you for your continued support for \r\n\"Dragon Ball Z Dokkan Battle\"."
+                }
+            ],
+            "login_bonuses": [
+                {
+                    "id": 1132,
+                    "offsets": [
+                        {
+                            "rewards": [
+                                {
+                                    "id": 18828,
+                                    "label_name": "×2"
+                                },
+                                {
+                                    "id": 18827,
+                                    "label_name": "×2"
+                                },
+                                {
+                                    "id": 18826,
+                                    "label_name": "×1"
+                                },
+                                {
+                                    "id": 18825,
+                                    "label_name": "×1"
+                                }
+                            ]
+                        },
+                        {
+                            "rewards": [
+                                {
+                                    "id": 18836,
+                                    "label_name": "×2"
+                                },
+                                {
+                                    "id": 18835,
+                                    "label_name": "×5"
+                                },
+                                {
+                                    "id": 18834,
+                                    "label_name": "100 Pieces"
+                                },
+                                {
+                                    "id": 18829,
+                                    "label_name": "×1"
+                                }
+                            ]
+                        },
+                        {
+                            "rewards": [
+                                {
+                                    "id": 18844,
+                                    "label_name": "×2"
+                                },
+                                {
+                                    "id": 18843,
+                                    "label_name": "×5"
+                                },
+                                {
+                                    "id": 18842,
+                                    "label_name": "50 Pieces"
+                                },
+                                {
+                                    "id": 18837,
+                                    "label_name": "×1"
+                                }
+                            ]
+                        },
+                        {
+                            "rewards": [
+                                {
+                                    "id": 18852,
+                                    "label_name": "x2"
+                                },
+                                {
+                                    "id": 18851,
+                                    "label_name": "x5"
+                                },
+                                {
+                                    "id": 18850,
+                                    "label_name": "10 Pieces"
+                                },
+                                {
+                                    "id": 18845,
+                                    "label_name": "x1"
+                                }
+                            ]
+                        },
+                        {
+                            "rewards": [
+                                {
+                                    "id": 18860,
+                                    "label_name": "x2"
+                                },
+                                {
+                                    "id": 18859,
+                                    "label_name": "x5"
+                                },
+                                {
+                                    "id": 18858,
+                                    "label_name": "100 Pieces"
+                                },
+                                {
+                                    "id": 18853,
+                                    "label_name": "x1"
+                                }
+                            ]
+                        },
+                        {
+                            "rewards": [
+                                {
+                                    "id": 18868,
+                                    "label_name": "x2"
+                                },
+                                {
+                                    "id": 18867,
+                                    "label_name": "x5"
+                                },
+                                {
+                                    "id": 18866,
+                                    "label_name": "50 Pieces"
+                                },
+                                {
+                                    "id": 18861,
+                                    "label_name": "x1"
+                                }
+                            ]
+                        },
+                        {
+                            "rewards": [
+                                {
+                                    "id": 18876,
+                                    "label_name": "x2"
+                                },
+                                {
+                                    "id": 18875,
+                                    "label_name": "x1"
+                                },
+                                {
+                                    "id": 18874,
+                                    "label_name": "10 Pieces"
+                                },
+                                {
+                                    "id": 18869,
+                                    "label_name": "x1"
+                                }
+                            ]
+                        },
+                        {
+                            "rewards": [
+                                {
+                                    "id": 18884,
+                                    "label_name": "x7"
+                                },
+                                {
+                                    "id": 18883,
+                                    "label_name": "x1"
+                                },
+                                {
+                                    "id": 18882,
+                                    "label_name": "7 Pieces"
+                                },
+                                {
+                                    "id": 18877,
+                                    "label_name": "x1"
+                                }
+                            ]
+                        },
+                        {
+                            "rewards": [
+                                {
+                                    "id": 18890,
+                                    "label_name": "x2"
+                                },
+                                {
+                                    "id": 18889,
+                                    "label_name": "x50"
+                                },
+                                {
+                                    "id": 18886,
+                                    "label_name": "x200"
+                                },
+                                {
+                                    "id": 18885,
+                                    "label_name": "x1"
+                                }
+                            ]
+                        },
+                        {
+                            "rewards": [
+                                {
+                                    "id": 18898,
+                                    "label_name": "x2"
+                                },
+                                {
+                                    "id": 18897,
+                                    "label_name": "x20"
+                                },
+                                {
+                                    "id": 18892,
+                                    "label_name": "x200"
+                                },
+                                {
+                                    "id": 18891,
+                                    "label_name": "x1"
+                                }
+                            ]
+                        },
+                        {
+                            "rewards": [
+                                {
+                                    "id": 18906,
+                                    "label_name": "x2"
+                                },
+                                {
+                                    "id": 18905,
+                                    "label_name": "x10"
+                                },
+                                {
+                                    "id": 18900,
+                                    "label_name": "x200"
+                                },
+                                {
+                                    "id": 18899,
+                                    "label_name": "x1"
+                                }
+                            ]
+                        },
+                        {
+                            "rewards": [
+                                {
+                                    "id": 18914,
+                                    "label_name": "x2"
+                                },
+                                {
+                                    "id": 18913,
+                                    "label_name": "x3"
+                                },
+                                {
+                                    "id": 18908,
+                                    "label_name": "x200"
+                                },
+                                {
+                                    "id": 18907,
+                                    "label_name": "x1"
+                                }
+                            ]
+                        },
+                        {
+                            "rewards": [
+                                {
+                                    "id": 18918,
+                                    "label_name": "x2"
+                                },
+                                {
+                                    "id": 18917,
+                                    "label_name": "x1"
+                                },
+                                {
+                                    "id": 18916,
+                                    "label_name": "x200"
+                                },
+                                {
+                                    "id": 18915,
+                                    "label_name": "x1"
+                                }
+                            ]
+                        },
+                        {
+                            "rewards": [
+                                {
+                                    "id": 18922,
+                                    "label_name": "x2"
+                                },
+                                {
+                                    "id": 18921,
+                                    "label_name": "x1"
+                                },
+                                {
+                                    "id": 18920,
+                                    "label_name": "x1"
+                                },
+                                {
+                                    "id": 18919,
+                                    "label_name": "x1"
+                                }
+                            ]
+                        },
+                        {
+                            "rewards": [
+                                {
+                                    "id": 18926,
+                                    "label_name": "x2"
+                                },
+                                {
+                                    "id": 18925,
+                                    "label_name": "x1"
+                                },
+                                {
+                                    "id": 18924,
+                                    "label_name": "x100"
+                                },
+                                {
+                                    "id": 18923,
+                                    "label_name": "x1"
+                                }
+                            ]
+                        },
+                        {
+                            "rewards": [
+                                {
+                                    "id": 18930,
+                                    "label_name": "x2"
+                                },
+                                {
+                                    "id": 18929,
+                                    "label_name": "x1"
+                                },
+                                {
+                                    "id": 18928,
+                                    "label_name": "x100"
+                                },
+                                {
+                                    "id": 18927,
+                                    "label_name": "x1"
+                                }
+                            ]
+                        },
+                        {
+                            "rewards": [
+                                {
+                                    "id": 18934,
+                                    "label_name": "x2"
+                                },
+                                {
+                                    "id": 18933,
+                                    "label_name": "x1"
+                                },
+                                {
+                                    "id": 18932,
+                                    "label_name": "x100"
+                                },
+                                {
+                                    "id": 18931,
+                                    "label_name": "x1"
+                                }
+                            ]
+                        },
+                        {
+                            "rewards": [
+                                {
+                                    "id": 18938,
+                                    "label_name": "x2"
+                                },
+                                {
+                                    "id": 18937,
+                                    "label_name": "x1"
+                                },
+                                {
+                                    "id": 18936,
+                                    "label_name": "x100"
+                                },
+                                {
+                                    "id": 18935,
+                                    "label_name": "x1"
+                                }
+                            ]
+                        },
+                        {
+                            "rewards": [
+                                {
+                                    "id": 18942,
+                                    "label_name": "x2"
+                                },
+                                {
+                                    "id": 18941,
+                                    "label_name": "x1"
+                                },
+                                {
+                                    "id": 18940,
+                                    "label_name": "x100"
+                                },
+                                {
+                                    "id": 18939,
+                                    "label_name": "x1"
+                                }
+                            ]
+                        },
+                        {
+                            "rewards": [
+                                {
+                                    "id": 18948,
+                                    "label_name": "x2"
+                                },
+                                {
+                                    "id": 18947,
+                                    "label_name": "x50"
+                                },
+                                {
+                                    "id": 18944,
+                                    "label_name": "x1"
+                                },
+                                {
+                                    "id": 18943,
+                                    "label_name": "x1"
+                                }
+                            ]
+                        },
+                        {
+                            "offset": 21,
+                            "rewards": [
+                                {
+                                    "id": 18956,
+                                    "label_name": "x2"
+                                },
+                                {
+                                    "id": 18955,
+                                    "label_name": "x20 Pieces"
+                                },
+                                {
+                                    "id": 18950,
+                                    "label_name": "x15"
+                                },
+                                {
+                                    "id": 18949,
+                                    "label_name": "x1"
+                                }
+                            ]
+                        },
+                        {
+                            "rewards": [
+                                {
+                                    "id": 18964,
+                                    "label_name": "x2"
+                                },
+                                {
+                                    "id": 18963,
+                                    "label_name": "x10"
+                                },
+                                {
+                                    "id": 18958,
+                                    "label_name": "x15"
+                                },
+                                {
+                                    "id": 18957,
+                                    "label_name": "x1"
+                                }
+                            ]
+                        },
+                        {
+                            "offset": 23,
+                            "rewards": [
+                                {
+                                    "id": 18972,
+                                    "label_name": "x2"
+                                },
+                                {
+                                    "id": 18971,
+                                    "label_name": "x3"
+                                },
+                                {
+                                    "id": 18966,
+                                    "label_name": "x15"
+                                },
+                                {
+                                    "id": 18965,
+                                    "label_name": "x1"
+                                }
+                            ]
+                        },
+                        {
+                            "rewards": [
+                                {
+                                    "id": 18976,
+                                    "label_name": "x2"
+                                },
+                                {
+                                    "id": 18975,
+                                    "label_name": "x1"
+                                },
+                                {
+                                    "id": 18974,
+                                    "label_name": "x15"
+                                },
+                                {
+                                    "id": 18973,
+                                    "label_name": "x1"
+                                }
+                            ]
+                        },
+                        {
+                            "rewards": [
+                                {
+                                    "id": 18980,
+                                    "label_name": "x2"
+                                },
+                                {
+                                    "id": 18979,
+                                    "label_name": "x1"
+                                },
+                                {
+                                    "id": 18978,
+                                    "label_name": "x15"
+                                },
+                                {
+                                    "id": 18977,
+                                    "label_name": "x1"
+                                }
+                            ]
+                        },
+                        {
+                            "rewards": [
+                                {
+                                    "id": 18988,
+                                    "label_name": "x2"
+                                },
+                                {
+                                    "id": 18987,
+                                    "label_name": "x1"
+                                },
+                                {
+                                    "id": 18986,
+                                    "label_name": "200 Pieces"
+                                },
+                                {
+                                    "id": 18981,
+                                    "label_name": "x1"
+                                }
+                            ]
+                        },
+                        {
+                            "rewards": [
+                                {
+                                    "id": 18996,
+                                    "label_name": "x2"
+                                },
+                                {
+                                    "id": 18995,
+                                    "label_name": "x1"
+                                },
+                                {
+                                    "id": 18994,
+                                    "label_name": "100 Pieces"
+                                },
+                                {
+                                    "id": 18989,
+                                    "label_name": "x1"
+                                }
+                            ]
+                        },
+                        {
+                            "rewards": [
+                                {
+                                    "id": 19004,
+                                    "label_name": "x2"
+                                },
+                                {
+                                    "id": 19003,
+                                    "label_name": "x1"
+                                },
+                                {
+                                    "id": 19002,
+                                    "label_name": "x15"
+                                },
+                                {
+                                    "id": 18997,
+                                    "label_name": "x1"
+                                }
+                            ]
+                        },
+                        {
+                            "rewards": [
+                                {
+                                    "id": 19012,
+                                    "label_name": "x2"
+                                },
+                                {
+                                    "id": 19011,
+                                    "label_name": "x1"
+                                },
+                                {
+                                    "id": 19010,
+                                    "label_name": "200 Pieces"
+                                },
+                                {
+                                    "id": 19005,
+                                    "label_name": "x1"
+                                }
+                            ]
+                        },
+                        {
+                            "rewards": [
+                                {
+                                    "id": 19020,
+                                    "label_name": "x2"
+                                },
+                                {
+                                    "id": 19019,
+                                    "label_name": "x1"
+                                },
+                                {
+                                    "id": 19018,
+                                    "label_name": "100 Pieces"
+                                },
+                                {
+                                    "id": 19013,
+                                    "label_name": "x1"
+                                }
+                            ]
+                        },
+                        {
+                            "rewards": [
+                                {
+                                    "id": 19032,
+                                    "label_name": "x2"
+                                },
+                                {
+                                    "id": 19031,
+                                    "label_name": "x3"
+                                },
+                                {
+                                    "id": 19026,
+                                    "label_name": "15 Pieces"
+                                },
+                                {
+                                    "id": 19021,
+                                    "label_name": "x1"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": 2736,
             "summary": "A lot of new fierce battle events and extreme Z battles!\r\nMany events related to Tanabata are held!",
             "title": "Shine in heaven!\nTanabata Dokkan Campaign",
