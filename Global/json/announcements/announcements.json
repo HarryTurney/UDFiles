@@ -32,11 +32,9 @@
             "id": 2731,
             "summary": "",
             "title": "Update of some products that can\nbe exchanged from the treasure shop",
-            "banner": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/rmbattles/rmb_banner_00001.png",
             "bodies": [
                 {
-                    "description": " \r\nFrom Monday, June 29th, the following updates\r\nwere made at the Fortune-telling Baba Exchange Center.\r\n\r\nWe have updated the maximum number of exchanges for LR\r\n[The EvilSorcerer and The King of the Demon Realm]\r\nBabidi & Dabura exchanging with the \r\ntreasure \"Battlefield Memory\".\r\n\r\nBefore update: Maximum number of exchanges is 1\r\n{color: #FFFF00}After renewal: Up to 2 times can be exchanged{color}\r\n\r\n*The number of exchanges is not reset.\r\n*If the updated contents are not displayed, it may be\r\nimproved by restarting the application or clearing the cache.\r\n*Please note that the products at the exchange\r\noffice may changen without prior notice.\r\n\r\nThank you for your continued support for \r\n\"Dragon Ball Z Dokkan Battle\".",
-                    "image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/rmbattles/rmb_banner_00001.png"
+                    "description": " \r\nFrom Monday, June 29th, the following updates\r\nwere made at the Fortune-telling Baba Exchange Center.\r\n\r\nWe have updated the maximum number of exchanges for LR\r\n[The EvilSorcerer and The King of the Demon Realm]\r\nBabidi & Dabura exchanging with the \r\ntreasure \"Battlefield Memory\".\r\n\r\nBefore update: Maximum number of exchanges is 1\r\n{color: #FFFF00}After renewal: Up to 2 times can be exchanged{color}\r\n\r\n*The number of exchanges is not reset.\r\n*If the updated contents are not displayed, it may be\r\nimproved by restarting the application or clearing the cache.\r\n*Please note that the products at the exchange\r\noffice may changen without prior notice.\r\n\r\nThank you for your continued support for \r\n\"Dragon Ball Z Dokkan Battle\"."
                 }
             ]
         },
