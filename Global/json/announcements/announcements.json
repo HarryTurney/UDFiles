@@ -1,6 +1,16 @@
 {
 	"announcements":[
         {
+            "id": 2731,
+            "summary": "",
+            "title": "Regarding the update of some products that can\nbe exchanged for the treasure \"Memory of fierce battle\"",
+            "bodies": [
+                {
+                    "description": " \r\nFrom Monday, June 29th, the following updates\r\nwere made at the Fortune-telling Baba Exchange Center.\r\n\r\nWe have updated the maximum number\r\nof exchanges for LR [The Evil\r\nSorcerer and The King of the\r\nDemon Realm] Babidi & Dabura\r\nexchanging with the treasure \"Battlefield Memory\".\r\n\r\nBefore update: Maximum number of exchanges is 1\r\n{color: #FFFF00}After renewal: Up to 2 times can be exchanged{color}\r\n\r\n*The number of exchanges is not reset.\r\n*If the updated contents are not\r\ndisplayed, it may be improved by\r\nrestarting the application or\r\nclearing the cache.\r\n*Please note that the products at\r\nthe exchange office may change\r\nwithout prior notice.\r\n\r\nThank you for your continued support for \r\n\"Dragon Ball Z Dokkan Battle\"."
+                }
+            ]
+        },
+        {
             "id": 2729,
             "summary": "",
             "title": "Notice of New Fierce Battle Event!!",
@@ -23,7 +33,7 @@
         {
             "id": 2728,
             "summary": "",
-            "title": "[Notice] A new stage will appear in the special edition event!",
+            "title": "New stage will appear in an event!",
             "bodies": [
                 {
                     "description": " \r\n{center:begin}{size:26}{color: #FF99FF}{shadow: #FF6600, 1, 1, 2}A new stage is scheduled to appear \r\nin the special edition event \r\n\"Spread Love! Magical Girl Fighters!\"!!{shadow}{color}{size}{center}\r\n\r\n{size: 25}{outline: #FF0000, 2}{color: #FFFF00}● Event information{color}{outline}{size}\r\nIn the new stage, you can recruit \r\n{outline: #CC33FF,2} Roasie{outline} and {outline: #3399FF,2} Kakunsa {outline} who can Dokkan Awaken!!"
