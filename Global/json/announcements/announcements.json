@@ -1,12 +1,40 @@
 {
 	"announcements":[
         {
+            "id": 200540,
+            "summary": "Let's challenge 3 different missions with different difficulty!!\r\nComplete missions and get luxury rewards such as \"Dragon Stones\"!!",
+            "title": "Shine in heaven!\nTanabata Dokkan mission first half",
+            "announcement_mission_campaigns": [
+                {
+                    "announcement_mission_campaign_sections": [
+                        {
+                            "id": 61,
+                            "title": "Limited mission"
+                        },
+                        {
+                            "id": 62,
+                            "title": "Limited mission"
+                        }
+                    ],
+                    "id": 30
+                }
+            ],
+            "bodies": [
+                {
+                    "description": "{center:begin}\r\n{size:30}{outline: #FF0000,2}{color: #FFFF00}▼ 開催期間 ▼{color}{outline}{size}\r\n{size:18}2020/6/30 (Tue) 0:00-2020/7/31 (Fri) 23:59{size}\r\n\r\n{size: 28}{color: #FFFFCC}{outline: #FF3399, 2}Shine in heaven!{outline}{color} \r\n{color: #81F7F3}{outline: #00BFFF, 2} Tanabata {outline}{color}{color: #F6CEF5}{outline: #FA5858, 2} DOKKAN {outline}{color}{outline: #58ACFA, 2} mission{outline}\r\nheld!!{size}\r\n\r\n{size: 23}{color: #FFFF00} Three {color} types of missions with \r\ndifferent difficulty levels\r\nare now available! The difficulty\r\nlevels are increasing in the order of \r\n{color: #FF66FF}\"Orihime\"{color}{color: #0099FF}\"Hikoboshi\" {color} and {color: #FFFFCC} \"Orihime\"{color}!!\r\n\r\nIn addition, there is a mission to obtain\r\nthe hidden treasure {outline: #FF00FF,2} \"Wishing Strip 3\" {outline}!!\r\n\r\nFrom {color: #FFFF00} Thursday, July 16th {color}, the second half \r\nmissions will be added to each difficulty level!!\r\n\r\nIf you clear all the limited missions \r\nincluding the second half, you can get \r\n{color: #FFA3A3}\"S {color} {color: #FFE8A3}ec{color}{color: #D1FFA3}ia{color}{color: #A3FFBA}l S{color}{color: #A3FFFF}ti{color}{color: #A3D3FF}ck{color}{color: #A3A7FF}er{color}{color: #CBA3FF}s\"{color}!!!!{size}{center}"
+                },
+                {
+                    "description": "{center:begin}\r\n{size: 23}Complete missions and\r\nget luxurious rewards!!{size}{center}\r\n\r\n{size: 25}{outline: #FF0000, 2}{color: #FFFF00}● Mission details{color}{outline}{size}\r\n{showMission : 30}\r\n*For detailed mission information,\r\nplease see \"Limited Missions\".\r\n*Please note that the campaign\r\ncontent and period may change \r\nwithout notice.\r\n\r\nThank you for your continued support of\r\n\"Dragon Ball Z Dokkan Battle\"."
+                }
+            ]
+        },
+        {
             "id": 2731,
             "summary": "",
             "title": "Update of some products that can\nbe exchanged from the treasure shop",
             "bodies": [
                 {
-                    "description": " \r\nFrom Monday, June 29th, the following updates\r\nwere made at the Fortune-telling Baba Exchange Center.\r\n\r\nWe have updated the maximum number of exchanges for LR\r\n[The EvilSorcerer and The King of the Demon Realm]\r\n Babidi & Dabura exchanging with the \r\ntreasure \"Battlefield Memory\".\r\n\r\nBefore update: Maximum number of exchanges is 1\r\n{color: #FFFF00}After renewal: Up to 2 times can be exchanged{color}\r\n\r\n*The number of exchanges is not reset.\r\n*If the updated contents are not displayed, it may be\r\nimproved by restarting the application or clearing the cache.\r\n*Please note that the products at the exchange\r\noffice may changen without prior notice.\r\n\r\nThank you for your continued support for \r\n\"Dragon Ball Z Dokkan Battle\"."
+                    "description": " \r\nFrom Monday, June 29th, the following updates\r\nwere made at the Fortune-telling Baba Exchange Center.\r\n\r\nWe have updated the maximum number of exchanges for LR\r\n[The EvilSorcerer and The King of the Demon Realm]\r\nBabidi & Dabura exchanging with the \r\ntreasure \"Battlefield Memory\".\r\n\r\nBefore update: Maximum number of exchanges is 1\r\n{color: #FFFF00}After renewal: Up to 2 times can be exchanged{color}\r\n\r\n*The number of exchanges is not reset.\r\n*If the updated contents are not displayed, it may be\r\nimproved by restarting the application or clearing the cache.\r\n*Please note that the products at the exchange\r\noffice may changen without prior notice.\r\n\r\nThank you for your continued support for \r\n\"Dragon Ball Z Dokkan Battle\"."
                 }
             ]
         },
