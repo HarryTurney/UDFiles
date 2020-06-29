@@ -1,6 +1,100 @@
 {
 	"announcements":[
         {
+            "announcement": {
+                "id": 2736,
+                "summary": "A lot of new fierce battle events and extreme Z battles!\r\nMany events related to Tanabata are held!",
+                "title": "Shine in heaven!\nTanabata Dokkan Campaign",
+                "bodies": [
+                    {
+                        "description": " \r\n{center: begin}{size: 28}{color: #FFFFCC}{outline: #FF3399, 2}Shine in heaven!{outline}{color} \r\n{color: #81F7F3}{outline: #00BFFF, 2}Tanabata {outline}{color}{color: #F2F5A9}{outline: #FF00FF, 2} DOKKAN {outline}{color}{outline: #58ACFA, 2} campaign{outline}is held!!{size}\r\n\r\n{size: 23}During the campaign period, new fierce\r\nbattle events, extreme Z battles, story\r\nevents and other events that you can\r\nnot miss will be held one after another!!\r\n\r\nTwo more\r\n{color: #FFFF00}Dokkan festivals {color} have arrived!\r\n\r\n{outline: #FF8000, 2}Super Saiyan God SS Son Goku\r\n& Super Saiyan God SS Vegeta{outline}\r\nwho can Dokkan awaken to LR are very powerful!!\r\n\r\nAt the {color: #00FFFF}{outline: #0000FF, 2} Tanabata Dokkofest {outline}{color} scheduled to be\r\nheld from 7/7 (Tue.), {outline: #FF3333, 2} Gojita {outline} and {outline: #01DF01, 2} Vejitto {outline},\r\nwhich appeared on the 5th anniversary,\r\nwill appear again!!\r\n\r\nIn addition, there are {color: #00FF00}77 different units{color}\r\nto pick, where you can recruit your\r\nfavorite units by exchanging with the\r\nhidden treasure {outline: #FF00FF,2} \"Wish Strip 3\" {outline} and the\r\n{color: #FFFF00}Porunga Dragon Ball campaign{color}!!\r\n\r\nLet's play Dokkan's\r\nupcoming amazing\r\ncampaign Tanabata!!{size}{center}\r\n\r\n{center: begin}{size: 25}{color: #FFFF00}{outline: #FF0000, 2}▼Campaign Content▼{outline}{color}{size}{center}\r\n\r\n{size: 25}{color: #FFFF00}{outline: #FF0000, 2}Shine in heaven! \r\n Tanabata DOKKAN Login Bonus!!{color}{outline}{size}"
+                    },
+                    {
+                        "description": "{center: begin}{size: 18}2020/6/30(Tue) 4:00 ~ 2020/7/31(Fri) 3:59{size}{center}\r\n\r\n{size: 25}{color: #FFFF00}{outline: #FF0000, 2}Shine in heaven!\r\nTanabata DOKKAN mission!!{color}{outline}{size}"
+                    },
+                    {
+                        "description": "{center:begin}{color: #FFFF00}First Half{color}{center}\r\n{center: begin}{size: 18}2020/6/30(Tue) 0:00 \u301c 2020/7/31(Fri) 23:59{size}{center}\r\n{center:begin}{color: #FFFF00}Latter Half{color}{center}\r\n{center: begin}{size: 18}2020/7/16(Thu) 0:00 ~ 2020/7/31(Fri) 23:59{size}{center}\r\n\r\n{size: 25}{color: #FFFF00}{outline: #FF0000, 2}Dokkan Festival!{color}{outline}{size}"
+                    },
+                    {
+                        "description": "{center: begin}{size: 18}2020/6/30(Tue) ~ 2020/7/16(Thu) 16:59{size}{center}\r\n{color: #FFFF00}{size: 19}* New SSR that appears at Dokkanfest\r\n[Saiyans Challenging the Strongest] Super Saiyan God SS Son Goku \r\n& Super Saiyan God SS Vegeta and new SSR \r\n[Efforts in Battle] Kuririn will be held from \r\n7/7 (Tue) It will also appear at the planned Tanabata Dokkan Festival.{size}{color}\r\n\r\n{size: 25}{color: #FFFF00}{outline: #FF0000, 2}Tanabata Dokkan Festival!!{color}{outline}{size}"
+                    },
+                    {
+                        "description": "{center: begin}{size: 18}2020/7/7(Sunday) ~ 2020/7/31(Fri) 16:59{size}{center}\r\n\r\n{size: 25}{color: #FFFF00}{outline: #FF0000, 2}Category Gacha!!{color}{outline}{size}"
+                    },
+                    {
+                        "description": "{center: begin}{size: 18}2020/6/30(Tue) ~ 2020/7/16(Thu) 16:59{size}{center}\r\n\r\n{size: 25}{color: #FFFF00}{outline: #FF0000, 2}A mysterious ceremony Gacha!!{color}{outline}{size}"
+                    },
+                    {
+                        "description": "{center: begin}{size: 18}2020/6/30(Tue) 17:00 ~ 2020/7/16(Thu) 16:59{size}{center}\r\n{center: begin}{size: 18}2020/7/16(Thu) 17:00 ~ 2020/7/31(Fri) 16:59{size}{center}\r\n\r\n{size: 25}{color: #FFFF00}{outline: #FF0000, 2}Super SALE!!{color}{outline}{size}"
+                    },
+                    {
+                        "description": "{center: begin}{size: 18}2020/6/30(Thu) 11:00 ~ 2020/7/30(Thu) 16:59{size}{center}\r\n\r\n{size: 25}{color: #FFFF00}{outline: #FF0000, 2}Porunga Dragon Ball\r\nCampaign!!{color}{outline}{size}"
+                    },
+                    {
+                        "description": "{center: begin}{size: 18}2020/6/30(Tue) 13:00 ~ 2020/7/31(Fri) 23:59{size}{center}\r\n\r\n{size: 25}{color: #FFFF00}{outline: #FF0000, 2}77 Pickup Exchange!{color}{outline}{size}"
+                    },
+                    {
+                        "description": "{center: begin}{size: 18}2020/6/30(Tue) 13:00 ~ 2020/8/7(Fri) 16:59{size}{center}\r\n\r\n{size: 25}{color: #FFFF00}{outline: #FF0000, 2}A new Fierce Battle event!!{color}{outline}{size}"
+                    },
+                    {
+                        "description": "{center: begin}{size: 18}2020/6/30(Tue) ~ 2020/7/16(Thu) 23:59{size}{center}\r\n\r\n{size: 25}{color: #FFFF00}{outline: #FF0000, 2}Fierce battle event held every day!!{color}{outline}{size}"
+                    },
+                    {
+                        "description": "{center: begin}{size: 18}2020/6/30(Tue) ~ 2020/7/16(Thu) 23:59{size}{center}\r\n\r\n{size: 25}{color: #FFFF00}{outline: #FF0000, 2}Fierce battle event held every day!!{color}{outline}{size}",
+                        "image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/100397/EN_news_banner_event_514_1_small.png"
+                    },
+                    {
+                        "description": "{center: begin}{size: 18}2020/6/30(Tue) ~ 2020/7/16(Thu) 23:59{size}{center}\r\n\r\n{size: 25}{color: #FFFF00}{outline: #FF0000, 2}Fierce battle event held every day!!{color}{outline}{size}",
+                        "image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/100499/news_banner_event_524_small_N_EN.png"
+                    },
+                    {
+                        "description": "{center: begin}{size: 18}2020/6/30(Tue) ~ 2020/7/16(Thu) 23:59{size}{center}\r\n\r\n{size: 25}{color: #FFFF00}{outline: #FF0000, 2}The 28th\n\rVirtual Dokkan Battlefield Ver.2.0!!{color}{outline}{size}",
+                        "image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/101092/news_banner_event_540_small_EN.png"
+                    },
+                    {
+                        "description": "{center: begin}{size: 18}2020/6/30(Tue) 17:00 ~ 2020/7/31(Fri) 16:59{size}{center}\r\n\r\n{size: 25}{color: #FFFF00}{outline: #FF0000, 2}Rerun of story event!!{color}{outline}{size}",
+                        "image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/rmbattles/rmb_banner_00001.png"
+                    },
+                    {
+                        "description": "{center: begin}{size: 18}2020/6/30(Tue) 17:00 ~ 2020/7/16(Thu) 16:59{size}{center}\r\n\r\n{size: 25}{color: #FFFF00}{outline: #FF0000, 2}Special stage event new stage appearance!!!{color}{outline}{size}",
+                        "image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/100679/EN_news_banner_event_333_small.png"
+                    },
+                    {
+                        "description": "{center: begin}{size: 18}2020/6/30(Tue) 17:00 ~ 2020/7/16(Thu) 16:59{size}{center}\r\n\r\n{size: 25}{color: #FFFF00}{outline: #FF0000, 2}Extreme Z Area \r\n Magical Girl Fighters!!{color}{outline}{size}",
+                        "image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/100830/en_news_banner_event_160_small.png"
+                    },
+                    {
+                        "description": "{center: begin}{size: 18}2020/7/3(Fri) 17:00 ~ 2020/7/16(Thu) 16:59{size}{center}\r\n\r\n{size: 25}{color: #FFFF00}{outline: #FF0000, 2}Fierce battle event open!!{color}{outline}{size}"
+                    },
+                    {
+                        "description": "{center: begin}{size: 18}2020/7/7(Tue) 17:00 ~ 2020/7/31(Fri) 23:59{size}{center}\r\n*Some Fierce Battle events are excluded.\r\n*The following super fierce battle events\r\nwill be held until 23:59 on Friday, July 31st.\r\n・\"Release Your Full Power! Warriors Aiming to Be the Strongest\"\r\n・\"Beyond God - The Ultimate Secret\"\r\n・\"Surpassing Even the Gods\"\r\n・\"The Invincible Strongest of the Strong\"\r\n\r\n{size: 25}{color: #FFFF00}{outline: #FF0000, 2}Extreme Z area Rerun!!{color}{outline}{size}"
+                    },
+                    {
+                        "description": "{center: begin}{size: 18}2020/7/7(Sun) 17:00 ~ 2020/7/31(Fri) 16:59{size}{center}\r\n\r\n{size: 25}{color: #FFFF00}{outline: #FF0000, 2}Rerun of story event!!{color}{outline}{size}"
+                    },
+                    {
+                        "description": "{center: begin}{size: 18}2020/7/7(Sun) 17:00 ~ 2020/7/31(Fri) 16:59{size}{center}\r\n\r\n{size: 25}{color: #FFFF00}{outline: #FF0000, 2}Rerun of story event!!{color}{outline}{size}"
+                    },
+                    {
+                        "description": "{center: begin}{size: 18}2020/7/7(Sun) 17:00 ~ 2020/7/31(Fri) 16:59{size}{center}\r\n\r\n{size: 25}{color: #FFFF00}{outline: #FF0000, 2}New Extreme Z Battle!!{color}{outline}{size}",
+                        "iamge": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/101202/EN_news_banner_event_355_A3_small.png"
+                    },
+                    {
+                        "description": "{center: begin}{size: 18}2020/7/9(Tho) 17:00 ~ 2020/7/23(Thu) 16:59{size}{center}\r\n\r\n{size: 25}{color: #FFFF00}{outline: #FF0000, 2}Extreme Dokkan Festival!!{color}{outline}{size}"
+                    },
+                    {
+                        "description": "{center: begin}{size: 18}2020/7/9(Thu) 17:00 ~ 2020/7/23(Thu) 16:59{size}{center}\r\n\r\n{size: 25}{color: #FFFF00}{outline: #FF0000, 2}Category Gacha!!{color}{outline}{size}"
+                    },
+                    {
+                        "description": "{center: begin}{size: 18}2020/7/9(Thu) 17:00 ~ 2020/7/23(Thu) 16:59{size}{center}\r\n\r\n{size: 25}{color: #FFFF00}{outline: #FF0000, 2}New Extreme Z Battle!!{color}{outline}{size}"
+                    },
+                    {
+                        "description": "{center: begin}{size: 18}2020/7/16(Thu) 17:00 〜 2020/7/31(Fri) 16:59{size}{center}\r\n\r\n*Please note that events,\r\ncampaign contents and holding\r\nperiod may change without prior notice.\r\n\r\nThank you for your continued support for\r\n\"Dragon Ball Z Dokkan Battle\"."
+                    }
+                ]
+            }
+        },
+        {
             "id": 200540,
             "summary": "Let's challenge 3 different missions with different difficulty!!\r\nComplete missions and get luxury rewards such as \"Dragon Stones\"!!",
             "title": "Shine in heaven!\nTanabata Dokkan mission first half",
@@ -21,7 +115,7 @@
             ],
             "bodies": [
                 {
-                    "description": "{center:begin}\r\n{size:30}{outline: #FF0000,2}{color: #FFFF00}▼ 開催期間 ▼{color}{outline}{size}\r\n{size:18}2020/6/30 (Tue) 0:00-2020/7/31 (Fri) 23:59{size}\r\n\r\n{size: 28}{color: #FFFFCC}{outline: #FF3399, 2}Shine in heaven!{outline}{color} \r\n{color: #81F7F3}{outline: #00BFFF, 2} Tanabata {outline}{color}{color: #F6CEF5}{outline: #FA5858, 2} DOKKAN {outline}{color}{outline: #58ACFA, 2} mission{outline}\r\nheld!!{size}\r\n\r\n{size: 23}{color: #FFFF00} Three {color} types of missions with \r\ndifferent difficulty levels\r\nare now available! The difficulty\r\nlevels are increasing in the order of \r\n{color: #FF66FF}\"Orihime\"{color}{color: #0099FF}\"Hikoboshi\" {color} and {color: #FFFFCC} \"Orihime\"{color}!!\r\n\r\nIn addition, there is a mission to obtain\r\nthe hidden treasure {outline: #FF00FF,2} \"Wishing Strip 3\" {outline}!!\r\n\r\nFrom {color: #FFFF00} Thursday, July 16th {color}, the second half \r\nmissions will be added to each difficulty level!!\r\n\r\nIf you clear all the limited missions \r\nincluding the second half, you can get \r\n{color: #FFA3A3}\"S {color} {color: #FFE8A3}ec{color}{color: #D1FFA3}ia{color}{color: #A3FFBA}l S{color}{color: #A3FFFF}ti{color}{color: #A3D3FF}ck{color}{color: #A3A7FF}er{color}{color: #CBA3FF}s\"{color}!!!!{size}{center}"
+                    "description": "{center:begin}\r\n{size:30}{outline: #FF0000,2}{color: #FFFF00}▼ Holding period ▼{color}{outline}{size}\r\n{size:18}2020/6/30 (Tue) 0:00-2020/7/31 (Fri) 23:59{size}\r\n\r\n{size: 28}{color: #FFFFCC}{outline: #FF3399, 2}Shine in heaven!{outline}{color} \r\n{color: #81F7F3}{outline: #00BFFF, 2} Tanabata {outline}{color}{color: #F6CEF5}{outline: #FA5858, 2} DOKKAN {outline}{color}{outline: #58ACFA, 2} mission{outline}\r\nheld!!{size}\r\n\r\n{size: 23}{color: #FFFF00} Three {color} types of missions with \r\ndifferent difficulty levels\r\nare now available! The difficulty\r\nlevels are increasing in the order of \r\n{color: #FF66FF}\"Orihime\" {color} , {color: #0099FF} \"Hikoboshi\" {color} and {color: #FFFFCC} \"Orihime\"{color}!!\r\n\r\nIn addition, there is a mission to obtain\r\nthe hidden treasure {outline: #FF00FF,2} \"Wishing Strip 3\" {outline}!!\r\n\r\nFrom {color: #FFFF00} Thursday, July 16th {color}, the second half \r\nmissions will be added to each difficulty level!!\r\n\r\nIf you clear all the limited missions \r\nincluding the second half, you can get \r\n{color: #FFA3A3}\"S {color} {color: #FFE8A3}ec{color}{color: #D1FFA3}ia{color}{color: #A3FFBA}l S{color}{color: #A3FFFF}ti{color}{color: #A3D3FF}ck{color}{color: #A3A7FF}er{color}{color: #CBA3FF}s\"{color}!!{size}{center}"
                 },
                 {
                     "description": "{center:begin}\r\n{size: 23}Complete missions and\r\nget luxurious rewards!!{size}{center}\r\n\r\n{size: 25}{outline: #FF0000, 2}{color: #FFFF00}● Mission details{color}{outline}{size}\r\n{showMission : 30}\r\n*For detailed mission information,\r\nplease see \"Limited Missions\".\r\n*Please note that the campaign\r\ncontent and period may change \r\nwithout notice.\r\n\r\nThank you for your continued support of\r\n\"Dragon Ball Z Dokkan Battle\"."
