@@ -76,7 +76,7 @@
                 },
                 {
                     "description": "{center: begin}{size: 18}2020/7/7(Sun) 17:00 ~ 2020/7/31(Fri) 16:59{size}{center}\r\n\r\n{size: 25}{color: #FFFF00}{outline: #FF0000, 2}New Extreme Z Battle!!{color}{outline}{size}",
-                    "iamge": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/101202/EN_news_banner_event_355_A3_small.png"
+                    "image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/101202/EN_news_banner_event_355_A3_small.png"
                 },
                 {
                     "description": "{center: begin}{size: 18}2020/7/9(Tho) 17:00 ~ 2020/7/23(Thu) 16:59{size}{center}\r\n\r\n{size: 25}{color: #FFFF00}{outline: #FF0000, 2}Extreme Dokkan Festival!!{color}{outline}{size}"
