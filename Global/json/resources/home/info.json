@@ -1,6 +1,18 @@
 {
 	"banners": [
 		{
+			"description": "Let's enjoy the event that excites Tanabata!!",
+			"id": 30013446
+		},
+		{
+			"description": "Until Friday, July 31st 23:59!! Complete missions and get rewards!!",
+			"id": 30013441
+		},
+		{
+			"description": "Until 7/31 (Friday) 3:59!! Login every day to get rewards!!",
+			"id": 30013440
+		},
+		{
 			"description": "LR Super Saiyan Son Goku will Extreme Z Awaken!!",
 			"id": 30013439
 		},
