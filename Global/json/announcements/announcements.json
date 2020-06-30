@@ -1,6 +1,48 @@
 {
 	"announcements":[
         {
+            "id": 2734,
+            "summary": "New SSR character that can Dokkan Awaken to LR!! Also pay close attention to the new category \"All Out\"!",
+            "title": "Dokkan Festival Held!",
+            "bodies": [
+                {
+                    "description": " \r\n{center:begin}{size:25}A new SSR {outline: #FF0000, 2}{color: #FFFF00} \"Super Saiyan God SS Son Goku &\r\nSuper Saiyan God SS Vegeta\" {color}{outline} capable of\r\n{color : #FF9900}Do{color}{color : #FFCC00}kk{color}{color : #FFCC00}an {color} {color : #FFFF00} Aw{color}{color : #CCFF00}ak{color}{color :#33FF00}en{color}{color : #00FFCC}in{color}{color : #00BFFF}g {color} up to {color : #FF3300} L{color}{color : #FF5F17}R {color} is here!!{size}\r\n\r\n{size:23}The above characters leader skills\r\nstrengthen the new category\r\n{color: #FF9900} \"All out\" {color} and fellows\r\nin the {color: #00CCFF} \"Joined Foces\" category{color}!!\r\n\r\nFurthermore, if you Dokkan Awaken up to LR,\r\nyou can activate active skills by meeting\r\n{color: #FFFF00}the conditions during the battle!!{color}{size}{center}\r\n\r\n{size: 25}{outline: #FF0000, 2}{color: #FFFF00}● New SSR character{color}{outline}{size}A new SSR {outline: #FF0000, 2}{color: #FFFF00} \"Super Saiyan God SS Son Goku &\r\nSuper Saiyan God SS Vegeta\" {color}{outline} capable of\r\n{color : #FF9900}Do{color}{color : #FFCC00}kk{color}{color : #FFCC00}an {color} {color : #FFFF00} Aw{color}{color : #CCFF00}ak{color}{color :#33FF00}en{color}{color : #00FFCC}in{color}{color : #00BFFF}g {color} up to {color : #FF3300} L{color}{color : #FF5F17}R {color} is here!!"
+                },
+                {
+                    "description": ""
+                },
+                {
+                    "description": " \r\n*The above characters will also appear in the Tanabata \r\nDokkan Festival, which will be held from 7/7 (Tue).\r\n\r\n{size: 25}{outline: #FF0000, 2}{color: #FFFF00}●Featured character{color}{outline}{size}"
+                },
+                {
+                    "description": "",
+                    "image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/2734/EN_chara_banner_1016790_small.png"
+                },
+                {
+                    "description": " \r\n{size: 25}{outline: #FF0000, 2}{color: #FFFF00}● Dokkan Awakening{color}{outline}{size}\r\n[Saiyans Challenging the Strongest] Super Saiyan God SS Son Goku\r\n& Super Saiyan God SS Vegeta is awakened to LR using the awakening\r\nmedal that can be acquired in the super fierce battle event\r\n\"Release Your Full Power! Warriors Aiming to Be the Strongest\" etc.!!\r\n\r\n\r\n[Efforts in Battle] Krillin can also\r\nDokkan Awaken to the limit break UR!!",
+                    "image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/2734/EN_chara_banner_1019330_small.png"
+                },
+                {
+                    "description": ""
+                },
+                {
+                    "description": ""
+                },
+                {
+                    "description": ""
+                },
+                {
+                    "description": ""
+                },
+                {
+                    "description": ""
+                },
+                {
+                    "description": " \r\n{size: 25}{outline: #FF0000, 2}{color: #FFFF00}● About Extra \"coins\"{color}{outline}{size}\r\nEvery time you use 5 Dragon Stones in this \r\nGacha,you can get 1 \"DOKKAN FEST COIN\"!\r\n\r\nThe acquired \"DOKKAN FEST COIN\" can be\r\nexchanged for characters in the lineup\r\nat the Exchange Shop!\r\n\r\nCheck the required number of \"DOKKAN FEST COIN\" and\r\ndetails of the target character at the Exchange Shop!\r\n\r\n*Various \"coins\" that you earn\r\nwill be sent to the gift box.\r\n*For other details about various \"coins\", please \r\nrefer to the separately announced news about \r\nvarious \"coins\" that can be acquired as a bonus of Gacha\".\r\n\r\n{size: 25}{outline: #FF0000, 2}{color: #FFFF00}● Holding period{color}{outline}{size}\r\n2020/6/30(Tue) 14:00\r\n ~ 2020/7/16(Thu) 16:59!!\r\n\r\n{color: #FFFF00}*If information such as \"Dokkan Awakening\", \r\n\"Category\", and \"Transformation\" is not displayed\r\nnormally, it may be improved by restarting\r\nthe application or clearing the cache.{color}\r\n*The 10th consecutive gasha will be the SSR guarenteed.\r\n{size:20}*Skills that specify a specific character name may be \r\nexcluded even if the characters that will appear in\r\nthe future are not listed as being excluded.{size}\r\n*Since we have adjusted the line-up of characters \r\nthat appear for each Gacha, please check from the \r\n\"Appearance Character Provision Ratio\" at the \r\ntop left of the Gacha screen.\r\n*Please note that the\r\nperiod may change.\r\n\r\nThank you for your continued support for\r\n\"Dragon Ball Z Dokkan Battle\"."
+                }
+            ]
+        },
+        {
             "id": 200541,
             "summary": "Log in every day and get up to 77 dragon stones!\r\nYou can also get the hidden treasure \"Wishing Strip 3\" etc.!!",
             "title": "Shine in heaven!\nTanabata Dokkan Login Bonus",
@@ -682,27 +724,27 @@
                 },
                 {
                     "description": "{center: begin}{size: 18}2020/6/30(Tue) ~ 2020/7/16(Thu) 23:59{size}{center}\r\n\r\n{size: 25}{color: #FFFF00}{outline: #FF0000, 2}Fierce battle event held every day!!{color}{outline}{size}",
-                    "image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/100397/EN_news_banner_event_514_1_small.png"
+                    "image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/2736/EN_news_banner_event_514_1_small.png"
                 },
                 {
                     "description": "{center: begin}{size: 18}2020/6/30(Tue) ~ 2020/7/16(Thu) 23:59{size}{center}\r\n\r\n{size: 25}{color: #FFFF00}{outline: #FF0000, 2}Fierce battle event held every day!!{color}{outline}{size}",
-                    "image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/100499/news_banner_event_524_small_N_EN.png"
+                    "image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/2736/news_banner_event_524_small_N_EN.png"
                 },
                 {
                     "description": "{center: begin}{size: 18}2020/6/30(Tue) ~ 2020/7/16(Thu) 23:59{size}{center}\r\n\r\n{size: 25}{color: #FFFF00}{outline: #FF0000, 2}The 28th\n\rVirtual Dokkan Battlefield Ver.2.0!!{color}{outline}{size}",
-                    "image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/101092/news_banner_event_540_small_EN.png"
+                    "image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/2736/news_banner_event_540_small_EN.png"
                 },
                 {
                     "description": "{center: begin}{size: 18}2020/6/30(Tue) 17:00 ~ 2020/7/31(Fri) 16:59{size}{center}\r\n\r\n{size: 25}{color: #FFFF00}{outline: #FF0000, 2}Rerun of story event!!{color}{outline}{size}",
-                    "image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/rmbattles/rmb_banner_00001_large.png"
+                    "image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/2736/rmb_banner_00001_large.png"
                 },
                 {
                     "description": "{center: begin}{size: 18}2020/6/30(Tue) 17:00 ~ 2020/7/16(Thu) 16:59{size}{center}\r\n\r\n{size: 25}{color: #FFFF00}{outline: #FF0000, 2}Special stage event new stage appearance!!!{color}{outline}{size}",
-                    "image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/100679/EN_news_banner_event_333_small.png"
+                    "image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/2736/EN_news_banner_event_333_small.png"
                 },
                 {
                     "description": "{center: begin}{size: 18}2020/6/30(Tue) 17:00 ~ 2020/7/16(Thu) 16:59{size}{center}\r\n\r\n{size: 25}{color: #FFFF00}{outline: #FF0000, 2}Extreme Z Area \r\n Magical Girl Fighters!!{color}{outline}{size}",
-                    "image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/100830/en_news_banner_event_160_small.png"
+                    "image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/2736/en_news_banner_event_160_small.png"
                 },
                 {
                     "description": "{center: begin}{size: 18}2020/7/3(Fri) 17:00 ~ 2020/7/16(Thu) 16:59{size}{center}\r\n\r\n{size: 25}{color: #FFFF00}{outline: #FF0000, 2}Fierce battle event open!!{color}{outline}{size}"
@@ -718,7 +760,7 @@
                 },
                 {
                     "description": "{center: begin}{size: 18}2020/7/7(Sun) 17:00 ~ 2020/7/31(Fri) 16:59{size}{center}\r\n\r\n{size: 25}{color: #FFFF00}{outline: #FF0000, 2}New Extreme Z Battle!!{color}{outline}{size}",
-                    "image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/101202/EN_news_banner_event_355_A3_small.png"
+                    "image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/2736/EN_news_banner_event_355_A3_small.png"
                 },
                 {
                     "description": "{center: begin}{size: 18}2020/7/9(Tho) 17:00 ~ 2020/7/23(Thu) 16:59{size}{center}\r\n\r\n{size: 25}{color: #FFFF00}{outline: #FF0000, 2}Extreme Dokkan Festival!!{color}{outline}{size}"
@@ -1323,19 +1365,19 @@
             "id": 2573,
             "summary": "Tons of the STA-Restoring Item, \"Aged Meat\", and \r\nKeys that can be used at the Portal of Memories \r\nwill be sent to all players.",
             "title": "Aged Meat and Key Distribution!",
-            "banner": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/101770/EN_news_banner_plain_camp_20200416_small.png",
+            "banner": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/2573/EN_news_banner_plain_camp_20200416_small.png",
             "bodies": [
                 {
                     "description": "\r\nDear Players, \r\n\r\nThank you for your continuous support for \r\nDragon Ball Z Dokkan Battle! \r\nAs a token of gratitude, the following items \r\nwill be distributed to all players.\r\n\r\n{size: 24}{color: #FFFF00}{outline: #FF0000, 2}= Distribution List ={size}{color}{outline}\r\n\r\n- Story Key x30\r\n- Challenge Key x30\r\n- Z-Battle Key x15\r\n- Aged Meat (S) x15\r\n- Aged Meat (M) x5\r\n",
-				    "image": "https://github.com/HarryTurney/UDFiles/blob/master/Global/images/announcements/101770/EN_news_banner_plain_camp_20200416_small.png"
+				    "image": "https://github.com/HarryTurney/UDFiles/blob/master/Global/images/announcements/2573/EN_news_banner_plain_camp_20200416_small.png"
                 },
                 {
                     "description": "{display:except_eventkagi}{display}",
-                    "image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/101770/EN_news_banner_plain_camp_20200416_B.png"
+                    "image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/2573/EN_news_banner_plain_camp_20200416_B.png"
                 },
                 {
                     "description": "\r\n{size: 24}{color: #FFFF00}{outline: #FF0000, 2}= Distribution Period ={size}{color}{outline}\r\n\r\n4/20 (Mon)  00:00 ~ 6/29 (Mond) 23:59\r\n\r\n We hope you continue to enjoy playing\r\nDragon Ball Z Dokkan Battle!\r\n",
-                    "image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/101770/EN_news_banner_plain_camp_20200416_A.png"
+                    "image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/2573/EN_news_banner_plain_camp_20200416_A.png"
                 }
             ]
         },
@@ -1356,11 +1398,11 @@
             "id": 1851,
             "summary": "",
             "title": "The Wallpaper Feature \nIs Now Available!",
-            "banner": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/101457/EN_news_banner_kabegami_large.png",
+            "banner": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/1851/EN_news_banner_kabegami_large.png",
             "bodies": [
                 {
                     "description": "\r\n{center: begin}{size : 27}{color : #FFFF00}{outline : #FF9900, 2}The Wallpaper feature \r\nis now available!{size}{color}{outline} \r\n\r\nUse the Wallpaper feature to make\r\nDragon Ball Z Dokkan Battle even more interesting!{center} \r\n\r\n{size: 24}{color: #FFFF00}{outline: #FF0000, 2}= Wallpaper ={size}{color}{outline}\r\n\r\nThe wallpaper \"{color : #FFFF00}Super Warriors{color}\" will be given\r\nas a present to celebrate the introduction of\r\nthe Wallpaper feature!\r\n\r\nIn addition, more wallpapers will become available\r\nduring the 300 Million Global DLs Reached campaign!\r\n",
-                    "image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/101457/EN_news_banner_kabegami_large.png"
+                    "image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/1851/EN_news_banner_kabegami_large.png"
                 },
                 {
                     "description": "\r\nStay tuned for more upcoming wallpapers!\r\n\r\n* Please navigate the path \"Menu --> Wallpaper Settings\" \r\nand check the \"How to Use\" page for more details.\r\n\r\n{size: 24}{color: #FFFF00}{outline: #FF0000, 2}= Wallpaper Claiming Period ={size}{color}{outline}\r\n\r\nPermanently available starting from 2019/8/19 (Mon) 21:00 PST\r\n\r\n* Caution: Event Times in Dokkan Battle are listed in Pacific \r\nStandard Time (PST) instead of Pacific Daylight Time (PDT).\r\n\r\nWe hope you continue to enjoy playing \r\nDragon Ball Z Dokkan Battle!\r\n"
@@ -1374,19 +1416,19 @@
             "id": 1754,
             "summary": "Use \"Fighting Legend: Goku Ticket\" to \r\nrecruit SR or SSR Goku to your team!",
             "title": "Fighting Legend: Goku \nTicket Summon!",
-            "banner": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/101504/EN_news_banner_gasha_00569_small.png",
+            "banner": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/1754/EN_news_banner_gasha_00569_small.png",
             "bodies": [
                 {
                     "description": " \r\n{center: begin}{size : 28}{color : #7F1300}{outline : #FFFF00 , 2}{shadow : #FFFE9E, 3, 3, 5}\r\nFighting Legend: Goku \r\nTicket Summon \r\nis now on!{outline}{color}{size}{shadow}\r\n\r\n{size : 25}All the available characters in \r\nthis summon are {color : #FFFF00}SR or SSR Goku{color}!\r\n\r\nCollect tickets to perform summons!{center}{size}\r\n\r\n{size: 24}{color: #FFFF00}{outline: #FF0000, 2}= Featured Characters ={size}{color}{outline}\r\n",
-                    "image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/101504/EN_news_banner_gasha_00569_large.png"
+                    "image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/1754/EN_news_banner_gasha_00569_large.png"
                 },
                 {
                     "description": "",
-                    "image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/101504/EN_chara_banner_1016020_small.png"
+                    "image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/1754/EN_chara_banner_1016020_small.png"
                 },
                 {
                     "description": " \r\n{size: 24}{color: #FFFF00}{outline: #FF0000, 2}= Fighting Legend: Goku Ticket ={size}{color}{outline}\r\n\r\nOne Summon Ticket can be used to perform \r\na Single-Summon, and five Summon Tickets \r\ncan be used to perform a Multi-Summon!\r\n\r\nObtain Summon Tickets through the missions of\r\nthe ongoing event \"Fighting Legend: Goku\",\r\nan event of extreme difficulty!\r\n\r\n* You can recruit 5 characters by performing \r\na Multi-Summon.\r\n\r\n* Performing a Multi-Summon will not guarantee you \r\nan SSR character.\r\n\r\n{size: 24}{color: #FFFF00}{outline: #FF0000, 2}= Character That Can \r\nBe Awakened into LR ={size}{color}{outline}\r\n\r\n{color: #00CC00}[Quiet Grit] Goku{color}\r\n\r\n* The character above is not a featured character.\r\n\r\n* Please note that other than the character listed above,\r\nother characters that can be Dokkan Awakened into LR\r\nwill not be available in this summon.\r\n\r\n{size: 24}{color: #FFFF00}{outline: #FF0000, 2}= Event Period ={size}{color}{outline}\r\n\r\n{color: #FFFF00}Permanently available starting from 2019/10/2 (Wed) 22:30 PST{color}\r\n\r\n* Caution: Event Times in Dokkan Battle are listed in Pacific\r\nStandard Time (PST) instead of Pacific Daylight Time (PDT).\r\n\r\n* Please tap the \"Character Summon Rates\" in\r\nthe top-left corner of the Summon page to check\r\nthe complete list of available characters.\r\n\r\n* The list of available characters of this summon\r\nwill not be updated in the future.\r\n\r\n* This summon will not be displayed on the \"Summon\" page\r\nif you do not have a \"Fighting Legend: Goku Ticket\".\r\n\r\n* If you cannot see information such as \"Dokkan \r\nAwakening\", \"Category\" or \"Growth\" in the game, \r\ntry restarting the application or tap on the \"Cache \r\nClear\" button on the Title Screen.\r\n\r\n* Please note that the event content and dates are\r\nsubject to change without prior warning.\r\n\r\nWe hope you continue to enjoy playing\r\nDragon Ball Z Dokkan Battle!\r\n",
-                    "image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/101504/EN_1chara_banner_1013170.png"
+                    "image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/1754/EN_1chara_banner_1013170.png"
                 }
             ]
         },
@@ -1394,15 +1436,15 @@
             "id": 1641,
             "summary": "\"Coin\", the Treasure Item obtainable through \r\nSummon Events, is here! Check out information on \r\nhow to use Coins and their types in this announcement!",
             "title": "Information on the \r\nTreasure Item \"Coin\"",
-            "banner": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/101385/EN_news_banner_trade_00530_small.png",
+            "banner": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/1641/EN_news_banner_trade_00530_small.png",
             "bodies": [
                 {
                     "description": "\r\nObtain the Treasure Item \"{color: #FFFF00}Coin{color}\"\r\nin certain Summon Events!\r\n\r\nCollect {color: #FFFF00}a certain number of identical Coins{color}\r\nto recruit certain characters at Baba's Shop!\r\n\r\n{color: #FFFF00}Three types of \"Coin\"{color} are available, and\r\nthe type of Coin(s) obtained depends on\r\nthe type of the Summon Event!\r\nPlease check the following for details on\r\nthe Treasure Item \"Coin\"!\r\n\r\n{size: 24}{color: #FFFF00}{outline: #FF0000, 2}= Treasure Item \"Coin\" ={size}{color}{outline}\r\n\r\n{color: #FFFF00}Every 5 Dragon Stones consumed{color} in \r\nSummon Events that require the consumption of\r\nDragon Stones will reward you with {color: #FFFF00}1 \"Coin\"{color} that\r\ncorresponds to the type of the Summon Event!\r\n\r\nYou can recruit corresponding characters at {color: #FFFF00}Baba's Shop{color}\r\nonce you have collected a certain number of Coins!\r\n\r\n* The number and type of \"Coin\" required differ \r\namong characters.\r\n\r\nThe Coins you still have after the Summon Event ends\r\nwill be retained and can be used with the same type of\r\nCoin next time a Summon Event of the same type\r\nis available.\r\n",
-                    "image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/101385/EN_news_banner_trade_00530_small.png"
+                    "image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/1641/EN_news_banner_trade_00530_small.png"
                 },
                 {
                     "description": "\r\n* The Coin(s) obtained will be sent to your Gift Box.\r\n\r\n* Please navigate the following path to check\r\nthe number of Coins you have: \r\n\"Team\" > \"Items\" > \"Treasure\".\r\n\r\n{size: 24}{color: #FFFF00}{outline: #FF0000, 2}= Types of \"Coin\" ={size}{color}{outline}\r\n\r\n{color: #FFFF00}1. Dokkan Festival Coin{color}\r\nCorresponding Summon Event: Dokkan Festival\r\n\r\n* Including Dokkan Festival, Super (or Extreme) Dokkan \r\nFestival, Extreme Z Dokkan Festival, etc.\r\n\r\n{color: #FFFF00}2. Legendary Summon Coin{color}\r\nCorresponding Summon Event: Legendary Summon\r\n\r\n{color: #FFFF00}3. Summon Coin{color}\r\nCorresponding Summon Event:\r\nSummon Events that do not belong to the above two types.\r\n\r\n* Including Type Summons, Category Summons,\r\nMysterious Ritual Summon, etc.\r\n\r\n{size: 24}{color: #FFFF00}{outline: #FF0000, 2}= Obtainable Number of \"Coin\" ={size}{color}{outline}\r\n\r\nExample 1:\r\n{color: #FFFF00}1 corresponding Coin{color} can be obtained by performing\r\na Single-Summon that requires {color: #FFFF00}5 Dragon Stones{color}.\r\n\r\nExample 2:\r\n{color: #FFFF00}10 corresponding Coins{color} can be obtained by performing\r\na Multi-Summon that requires {color: #FFFF00}50 Dragon Stones{color}.\r\n\r\nExample 3:\r\n{color: #FFFF00}6 corresponding Coins{color} can be obtained by performing\r\na Multi-Summon that requires {color: #FFFF00}30 Dragon Stones{color}.\r\n\r\nExample 4:\r\n{color: #FFFF00}No Coins{color} can be obtained by performing a Summon\r\nthat {color: #FFFF00}does not require any Dragon Stones{color}.\r\n\r\n{color: #FF9900}- About Characters That Can be Recruited with \"Coin\"{color}\r\n\r\nCharacters who can be recruited with \"Coin\"\r\nat Baba's Shop include {color: #FFFF00}featured characters{color} of \r\nongoing Summon Events and {color: #FFFF00}[Mysterious Ritual] Elder Kai{color}.\r\n\r\nCharacters who can be recruited at Baba's Shop \r\nwill be updated simultaneously with the Summon Events.\r\n\r\nThe exchange period of characters who can be\r\nrecruited with \"Coin\" can be checked at Baba's Shop.\r\n\r\n* Please note that the number of Coins obtained\r\nand related settings at Baba's Shop are subject to \r\nchange in the future.\r\n\r\nWe hope you continue to enjoy playing\r\nDragon Ball Z Dokkan Battle!\r\n",
-                    "image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/101385/news_banner_trade_00530_large.png"
+                    "image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/1641/news_banner_trade_00530_large.png"
                 },
                 {
                     "description": "",
@@ -1433,27 +1475,27 @@
             "bodies": [
                 {
                     "description": " \r\n{center : begin}{size: 28}{outline: #FF0000, 2}{color: #FFFF00}Let's challenge the \"Trials from the Gods\"!!{color}{outline}{size}\r\n\r\nUse the treasure {color: #9966FF}「Supreme Kai's Stones」{color}\r\nthat you can get by clearing the mission \r\nRecruit [Determined Fusion] Vegitto!!{center}",
-                    "image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/100787/news_banner_plain_camp_20171130_A_large.png"
+                    "image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/1300/news_banner_plain_camp_20171130_A_large.png"
                 },
                 {
                     "description": " \r\n{center : begin}Achieve the mission and collect the \r\nawakening medal{color: #FFCC66}「Potara」{color} Dokkan Awaken\r\n{color : #FF3300}[Determined Fusion] Vegitto{color} to [LR]!!\r\n\r\nAwaken {color : #FF3300} [Engraved Strength] Vegitto{color} to a maximum of \r\nLv.120 [UR] and exceeding the limit!{center}\r\n",
-                    "image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/100787/EN_chara_banner_1011660_small.png"
+                    "image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/1300/EN_chara_banner_1011660_small.png"
                 },
                 {
                     "description": "",
-                    "image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/100787/EN_news_banner_event_20171130.png"
+                    "image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/1300/EN_news_banner_event_20171130.png"
                 },
                 {
                     "description": " \r\n{center : begin}By further Dokkan awakening, \r\nyou will reach{color : #FF3300} [LR]{color} and increase the maximum to:{color : #9966FF} Lv.150!!{color}{center}\r\n",
-                    "image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/100787/EN_chara_banner_1012390_small.png"
+                    "image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/1300/EN_chara_banner_1012390_small.png"
                 },
                 {
                     "description": "",
-                    "image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/100787/EN_news_banner_event_20171130_02.png"
+                    "image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/1300/EN_news_banner_event_20171130_02.png"
                 },
                 {
                     "description": " \r\n{center : begin}{size : 25}Overcome the trials and\r\nget the power of an LR!!{size}{center}\r\n\r\n{size: 25}{color: #FFFF00}{outline: #FF0000, 2}● Notes{outline}{color}{size}\r\n{color: #FFFF00}There is a limit to the number of awakening\r\nmedals \"Potara\" and [Determined Fusion] vejitto.\r\nPlease be careful when converting to sale or exchange pt.{color}\r\n\r\n*If the mission description does not say \"Include \r\nfriends\", the characters of friends are not included in \r\nthe clearing conditions.\r\n\r\n*If a specific character is specified in the mission, only \r\nthe characters with the same name except two can \r\nmeet the conditions.\r\n\r\n▼Example: Goku is organized and cleared\r\n○ [Determined Defender] Son Goku\r\n× [Innocent Challenger] Son Goku (Youth)r\n× [Supreme Warrior Awakened] Super Saiyan Son Goku\r\n\r\nThank you for your continued support for\r\n\"Dragon Ball Z Dokkan Battle\".",
-                    "image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/100787/EN_chara_banner_1011680_small.png"
+                    "image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/announcements/1300/EN_chara_banner_1011680_small.png"
                 }
             ]
         },
