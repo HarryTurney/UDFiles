@@ -14,7 +14,7 @@
 				}
 			],
 			"current_step": 1,
-			"description": "{center:begin}Characters related to the\n{color: #FF0000}\"Vegeta Family\" Category{color} assemble!{center}",
+			"description": "{center:begin}Characters related to the\n{color: #FF0000}\"All Out\" Category{color} assemble!{center}",
 			"id": 758,
 			"name": "Category Summon [All Out]"
 		},
@@ -32,7 +32,7 @@
 				}
 			],
 			"current_step": 2,
-			"description": "{center:begin}Characters related to the\n{color: #FF0000}\"Vegeta Family\" Category{color} assemble!{center}",
+			"description": "{center:begin}Characters related to the\n{color: #FF0000}\"All Out\" Category{color} assemble!{center}",
 			"id": 758,
 			"name": "Category Summon [All Out]"
 		},
@@ -112,18 +112,18 @@
 		{
 			"courses": [
 				{
-					"description": "{color : #FFFF00}2 times only!{color} \"Mysterious Ritual\" Summon!\nPerform a Multi-Summon to get {color : #FFFF00}10 Elder Kai{color}!\n*The available character in this Summon Event is {color : #FFFF00}Elder Kai{color} only.",
+					"description": "{color : #FFFF00}2 times only!{color} \"Mysterious Ritual\" Summon!\nPerform a Multi-Summon to get {color : #FFFF00} 10 Elder Kai{color}!\n*The available character in this Summon Event is {color : #FFFF00} Elder Kai{color} only.",
 					"no": 1,
 					"title": "{color : #FFFF00}\"Mysterious Ritual\" Summon{color}"
 				},
 				{
-					"description": "{color : #FFFF00}2 times only!{color} \"Mysterious Ritual\" Summon!\nPerform a Multi-Summon to get {color : #FFFF00}10 Elder Kai{color}!\n*The available character in this Summon Event is {color : #FFFF00}Elder Kai{color} only.",
+					"description": "{color : #FFFF00}2 times only!{color} \"Mysterious Ritual\" Summon!\nPerform a Multi-Summon to get {color : #FFFF00} 10 Elder Kai{color}!\n*The available character in this Summon Event is {color : #FFFF00} Elder Kai{color} only.",
 					"no": 2,
 					"title": "{color : #FFFF00}\"Mysterious Ritual\" Summon{color}"
 				}
 			],
 			"current_step": 1,
-			"description": "{center:begin}{color : #FFFF00}2 times only!{color} \"Mysterious Ritual\" Summon!\nUse {color : #FFFF00}50 Dragon Stones{color} to get {color : #FFFF00}10 Elder Kai{color}!{center}",
+			"description": "{center:begin}{color : #FFFF00}2 times only!{color} \"Mysterious Ritual\" Summon!\nUse {color : #FFFF00} 50 Dragon Stones {color} to get {color : #FFFF00} 10 Elder Kai{color}!{center}",
 			"id": 760,
 			"name": "\"Mysterious Ritual\" Summon"
 		},

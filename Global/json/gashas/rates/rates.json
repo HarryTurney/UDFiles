@@ -2,6 +2,50 @@
 	"steps": [
 		{
 			"gasha_rates": {
+				"id": 1211,
+				"name": "Normal"
+			},
+			"note": "*The distribution ratio for each character in each category is uniform. \n *Since each provision ratio is rounded off to the fourth decimal place, the total may not be 100%. \n *Each character may appear twice.",
+			"special_gashas": [
+				{
+					"id": 1212,
+					"items_name": "SSR Characters",
+					"name": "SSR Confirmed"
+				}
+			]
+		},
+		{
+			"gasha_rates": {
+				"id": 1213,
+				"name": "Dragon Stone Discount"
+			},
+			"name": "1-3 Times",
+			"note": "*The distribution ratio for each character in each category is uniform.\n*Since the ratio of each offer is rounded off to the nearest decimal place, the total may not be 100%.\n*Each character may appear in duplicate.",
+			"special_gashas": [
+				{
+					"id": 1214,
+					"items_name": "SSR Characters",
+					"name": "SSR Confirmed (Dragon Stone Discount)"
+				}
+			]
+		},
+		{
+			"gasha_rates": {
+				"id": 1215,
+				"name": "Normal"
+			},
+			"name": "4th Time and after",
+			"note": "*The distribution ratio for each character in each category is uniform.\n*Since the ratio of each offer is rounded off to the nearest decimal place, the total may not be 100%.\n*Each character may appear in duplicate.",
+			"special_gashas": [
+				{
+					"id": 1216,
+					"items_name": "SSR Characters",
+					"name": "SSR Confirmed"
+				}
+			]
+		},
+		{
+			"gasha_rates": {
 				"id": 1208,
 				"name": "Normal"
 			},
