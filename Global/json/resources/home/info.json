@@ -1,6 +1,30 @@
 {
 	"banners": [
 		{
+			"description": "Until 7/16(Thu) 16:59!! New SS Characters!!",
+			"id": 30013443
+		},
+		{
+			"description": "Until 7/16(Thu) 16:59!! \"All Out\" Category Summons!!",
+			"id": 30013442
+		},
+		{
+			"description": "Until 7/31(Fri) 23:59!! Collect Porunga Dragon Ball!!",
+			"id": 30013445
+		},
+		{
+			"description": "Until 7/16(Thu) 23:59!! Collect Awakening Medals!!",
+			"id": 30013447
+		},
+		{
+			"description": "Until 7/1(Thu) 16:59!! A New Stage Arravies!!",
+			"id": 30013449
+		},
+		{
+			"description": "Until 8/7(Fri) 16:59! Recruit New Units!!",
+			"id": 30013448
+		},
+		{
 			"description": "Let's enjoy the event that excites Tanabata!!",
 			"id": 30013446
 		},
@@ -26,19 +50,19 @@
 			"id": 30012319
 		},
 		{
-			"description": "Until 7/2(Thu)16:59!! New Legendary Rare summon is live!!",
+			"description": "Until 7/2(Thu) 16:59!! New Legendary Rare summon is live!!",
 			"id": 30013435
 		},
 		{
-			"description": "\"Extremem Z Dokkan Festival\" runs until 6/25(Thu)16:59!!",
+			"description": "\"Extremem Z Dokkan Festival\" runs until 6/25(Thu) 16:59!!",
 			"id": 30013433
 		},
 		{
-			"description": "\"PHY Character-Exclusive Summon\" runs until 6/25(Thu)16:59!!",
+			"description": "\"PHY Character-Exclusive Summon\" runs until 6/25(Thu) 16:59!!",
 			"id": 30013432
 		},
 		{
-			"description": "\"Vegeta Family\" Category Summon runs until 6/25(Thu)16:59!!",
+			"description": "\"Vegeta Family\" Category Summon runs until 6/25(Thu) 16:59!!",
 			"id": 30013431
 		},
 		{
@@ -46,7 +70,7 @@
 			"id": 30013436
 		},
 		{
-			"description": "\"Extreme Z-Battle\" is on! Event runs until 7/1(Wen)16:59!!",
+			"description": "\"Extreme Z-Battle\" is on! Event runs until 7/1(Wen) 16:59!!",
 			"id": 30013434
 		},
 		{
@@ -54,7 +78,7 @@
 			"id": 30013430
 		},
 		{
-			"description": "A New Stage is coming!! Until 7/2(Thu)16:59!!",
+			"description": "A New Stage is coming!! Until 7/2(Thu) 16:59!!",
 			"id": 30013418
 		},
 		{
@@ -82,10 +106,10 @@
 			"image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/resources/home/banner/4/myp_banner_roshi_tips.png",
 			"id": 2
 		}
-
 	],
-	"rmbattles": {
+	"rmbattles": 
+	{
 		"description": "Held every day until the end period!! Defeat strong enemies with UR and LR characters!!\nGet \"Battlefield Memeory\" by clearing stages!!",
-		"id": 27
+		"id": 28
 	}
 }

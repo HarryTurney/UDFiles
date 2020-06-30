@@ -4,6 +4,11 @@
 			"id": 27,
 			"banner_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/rmbattles/rmb_banner_00001.png", 
 			"mission_reward_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/rmbattles/tour_rank_prize_mission_cell_banner3.png"
+		},
+		{
+			"id": 28,
+			"banner_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/rmbattles/rmb_banner_00001.png", 
+			"mission_reward_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/rmbattles/tour_rank_prize_mission_cell_banner3.png"
 		}
 	]
 }
