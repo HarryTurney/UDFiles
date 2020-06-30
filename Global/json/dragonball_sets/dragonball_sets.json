@@ -3,6 +3,39 @@
 		{
 			"dragonballs": [
 				{
+					"description": "Use a wish strip in the Exchange Shop",
+					"id": 10057
+				},
+				{
+					"description": "Clear all 6 stages of the \"Punching Bag\" Event",
+					"id": 10058
+				},
+				{
+					"description": "Use 77 ACT",
+					"id": 10059
+				},
+				{
+					"description": "Collect 7 or more PHY KI Spheres in a battle",
+					"id": 10060
+				},
+				{
+					"description": "Perform Training Once",
+					"id": 10061
+				},
+				{
+					"description": "Collect 7 or more STR KI Spheres in a battle",
+					"id": 10062
+				},
+				{
+					"description": "Perform a Z-Awakening once",
+					"id": 10063
+				}
+			],
+			"id": 7
+		},
+		{
+			"dragonballs": [
+				{
 					"area_name": "The Ultimate Life Form!",
 					"description": "NORMAL Above",
 					"id": 4,
