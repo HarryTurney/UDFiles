@@ -29,6 +29,34 @@
 				{
 					"description": "Perform a Z-Awakening once",
 					"id": 10063
+				},
+				{
+					"description": "Tap the banner on the homescreen",
+					"id": 10064
+				},
+				{
+					"description": "Collect 7 or more TEQ KI Spheres in a battle",
+					"id": 10065
+				},
+				{
+					"description": "Perform a Friend Summon",
+					"id": 10066
+				},
+				{
+					"description": "Collect 7 or more AGL KI Spheres in a battle",
+					"id": 10067
+				},
+				{
+					"description": "Get Baba Points",
+					"id": 10068
+				},
+				{
+					"description": "Collect 7 or more INT KI Spheres in a battle",
+					"id": 10069
+				},
+				{
+					"description": "Clear a stage with a team that includes allies of 5 types",
+					"id": 10070
 				}
 			],
 			"id": 7
