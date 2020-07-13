@@ -139,6 +139,41 @@
 			"description": "Obtain the hidden treasure \"Wish Strip 3\"",
 			"id": 10070,
 			"title": "I want a wish"
+		},
+		{
+			"description": "Get Mr. Satan Statues and Training Items",
+			"id": 10071,
+			"title": "I want to Strengthen my Units"
+		},
+		{
+			"description": "Get the treasure \"Incredible Gems\" and support items",
+			"id": 10072,
+			"title": "I want treasure and support items"
+		},
+		{
+			"description": "You can get the key to open the door of recollection",
+			"id": 10073,
+			"title": "I want to play at many events"
+		},
+		{
+			"description": "You can get meat",
+			"id": 10074,
+			"title": "I want MEAT"
+		},
+		{
+			"description": "Get potential orbs",
+			"id": 10075,
+			"title": "I want to unlock my potential"
+		},
+		{
+			"description": "Get Funky Kais",
+			"id": 10076,
+			"title": "I want to strengthen my special move"
+		},
+		{
+			"description": "Obtain the hidden treasure \"Wish Strip 3\"",
+			"id": 10077,
+			"title": "I want a wish"
 		}
 	]
 }
