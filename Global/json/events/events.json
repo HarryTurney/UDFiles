@@ -3831,6 +3831,26 @@
                 }
             ]
         },
+        {
+            "id": 518,
+            "banner_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_banner/quest_list_banner_518.png",
+            "event_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_header/quest_top_banner_518.png",
+            "minibanner_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_banner/quest_event_banner_518.png",
+            "quests":[
+                {
+					"id": 518001,
+                    "name": "A Mysterious Dark Foe"
+                },
+                {
+					"id": 518002,
+                    "name": "Dark Nightmare"
+                },
+                {
+					"id": 518003,
+                    "name": "Black Harbinger of Destruction"
+                }
+            ]
+        },
 		{
 			"id": 519,
             "banner_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_banner/quest_list_banner_519.png",
