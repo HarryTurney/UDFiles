@@ -3,6 +3,60 @@
 		{
 			"courses": [
 				{
+					"description": "{color: #FFFF00}DOKKAN festival character is appearing!!{color}\nIt is a gachathat can recruit 1 \ncharacter from the 「R・SR・SSR」 rarity",
+					"no": 1,
+					"title": "{color: #FF9900}Extreme {color}{color: #FF3300} D{color}{color: #FF9900}O{color}{color: #CCFF00}K{color}{color: #33FF00}K{color}{color: #00FFCC}A{color}{color: #0099FF}N {color}{color: #9966FF} Festival{color}"
+				},
+				{
+					"description": "{color: #FFFF00}DOKKAN festival character is appearing!!{color}\nIt is a gachathat can recruit 10 \ncharacters from the 「R・SR・SSR」 rarity",
+					"no": 2,
+					"title": "{color: #FF9900}Extreme {color}{color: #FF3300} D{color}{color: #FF9900}O{color}{color: #CCFF00}K{color}{color: #33FF00}K{color}{color: #00FFCC}A{color}{color: #0099FF}N {color}{color: #9966FF} Festival{color}"
+				}
+			],
+			"current_step": 1,
+			"description": "{center: begin}{color: #FF9900} Extreme {color}{color: #FF3300} DOKKAN {color}{color: #FFEE00} festival {color}is being held!!\nJoin the Extreme-awakening {color: #00CCFF} Super 17{color}!!{center}",
+			"id": 771,
+			"name": "Extreme DOKKAN Festival"
+		},
+		{
+			"courses": [
+				{
+					"description": "{color: #FFFF00}Obtained at the World Tournament{color}\nYou can summon with {color: #C0C0C0} SSR confirmed gacha ticket (5 Silver)! {color}\n{color: #FF0000}It is a gacha where you always get an SSR{color}",
+					"no": 1,
+					"title": "{color: #FF9900}SSR Confirmed Ticket Gacha{color}"
+				},
+				{
+					"description": "{color: #FFFF00}Obtained at the World Tournament{color}\nYou can summon with {color: #C0C0C0} SSR confirmed gacha ticket (1 gold)! {color}\n{color: #FF0000}It is a gacha where you always get an SSR{color}",
+					"no": 2,
+					"title": "{color: #FF9900}SSR Confirmed Ticket Gacha{color}"
+				}
+			],
+			"current_step": 1,
+			"description": "{center: begin}{color: #FF9900}SSR Confirmed Ticket Gacha {color} Live now!!\nParticipate in the {color: #FF0000} World Tournament {color} and get some {color: #FFFF00} Gacha ticket {color}!!{center}",
+			"id": 776,
+			"name": "SSR Confirmed Ticket Gacha"
+		},
+		{
+			"courses": [
+				{
+					"description": "{color: #FF0000}Only Once!!{color}\n{color: #FFFF00}It is a gacha where you can acquire 10 elder kais{color}\n{color: #FF0000}*The characters that appears is Mysterious Ritual Elder Kai{color}",
+					"no": 1,
+					"title": "{color: #FF99FF}E{color}{color: #FF9966}L{color}{color: #FFFF00}D{color}{color: #99FF00}E{color}{color: #00FF99}R{color}{color: #33FFFF}-{color}{color: #CC0000}KAI{color}"
+				},
+				{
+					"description": "{color: #FF0000}Only Once!!{color}\n{color: #FFFF00}It is a gacha where you can acquire 10 elder kais{color}\n{color: #FF0000}*The characters that appears is Mysterious Ritual Elder Kai{color}",
+					"no": 2,
+					"title": "{color: #FF99FF}E{color}{color: #FF9966}L{color}{color: #FFFF00}D{color}{color: #99FF00}E{color}{color: #00FF99}R{color}{color: #33FFFF}-{color}{color: #CC0000}KAI{color}"
+				}
+			],
+			"current_step": 1,
+			"description": "{center: begin}Hoon Hoon Hoon♪ Hoon Hoon Hoon♪\n{color: #FFFF00}Mysterious Ceremony Gasha is being held!!{color}{center}",
+			"id": 779,
+			"name": "Mysterious Ritual Gacha"
+		},
+		{
+			"courses": [
+				{
 					"description": "Summon with {color: #C0C0C0} World Tournament Gasha Ticket (5 silver tickets) {color} !!\nIt is a gacha that can join one \ncharacter from the 「R・SR・SSR」 rarity",
 					"no": 1,
 					"title": "{color: #66CCFF} World Tournament {color}{color: #FFCC33} Gacha Tickets {color}"
@@ -17,7 +71,7 @@
 				}
 			],
 			"current_step": 1,
-			"description": "{center: begin}{color: #66CCFF} World Tournament {color}{color: #FFCC33} Gacha Tickets {color} Live now!!\nJoin the {color: #FF0000} World Tournament {color}\nand get some {color: #FF9900} Gacha ticket!! {color}{center}",
+			"description": "{center: begin}{color: #66CCFF} World Tournament {color}{color: #FFCC33} Gacha Tickets {color} Live now!!\nParticipate in the {color: #FF0000} World Tournament {color} and get some {color: #FFFF00} Gacha ticket {color}!!{center}",
 			"id": 774,
 			"name": "World Tournament Ticket Gacha"
 		},
