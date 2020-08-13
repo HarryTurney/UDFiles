@@ -2,6 +2,40 @@
 	"steps": [
 		{
 			"gasha_rates": {
+				"id": 876
+			},
+			"note": "*The distribution ratio for each character in each category is uniform. \n *Since each provision ratio is rounded off to the fourth decimal place, the total may not be 100%."
+		},
+		{
+			"gasha_rates": {
+				"id": 1246,
+				"name": "Normal"
+			},
+			"note": "*The distribution ratio for each character in each category is uniform. \n *Since each provision ratio is rounded off to the fourth decimal place, the total may not be 100%. \n *Each character may appear twice.",
+			"special_gashas": [
+				{
+					"id": 1247,
+					"items_name": "SSR Character",
+					"name": "SSR Confirmed"
+				}
+			]
+		},
+		{
+			"gasha_rates": {
+				"id": 1229,
+				"name": "Normal"
+			},
+			"note": "*The distribution ratio for each character in each category is uniform. \n *Since each provision ratio is rounded off to the fourth decimal place, the total may not be 100%. \n *Each character may appear twice.",
+			"special_gashas": [
+				{
+					"id": 1230,
+					"items_name": "SSR Character",
+					"name": "SSR Confirmed"
+				}
+			]
+		},
+		{
+			"gasha_rates": {
 				"id": 1238,
 				"name": "Dragon stone discount"
 			},
