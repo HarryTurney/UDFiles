@@ -2,6 +2,20 @@
 	"steps": [
 		{
 			"gasha_rates": {
+				"id": 1243
+			},
+			"note": "*The distribution ratio for each character in each category is uniform.\n*Since the ratio of each offer is rounded off to the nearest decimal place, the total may not be 100%.",
+			"step": 1
+		},
+		{
+			"gasha_rates": {
+				"id": 1242
+			},
+			"note": "*The distribution ratio for each character in each category is uniform.\n*Since the ratio of each offer is rounded off to the nearest decimal place, the total may not be 100%.",
+			"step": 1
+		},
+		{
+			"gasha_rates": {
 				"id": 1211,
 				"name": "Normal"
 			},
