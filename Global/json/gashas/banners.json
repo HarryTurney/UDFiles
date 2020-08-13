@@ -3,20 +3,37 @@
 		{
 			"courses": [
 				{
-					"price": 5,
+					"description": "Get a SR or higher character with this Summon.",
+					"no": 1,
+					"title": "{color: #FF0000}Shoryu Festival{color}"
+				},
+				{
+					"description": "{color : #FFFF00}One featured SSR character{color} guaranteed!\nGet 10 SR or higher characters with this summmon.",
+					"no": 2,
+					"title": "{color: #FF0000}Shoryu Festival{color}"
+				}
+			],
+			"current_step": 1,
+			"description": "{center: begin}{color: #FF0000}SSR probability doubled!! {color}{color: #FF9900} Shoryu Festival held!!{color}\n{color: #FF9900}\u30e9\u30f3\u30c1{color}\u3068{color: #DCC2FF}Launch and Oceanus Shenron (Princess Oto) {color}{color: #FFFF00} Dokkan awakened!!{color}{center}",
+			"end_at": 1598601599,
+			"id": 778,
+			"name": "Shoryu Festival"
+		},
+		{
+			"courses": [
+				{
 					"description": "New {color: #FFCC00} Gohan (Teen) {color} arrives!\nGet a Rare or higher character with this Summon.",
 					"no": 1,
 					"title": "{color: #FF3300}D{color}{color: #FF9900}O{color}{color: #CCFF00}K{color}{color: #33FF00}K{color}{color: #00FFCC}A{color}{color: #0099FF}N {color}{color: #9966FF} F{color}{color: #9933CC}E{color}{color: #CC3366}S{color}{color: #CC3340}T{color}"
 				},
 				{
-					"price": 30,
-					"description": "New {color: #FFCC00}Gohan (Teen) {color} arrives!\nGet a Rare or higher character with this Summon.",
+					"description": "New {color: #FFCC00} Gohan (Teen) {color} arrives!\nGet a Rare or higher character with this Summon.",
 					"no": 2,
 					"title": "{color: #FF3300}D{color}{color: #FF9900}O{color}{color: #CCFF00}K{color}{color: #33FF00}K{color}{color: #00FFCC}A{color}{color: #0099FF}N {color}{color: #9966FF}F{color}{color: #9933CC}E{color}{color: #CC3366}S{color}{color: #CC3340}T{color}"
 				}
 			],
 			"current_step": 1,
-			"description":"{center:begin}Dokkan Festival! New {color: #FFCC00}Gohan (Teen) {color} arrives!\nOne SSR character guaranteed per Multi-Summon!{center}",
+			"description":"{center:begin}Dokkan Festival! New {color: #FFCC00} Gohan (Teen) {color} arrives!\nOne SSR character guaranteed per Multi-Summon!{center}",
 			"id": 767,
 			"name": "Dokkan Festival [Gohan (Teen)]"
 		},
@@ -28,7 +45,6 @@
 					"title": "{color: #FFCC00}\"Seekers of the Dragon Balls\"{color}{color: #FFFF99}Summon{color}"
 				},
 				{
-					"price": 30,
 					"description": "{color : #FFFF00}3 times only! 30 Dragon Stones for a Multi-Summon!{color}\n{color : #FFFF00}One featured SSR character{color} guaranteed!\nGet 10 Rare or higher characters with this Summon.",
 					"no": 2,
 					"title": "{color: #FFCC00}\"Seekers of the Dragon Balls\"{color}{color: #FFFF99}Summon{color}"
@@ -65,7 +81,6 @@
 					"title": "{color: #FFCC00}\"Saviour\"{color}{color: #FFFF99}Summon{color}"
 				},
 				{
-					"price": 30,
 					"description": "{color : #FFFF00}3 times only! 30 Dragon Stones for a Multi-Summon!{color}\n{color : #FFFF00}One featured SSR character{color} guaranteed!\nGet 10 Rare or higher characters with this Summon.",
 					"no": 2,
 					"title": "{color: #FFCC00}\"Saviour\"{color}{color: #FFFF99}Summon{color}"
@@ -157,10 +172,7 @@
 				},
 				{
 					"description": "Summon with {color: #C0C0C0} World Tournament Gasha Ticket (1 gold tickets) {color} !!\nIt is a gacha that can join one \ncharacter from the 「R・SR・SSR」 rarity",
-					"drawable_count": null,
-					"items_count": 1,
 					"no": 2,
-					"price": 1,
 					"title": "{color: #66CCFF} World Tournament {color}{color: #FFCC33} Gacha Tickets {color}"
 				}
 			],
@@ -397,7 +409,6 @@
 					"title": "{color: #FFCC00}\"Vegeta Family\"{color}{color: #FFFF99}Summon{color}"
 				},
 				{
-					"price": 30,
 					"description": "{color : #FFFF00}3 times only! 30 Dragon Stones for a Multi-Summon!{color}\n{color : #FFFF00}One featured SSR character{color} guaranteed!\nGet 10 Rare or higher characters with this Summon.",
 					"no": 2,
 					"title": "{color: #FFCC00}\"Vegeta Family\"{color}{color: #FFFF99}Summon{color}"
@@ -429,13 +440,11 @@
 		{
 			"courses": [
 				{
-					"price": 5,
 					"description": "New {color: #FFCC00} Kefla{color} arrives!\nGet a Rare or higher character with this Summon.",
 					"no": 1,
 					"title": "{color: #FF3300}D{color}{color: #FF9900}O{color}{color: #CCFF00}K{color}{color: #33FF00}K{color}{color: #00FFCC}A{color}{color: #0099FF}N {color}{color: #9966FF} F{color}{color: #9933CC}E{color}{color: #CC3366}S{color}{color: #CC3340}T{color}"
 				},
 				{
-					"price": 30,
 					"description": "New {color: #FFCC00}Kefla{color} arrives!\nGet a Rare or higher character with this Summon.",
 					"no": 2,
 					"title": "{color: #FF3300}D{color}{color: #FF9900}O{color}{color: #CCFF00}K{color}{color: #33FF00}K{color}{color: #00FFCC}A{color}{color: #0099FF}N {color}{color: #9966FF}F{color}{color: #9933CC}E{color}{color: #CC3366}S{color}{color: #CC3340}T{color}"
@@ -449,13 +458,11 @@
 		{
 			"courses": [
 				{
-					"price": 5,
 					"description": "Summon an SSR character now!",
 					"no": 1,
 					"title": "{color : #FFFF00}Summon Sprint!{color}"
 				},
 				{
-					"price": 50,
 					"description": "Summon an SSR character now!",
 					"no": 2,
 					"title": "{color : #FFFF00}Summon Sprint!{color}"
