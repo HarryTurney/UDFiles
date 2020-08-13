@@ -5,37 +5,37 @@
 				{
 					"description": "Get a Rare or higher character with this Summon.",
 					"no": 1,
-					"title": "{color: #FFCC00}\"Saviour\"{color}{color: #FFFF99}Summon{color}"
+					"title": "{color: #FFCC00}\"Seekers of the Dragon Balls\"{color}{color: #FFFF99}Summon{color}"
 				},
 				{
 					"price": 30,
 					"description": "{color : #FFFF00}3 times only! 30 Dragon Stones for a Multi-Summon!{color}\n{color : #FFFF00}One featured SSR character{color} guaranteed!\nGet 10 Rare or higher characters with this Summon.",
 					"no": 2,
-					"title": "{color: #FFCC00}\"Saviour\"{color}{color: #FFFF99}Summon{color}"
+					"title": "{color: #FFCC00}\"Seekers of the Dragon Balls\"{color}{color: #FFFF99}Summon{color}"
 				}
 			],
 			"current_step": 1,
-			"description": "{center:begin}Characters related to the\n{color: #4B76F2}\"Saviour\" Category{color} assemble!{center}",
+			"description": "{center:begin}Characters related to the\n{color: #4B76F2}\"Seekers of the Dragon Balls\" {color} Category assemble!{center}",
 			"id": 772,
-			"name": "Category Summon [Saviour]"
+			"name": "Category Summon [Seekers of the Dragon Balls]"
 		},
 		{
 			"courses": [
 				{
 					"description": "Get a Rare or higher character with this Summon.",
 					"no": 1,
-					"title": "{color: #FFCC00}\"Saviour\"{color}{color: #FFFF99}Summon{color}"
+					"title": "{color: #FFCC00}\"Seekers of the Dragon Balls\"{color}{color: #FFFF99}Summon{color}"
 				},
 				{
 					"description": "{color : #FFFF00}One featured SSR character{color} guaranteed!\nGet 10 Rare or higher characters with this summmon.",
 					"no": 2,
-					"title": "{color: #FFCC00}\"Saviour\"{color}{color: #FFFF99}Summon{color}"
+					"title": "{color: #FFCC00}\"Seekers of the Dragon Balls\"{color}{color: #FFFF99}Summon{color}"
 				}
 			],
 			"current_step": 2,
-			"description": "{center:begin}Characters related to the\n{color: #4B76F2}\"Saviour\" Category{color} assemble!{center}",
+			"description": "{center:begin}Characters related to the\n{color: #4B76F2}\"Seekers of the Dragon Balls\" {color} Category assemble!{center}",
 			"id": 772,
-			"name": "Category Summon [Saviour]"
+			"name": "Category Summon [Seekers of the Dragon Balls]"
 		},
 		{
 			"courses": [
@@ -52,7 +52,7 @@
 				}
 			],
 			"current_step": 1,
-			"description": "{center:begin}Characters related to the\n{color: #4B76F2}\"Saviour\" Category{color} assemble!{center}",
+			"description": "{center:begin}Characters related to the\n{color: #4B76F2}\"Saviour\" {color} Category assemble!{center}",
 			"id": 768,
 			"name": "Category Summon [Saviour]"
 		},
@@ -70,7 +70,7 @@
 				}
 			],
 			"current_step": 2,
-			"description": "{center:begin}Characters related to the\n{color: #4B76F2}\"Saviour\" Category{color} assemble!{center}",
+			"description": "{center:begin}Characters related to the\n{color: #4B76F2}\"Saviour\" {color} Category assemble!{center}",
 			"id": 768,
 			"name": "Category Summon [Saviour]"
 		},
@@ -181,7 +181,7 @@
 				}
 			],
 			"current_step": 1,
-			"description": "{center:begin}Characters related to the\n{color: #FF0000}\"All Out\" Category{color} assemble!{center}",
+			"description": "{center:begin}Characters related to the\n{color: #FF0000}\"All Out\" {color} Category assemble!{center}",
 			"id": 758,
 			"name": "Category Summon [All Out]"
 		},
@@ -199,7 +199,7 @@
 				}
 			],
 			"current_step": 2,
-			"description": "{center:begin}Characters related to the\n{color: #FF0000}\"All Out\" Category{color} assemble!{center}",
+			"description": "{center:begin}Characters related to the\n{color: #FF0000}\"All Out\" {color} Category assemble!{center}",
 			"id": 758,
 			"name": "Category Summon [All Out]"
 		},
@@ -345,7 +345,7 @@
 				}
 			],
 			"current_step": 1,
-			"description": "{center:begin}Characters related to the\n{color: #4B76F2}\"Rapid Growth\" Category{color} assemble!{center}",
+			"description": "{center:begin}Characters related to the\n{color: #4B76F2}\"Rapid Growth\" {color} Category assemble!{center}",
 			"end_at": 1592294399,
 			"id": 748,
 			"name": "Category Summon [Rapid Growth]"
@@ -364,7 +364,7 @@
 				}
 			],
 			"current_step": 2,
-			"description": "{center:begin}Characters related to the\n{color: #4B76F2}\"Rapid Growth\" Category{color} assemble!{center}",
+			"description": "{center:begin}Characters related to the\n{color: #4B76F2}\"Rapid Growth\" {color} Category assemble!{center}",
 			"end_at": 1592294399,
 			"id": 748,
 			"name": "Category Summon [Rapid Growth]"
@@ -384,7 +384,7 @@
 				}
 			],
 			"current_step": 1,
-			"description": "{center:begin}Characters related to the\n{color: #4B76F2}\"Vegeta Family\" Category{color} assemble!{center}",
+			"description": "{center:begin}Characters related to the\n{color: #4B76F2}\"Vegeta Family\" {color} Category assemble!{center}",
 			"id": 752,
 			"name": "Category Summon [Vegeta Family]"
 		},
@@ -402,7 +402,7 @@
 				}
 			],
 			"current_step": 2,
-			"description": "{center:begin}Characters related to the\n{color: #4B76F2}\"Vegeta Family\" Category{color} assemble!{center}",
+			"description": "{center:begin}Characters related to the\n{color: #4B76F2}\"Vegeta Family\" {color} Category assemble!{center}",
 			"id": 752,
 			"name": "Category Summon [Vegeta Family]"
 		},
