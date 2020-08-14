@@ -282,6 +282,15 @@
                     "name": "In the Fused World..."
 				}
 			]
+        },
+		{
+			"id": 138,
+			"quests": [
+				{
+					"id": 138001,
+					"name": "The Peculiar Penguin Village"
+				}
+			]
 		},
 		{
 			"id": 139,
@@ -479,7 +488,11 @@
 				{
 					"id": 160004,
                     "name": "Return of the Magical Girl Fighters"
-                }
+                },
+				{
+					"id": 160005,
+					"name": "Wild Instinct and Mastery"
+				}
             ]
         },
 		{	"id": 161,
@@ -3132,6 +3145,60 @@
             ]
         },
 		{
+			"id": 375,
+			"quests": [
+				{
+					"id": 375001,
+					"name": "Saiyan in Exile"
+				},
+				{
+					"id": 375002,
+					"name": "Prince of the Saiyans"
+				},
+				{
+					"id": 375003,
+					"name": "The End of Planet Vegeta"
+				},
+				{
+					"id": 375004,
+					"name": "Kakarot and Vegeta"
+				},
+				{
+					"id": 375005,
+					"name": "Revolving Fate"
+				}
+			]
+		},
+		{
+			"id": 376,
+			"quests": [
+				{
+					"id": 376001,
+					"name": "Goku and the Kai of Universe 10"
+				},
+				{
+					"id": 376002,
+					"name": "Justice and Order"
+				},
+				{
+					"id": 376003,
+					"name": "Good and Evil"
+				},
+				{
+					"id": 376004,
+					"name": "Imposter's Body and Saiyan Cells"
+				},
+				{
+					"id": 376005,
+					"name": "Anger and New Strength"
+				},
+				{
+					"id": 376006,
+					"name": "Gods and Mortals"
+				}
+			]
+		},
+		{
 			"id": 377,
             "banner_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_banner/quest_list_banner_377.png",
             "event_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_header/quest_top_banner_377.png",
@@ -3689,7 +3756,11 @@
                 {
                     "id": 508003,
                     "name": "The Ultimate Form"
-                }
+                },
+				{
+					"id": 508004,
+					"name": "The Strongest Warrior Arrives"
+				}
             ]
         },
         {
@@ -3821,7 +3892,11 @@
                 {
                     "id": 515003,
                     "name": "The Strongest Majin is Born!"
-                }
+                },
+                {
+					"id": 515004,
+					"name": "Fusion of Demonic Nightmare"
+				}
             ]
         },
 		{
@@ -3952,6 +4027,15 @@
                 }
             ]
         },
+		{
+			"id": 521,
+			"quests": [
+				{
+					"id": 521001,
+					"name": "Bespectacled Super Girl"
+				}
+			]
+		},
         {
             "id": 522,
             "banner_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_banner/quest_list_banner_522.png",
@@ -4363,7 +4447,11 @@
                 {
 					"id": 549001,
                     "name": "The Omnipotent Saiyan Warrior"
-                }
+                },
+				{
+					"id": 549002,
+					"name": "Transdimensional Battle!"
+				}
             ]
         },
 		{
