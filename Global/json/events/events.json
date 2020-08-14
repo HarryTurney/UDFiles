@@ -5809,6 +5809,248 @@
 				}
 			]
         },
+        {
+			"id": 716,
+			"quests": [
+				{
+					"id": 716001,
+					"limitations": [
+						{
+							"id": 344,
+							"description": "▼ Only the following characters can challenge\n\n・[Raging Rampage] Hatchiyack\n・[Puzzle Wrapped in Enigma] Whis\n・[Proof of Tough Trainings] Super Saiyan Goku\n・[Ace Up the Sleeve] Piccolo\n・[Gentle-Hearted Warrior] Super Saiyan Gohan (Youth)\n・[Leaping Ever Higher] Super Saiyan Goku\n・[Reclaim the Summit] Super Saiyan Vegeta\n・[A True Master's Dignity] Piccolo\n・[Future-Carving Power] Super Saiyan Trunks (Teen)\n・[Soaring New Generation] Super Saiyan Gohan (Youth)\n・[Whirlwind Strike] Super Saiyan 2 Goku\n・[Long-awaited Serious Duel] Super Saiyan 2 Goku\n・[Shattering Strike] Super Saiyan 2 Goku\n・[Blast of Fury] Super Saiyan Gohan (Teen)\n・[Stunning Power] Super Saiyan 2 Vegeta\n・[Technique vs. Strength] Super Saiyan 2 Goku (GT)\n・[Powers Combined] Majuub\n・[Last-Second Gambit] Goku (Kaioken)\n・[Farewell, Proud Warrior] Majin Vegeta\n・[Majin on the Loose] Majin Buu (Good)"
+						},
+						{
+							"id": 345,
+							"description": "You can challenge with a team that includes\n[Raging Rampage] Hatchiyack"
+						},
+						{
+							"id": 346,
+							"description": "You can challenge with a team that includes\n[Puzzle Wrapped in Enigma] Whis"
+						},
+						{
+							"id": 349,
+							"description":"No support items allowed"
+						},
+						{
+							"id": 350,
+							"description":"Continues are not allowed"
+						}
+					],
+					"name": "Leaping Ever Higher"
+				},
+				{
+					"id": 716002,
+					"limitations": [
+						{
+							"id": 351,
+							"description": "▼ Only the following characters can challenge\n\n・[Raging Rampage] Hatchiyack\n・[Puzzle Wrapped in Enigma] Whis\n・[Proof of Tough Trainings] Super Saiyan Goku\n・[Ace Up the Sleeve] Piccolo\n・[Gentle-Hearted Warrior] Super Saiyan Gohan (Youth)\n・[Leaping Ever Higher] Super Saiyan Goku\n・[Reclaim the Summit] Super Saiyan Vegeta\n・[A True Master's Dignity] Piccolo\n・[Future-Carving Power] Super Saiyan Trunks (Teen)\n・[Soaring New Generation] Super Saiyan Gohan (Youth)\n・[Whirlwind Strike] Super Saiyan 2 Goku\n・[Long-awaited Serious Duel] Super Saiyan 2 Goku\n・[Shattering Strike] Super Saiyan 2 Goku\n・[Blast of Fury] Super Saiyan Gohan (Teen)\n・[Stunning Power] Super Saiyan 2 Vegeta\n・[Technique vs. Strength] Super Saiyan 2 Goku (GT)\n・[Powers Combined] Majuub\n・[Last-Second Gambit] Goku (Kaioken)\n・[Farewell, Proud Warrior] Majin Vegeta\n・[Majin on the Loose] Majin Buu (Good)"
+						},
+						{
+							"id": 352,
+							"description": "You can challenge with a team that includes\n[Raging Rampage] Hatchiyack"
+						},
+						{
+							"id": 353,
+							"description": "You can challenge with a team that includes\n[Puzzle Wrapped in Enigma] Whis"
+						},
+						{
+							"id": 354,
+							"description":"No support items allowed"
+						},
+						{
+							"id": 355,
+							"description":"Continues are not allowed"
+						}
+					],
+					"name": "Soaring New Generation"
+				},
+				{
+					"id": 716003,
+					"limitations": [
+						{
+							"id": 356,
+							"description": "▼ Only the following characters can challenge\n\n・[Raging Rampage] Hatchiyack\n・[Puzzle Wrapped in Enigma] Whis\n・[Proof of Tough Trainings] Super Saiyan Goku\n・[Ace Up the Sleeve] Piccolo\n・[Gentle-Hearted Warrior] Super Saiyan Gohan (Youth)\n・[Leaping Ever Higher] Super Saiyan Goku\n・[Reclaim the Summit] Super Saiyan Vegeta\n・[A True Master's Dignity] Piccolo\n・[Future-Carving Power] Super Saiyan Trunks (Teen)\n・[Soaring New Generation] Super Saiyan Gohan (Youth)\n・[Whirlwind Strike] Super Saiyan 2 Goku\n・[Long-awaited Serious Duel] Super Saiyan 2 Goku\n・[Shattering Strike] Super Saiyan 2 Goku\n・[Blast of Fury] Super Saiyan Gohan (Teen)\n・[Stunning Power] Super Saiyan 2 Vegeta\n・[Technique vs. Strength] Super Saiyan 2 Goku (GT)\n・[Powers Combined] Majuub\n・[Last-Second Gambit] Goku (Kaioken)\n・[Farewell, Proud Warrior] Majin Vegeta\n・[Majin on the Loose] Majin Buu (Good)"
+						},
+						{
+							"id": 357,
+							"description": "You can challenge with a team that includes\n[Raging Rampage] Hatchiyack"
+						},
+						{
+							"id": 358,
+							"description": "You can challenge with a team that includes\n[Puzzle Wrapped in Enigma] Whis"
+						},
+						{
+							"id": 359,
+							"description":"No support items allowed"
+						},
+						{
+							"id": 360,
+							"description":"Continues are not allowed"
+						}
+					],
+					"name": "A True Master's Dignity"
+				},
+				{
+					"id": 716004,
+					"limitations": [
+						{
+							"id": 361,
+							"description": "▼ Only the following characters can challenge\n\n・[Raging Rampage] Hatchiyack\n・[Puzzle Wrapped in Enigma] Whis\n・[Proof of Tough Trainings] Super Saiyan Goku\n・[Ace Up the Sleeve] Piccolo\n・[Gentle-Hearted Warrior] Super Saiyan Gohan (Youth)\n・[Leaping Ever Higher] Super Saiyan Goku\n・[Reclaim the Summit] Super Saiyan Vegeta\n・[A True Master's Dignity] Piccolo\n・[Future-Carving Power] Super Saiyan Trunks (Teen)\n・[Soaring New Generation] Super Saiyan Gohan (Youth)\n・[Whirlwind Strike] Super Saiyan 2 Goku\n・[Long-awaited Serious Duel] Super Saiyan 2 Goku\n・[Shattering Strike] Super Saiyan 2 Goku\n・[Blast of Fury] Super Saiyan Gohan (Teen)\n・[Stunning Power] Super Saiyan 2 Vegeta\n・[Technique vs. Strength] Super Saiyan 2 Goku (GT)\n・[Powers Combined] Majuub\n・[Last-Second Gambit] Goku (Kaioken)\n・[Farewell, Proud Warrior] Majin Vegeta\n・[Majin on the Loose] Majin Buu (Good)"
+						},
+						{
+							"id": 362,
+							"description": "You can challenge with a team that includes\n[Raging Rampage] Hatchiyack"
+						},
+						{
+							"id": 363,
+							"description": "You can challenge with a team that includes\n[Puzzle Wrapped in Enigma] Whis"
+						},
+						{
+							"id": 364,
+							"description":"No support items allowed"
+						},
+						{
+							"id": 365,
+							"description":"Continues are not allowed"
+						}
+					],
+					"name": "Reclaim the Summit"
+				},
+				{
+					"id": 716005,
+					"limitations": [
+						{
+							"id": 366,
+							"description": "▼ Only the following characters can challenge\n\n・[Raging Rampage] Hatchiyack\n・[Puzzle Wrapped in Enigma] Whis\n・[Proof of Tough Trainings] Super Saiyan Goku\n・[Ace Up the Sleeve] Piccolo\n・[Gentle-Hearted Warrior] Super Saiyan Gohan (Youth)\n・[Leaping Ever Higher] Super Saiyan Goku\n・[Reclaim the Summit] Super Saiyan Vegeta\n・[A True Master's Dignity] Piccolo\n・[Future-Carving Power] Super Saiyan Trunks (Teen)\n・[Soaring New Generation] Super Saiyan Gohan (Youth)\n・[Whirlwind Strike] Super Saiyan 2 Goku\n・[Long-awaited Serious Duel] Super Saiyan 2 Goku\n・[Shattering Strike] Super Saiyan 2 Goku\n・[Blast of Fury] Super Saiyan Gohan (Teen)\n・[Stunning Power] Super Saiyan 2 Vegeta\n・[Technique vs. Strength] Super Saiyan 2 Goku (GT)\n・[Powers Combined] Majuub\n・[Last-Second Gambit] Goku (Kaioken)\n・[Farewell, Proud Warrior] Majin Vegeta\n・[Majin on the Loose] Majin Buu (Good)"
+						},
+						{
+							"id": 367,
+							"description": "You can challenge with a team that includes\n[Raging Rampage] Hatchiyack"
+						},
+						{
+							"id": 368,
+							"description": "You can challenge with a team that includes\n[Puzzle Wrapped in Enigma] Whis"
+						},
+						{
+							"id": 369,
+							"description":"No support items allowed"
+						},
+						{
+							"id": 370,
+							"description":"Continues are not allowed"
+						}
+					],
+					"name": "Future-Carving Power"
+				},
+				{
+					"id": 716006,
+					"limitations": [
+						{
+							"id": 375,
+							"description": "▼ Only the following characters can challenge\n\n・[Raging Rampage] Hatchiyack\n・[Puzzle Wrapped in Enigma] Whis\n・[Proof of Tough Trainings] Super Saiyan Goku\n・[Ace Up the Sleeve] Piccolo\n・[Gentle-Hearted Warrior] Super Saiyan Gohan (Youth)\n・[Leaping Ever Higher] Super Saiyan Goku\n・[Reclaim the Summit] Super Saiyan Vegeta\n・[A True Master's Dignity] Piccolo\n・[Future-Carving Power] Super Saiyan Trunks (Teen)\n・[Soaring New Generation] Super Saiyan Gohan (Youth)\n・[Whirlwind Strike] Super Saiyan 2 Goku\n・[Long-awaited Serious Duel] Super Saiyan 2 Goku\n・[Shattering Strike] Super Saiyan 2 Goku\n・[Blast of Fury] Super Saiyan Gohan (Teen)\n・[Stunning Power] Super Saiyan 2 Vegeta\n・[Technique vs. Strength] Super Saiyan 2 Goku (GT)\n・[Powers Combined] Majuub\n・[Last-Second Gambit] Goku (Kaioken)\n・[Farewell, Proud Warrior] Majin Vegeta\n・[Majin on the Loose] Majin Buu (Good)"
+						},
+						{
+							"id": 376,
+							"description": "You can challenge with a team that includes\n[Raging Rampage] Hatchiyack"
+						},
+						{
+							"id": 377,
+							"description": "You can challenge with a team that includes\n[Puzzle Wrapped in Enigma] Whis"
+						},
+						{
+							"id": 378,
+							"description":"No support items allowed"
+						},
+						{
+							"id": 379,
+							"description":"Continues are not allowed"
+						}
+					],
+					"name": "Whirlwind Strike"
+				},
+				{
+					"id": 716007,
+					"limitations": [
+						{
+							"id": 380,
+							"description": "▼ Only the following characters can challenge\n\n・[Raging Rampage] Hatchiyack\n・[Puzzle Wrapped in Enigma] Whis\n・[Proof of Tough Trainings] Super Saiyan Goku\n・[Ace Up the Sleeve] Piccolo\n・[Gentle-Hearted Warrior] Super Saiyan Gohan (Youth)\n・[Leaping Ever Higher] Super Saiyan Goku\n・[Reclaim the Summit] Super Saiyan Vegeta\n・[A True Master's Dignity] Piccolo\n・[Future-Carving Power] Super Saiyan Trunks (Teen)\n・[Soaring New Generation] Super Saiyan Gohan (Youth)\n・[Whirlwind Strike] Super Saiyan 2 Goku\n・[Long-awaited Serious Duel] Super Saiyan 2 Goku\n・[Shattering Strike] Super Saiyan 2 Goku\n・[Blast of Fury] Super Saiyan Gohan (Teen)\n・[Stunning Power] Super Saiyan 2 Vegeta\n・[Technique vs. Strength] Super Saiyan 2 Goku (GT)\n・[Powers Combined] Majuub\n・[Last-Second Gambit] Goku (Kaioken)\n・[Farewell, Proud Warrior] Majin Vegeta\n・[Majin on the Loose] Majin Buu (Good)"
+						},
+						{
+							"id": 381,
+							"description": "You can challenge with a team that includes\n[Raging Rampage] Hatchiyack"
+						},
+						{
+							"id": 382,
+							"description": "You can challenge with a team that includes\n[Puzzle Wrapped in Enigma] Whis"
+						},
+						{
+							"id": 383,
+							"description":"No support items allowed"
+						},
+						{
+							"id": 384,
+							"description":"Continues are not allowed"
+						}
+					],
+					"name": "Long-awaited Serious Duel"
+				},
+				{
+					"id": 716008,
+					"limitations": [
+						{
+							"id": 385,
+							"description": "▼ Only the following characters can challenge\n\n・[Raging Rampage] Hatchiyack\n・[Puzzle Wrapped in Enigma] Whis\n・[Proof of Tough Trainings] Super Saiyan Goku\n・[Ace Up the Sleeve] Piccolo\n・[Gentle-Hearted Warrior] Super Saiyan Gohan (Youth)\n・[Leaping Ever Higher] Super Saiyan Goku\n・[Reclaim the Summit] Super Saiyan Vegeta\n・[A True Master's Dignity] Piccolo\n・[Future-Carving Power] Super Saiyan Trunks (Teen)\n・[Soaring New Generation] Super Saiyan Gohan (Youth)\n・[Whirlwind Strike] Super Saiyan 2 Goku\n・[Long-awaited Serious Duel] Super Saiyan 2 Goku\n・[Shattering Strike] Super Saiyan 2 Goku\n・[Blast of Fury] Super Saiyan Gohan (Teen)\n・[Stunning Power] Super Saiyan 2 Vegeta\n・[Technique vs. Strength] Super Saiyan 2 Goku (GT)\n・[Powers Combined] Majuub\n・[Last-Second Gambit] Goku (Kaioken)\n・[Farewell, Proud Warrior] Majin Vegeta\n・[Majin on the Loose] Majin Buu (Good)"
+						},
+						{
+							"id": 386,
+							"description": "You can challenge with a team that includes\n[Raging Rampage] Hatchiyack"
+						},
+						{
+							"id": 387,
+							"description": "You can challenge with a team that includes\n[Puzzle Wrapped in Enigma] Whis"
+						},
+						{
+							"id": 388,
+							"description":"No support items allowed"
+						},
+						{
+							"id": 389,
+							"description":"Continues are not allowed"
+						}
+					],
+					"name": "Shattering Strike"
+				},
+				{
+					"id": 716009,
+					"limitations": [
+						{
+							"id": 533,
+							"description": "▼ Only the following characters can challenge\n\n・[Raging Rampage] Hatchiyack\n・[Puzzle Wrapped in Enigma] Whis\n・[Proof of Tough Trainings] Super Saiyan Goku\n・[Ace Up the Sleeve] Piccolo\n・[Gentle-Hearted Warrior] Super Saiyan Gohan (Youth)\n・[Leaping Ever Higher] Super Saiyan Goku\n・[Reclaim the Summit] Super Saiyan Vegeta\n・[A True Master's Dignity] Piccolo\n・[Future-Carving Power] Super Saiyan Trunks (Teen)\n・[Soaring New Generation] Super Saiyan Gohan (Youth)\n・[Whirlwind Strike] Super Saiyan 2 Goku\n・[Long-awaited Serious Duel] Super Saiyan 2 Goku\n・[Shattering Strike] Super Saiyan 2 Goku\n・[Blast of Fury] Super Saiyan Gohan (Teen)\n・[Stunning Power] Super Saiyan 2 Vegeta\n・[Technique vs. Strength] Super Saiyan 2 Goku (GT)\n・[Powers Combined] Majuub\n・[Last-Second Gambit] Goku (Kaioken)\n・[Farewell, Proud Warrior] Majin Vegeta\n・[Majin on the Loose] Majin Buu (Good)"
+						},
+						{
+							"id": 534,
+							"description": "You can challenge with a team that includes\n[Raging Rampage] Hatchiyack"
+						},
+						{
+							"id": 535,
+							"description": "You can challenge with a team that includes\n[Puzzle Wrapped in Enigma] Whis"
+						},
+						{
+							"id": 536,
+							"description":"No support items allowed"
+						},
+						{
+							"id": 537,
+							"description":"Continues are not allowed"
+						}
+					],
+					"name": "Farewell, Proud Warrior"
+				}
+			],
+			"recommend": {
+				"description": "New stage appearance!"
+			}
+		},
 		{
 			"id": 719,
 			"quests": [
@@ -6098,6 +6340,101 @@
 						}
 					],
 					"name": "Namekian Mutation"
+				}
+			]
+        },
+		{
+			"id": 723,
+			"quests": [
+				{
+					"id": 723001,
+					"limitations": [
+						{
+							"id": 484,
+							"description": "▼ Only the following characters can challenge\n\n・[Splendid Hunter] Kakunsa\n・[Mastery of the Yacchaina Fist] Roasie\n・[Charming Girl's Dance] Super Ribrianne\n・[Power for Securing Victory] Super Saiyan 2 Caulifla\n・[First Step as a Warrior] Super Saiyan 2 Kale\n・[Vengeful Witchcraft] Yurin\n・[Love Warrior of Universe 7] Android #18\n・[Proudest Moment] Brianne de Chateau\n・[Infinite Love] Ribrianne (Giant Form)\n・[Immaculately Innocent Approach] Chi-Chi (Youth)\n・[Vow of Happiness] Chi-Chi\n・[Shopping with Dad] Bulla\n・[Soaring Heart] Videl\n・[Life of the Party] Pan (GT)\n・[The Love to Light the Future] Mai (Future)\n・[Casual Refreshment] Android #18"
+						},
+						{
+							"id": 485,
+							"description": "You can challenge with a team that includes\n[Splendid Hunter] Kakunsa"
+						},
+						{
+							"id": 486,
+							"description": "You can challenge with a team that includes\n[Mastery of the Yacchaina Fist] Roasie"
+						},
+						{
+							"id": 487,
+							"description": "You can challenge with a team that includes\n[Charming Girl's Dance] Super Ribrianne"
+						},
+						{
+							"id": 488,
+							"description":"No support items allowed"
+						},
+						{
+							"id": 489,
+							"description":"Continues are not allowed"
+						}
+					],
+					"name": "Splendid Hunter"
+				},
+				{
+					"id": 723002,
+					"limitations": [
+						{
+							"id": 490,
+							"description": "▼ Only the following characters can challenge\n\n・[Splendid Hunter] Kakunsa\n・[Mastery of the Yacchaina Fist] Roasie\n・[Charming Girl's Dance] Super Ribrianne\n・[Power for Securing Victory] Super Saiyan 2 Caulifla\n・[First Step as a Warrior] Super Saiyan 2 Kale\n・[Vengeful Witchcraft] Yurin\n・[Love Warrior of Universe 7] Android #18\n・[Proudest Moment] Brianne de Chateau\n・[Infinite Love] Ribrianne (Giant Form)\n・[Immaculately Innocent Approach] Chi-Chi (Youth)\n・[Vow of Happiness] Chi-Chi\n・[Shopping with Dad] Bulla\n・[Soaring Heart] Videl\n・[Life of the Party] Pan (GT)\n・[The Love to Light the Future] Mai (Future)\n・[Casual Refreshment] Android #18"
+						},
+						{
+							"id": 491,
+							"description": "You can challenge with a team that includes\n[Splendid Hunter] Kakunsa"
+						},
+						{
+							"id": 492,
+							"description": "You can challenge with a team that includes\n[Mastery of the Yacchaina Fist] Roasie"
+						},
+						{
+							"id": 493,
+							"description": "You can challenge with a team that includes\n[Charming Girl's Dance] Super Ribrianne"
+						},
+						{
+							"id": 494,
+							"description":"No support items allowed"
+						},
+						{
+							"id": 495,
+							"description":"Continues are not allowed"
+						}
+					],
+					"name": "Mastery of the Yacchaina Fist"
+				},
+				{
+					"id": 723003,
+					"limitations": [
+                        {
+							"id": 496,
+							"description": "▼ Only the following characters can challenge\n\n・[Splendid Hunter] Kakunsa\n・[Mastery of the Yacchaina Fist] Roasie\n・[Charming Girl's Dance] Super Ribrianne\n・[Power for Securing Victory] Super Saiyan 2 Caulifla\n・[First Step as a Warrior] Super Saiyan 2 Kale\n・[Vengeful Witchcraft] Yurin\n・[Love Warrior of Universe 7] Android #18\n・[Proudest Moment] Brianne de Chateau\n・[Infinite Love] Ribrianne (Giant Form)\n・[Immaculately Innocent Approach] Chi-Chi (Youth)\n・[Vow of Happiness] Chi-Chi\n・[Shopping with Dad] Bulla\n・[Soaring Heart] Videl\n・[Life of the Party] Pan (GT)\n・[The Love to Light the Future] Mai (Future)\n・[Casual Refreshment] Android #18"
+						},
+						{
+							"id": 497,
+							"description": "You can challenge with a team that includes\n[Splendid Hunter] Kakunsa"
+						},
+						{
+							"id": 498,
+							"description": "You can challenge with a team that includes\n[Mastery of the Yacchaina Fist] Roasie"
+						},
+						{
+							"id": 499,
+							"description": "You can challenge with a team that includes\n[Charming Girl's Dance] Super Ribrianne"
+						},
+						{
+							"id": 500,
+							"description":"No support items allowed"
+						},
+						{
+							"id": 501,
+							"description":"Continues are not allowed"
+						}
+					],
+					"name": "Charming Girl's Dance"
 				}
 			]
 		}
