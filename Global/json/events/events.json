@@ -294,6 +294,33 @@
                     "name": "Captain Yamcha's Grand Slam!"
 				}
 			]
+        },
+		{
+			"id": 140,
+			"quests": [
+				{
+					"id": 140001,
+					"name": "AGL Hidden Potential Event"
+				}
+			]
+		},
+		{
+			"id": 141,
+			"quests": [
+				{
+					"id": 141001,
+					"name": "TEQ Hidden Potential Event"
+				}
+			]
+		},
+		{
+			"id": 142,
+			"quests": [
+				{
+					"id": 142001,
+					"name": "INT Hidden Potential Event"
+				}
+			]
 		},
 		{
 			"id": 143,
@@ -304,6 +331,15 @@
 				{
 					"id": 143001,
                     "name": "STR Hidden Potential Event"
+				}
+			]
+        },
+		{
+			"id": 144,
+			"quests": [
+				{
+					"id": 144001,
+					"name": "PHY Hidden Potential Event"
 				}
 			]
 		},
@@ -686,12 +722,12 @@
 					"id": 202001,
 					"limitations": [
 						{
-							"description": "・You must use [Grand Opening] Team Bardock",
-							"id": 467
+                            "id": 467,
+                            "description": "・You must use [Grand Opening] Team Bardock"
 						},
 						{
-							"description": "▼You can only challenge the event with the following characters when fully dokkan awakened\n\n[Battle-Hardened Hero] Bardock\n・[Total Invasion] Tora\n・[Cunning Moves] Fasha\n・【Infinite Power】Borgos\n・[Ruffian's Strike] Shugesh",
-							"id": 478
+                            "id": 478,
+                            "description": "▼You can only challenge the event with the following characters when fully dokkan awakened\n\n[Battle-Hardened Hero] Bardock\n・[Total Invasion] Tora\n・[Cunning Moves] Fasha\n・【Infinite Power】Borgos\n・[Ruffian's Strike] Shugesh"
 						},
 						{
                             "description": "・You must use [Battle-Hardened Hero] Bardock",
@@ -3177,6 +3213,35 @@
             ]
         },
 		{
+			"id": 381,
+			"quests": [
+				{
+					"id": 381001,
+					"name": "Fight On! Hero of Justice!"
+				},
+				{
+					"id": 381002,
+					"name": "Pure Heart, Evil Ambitious"
+				},
+				{
+					"id": 381003,
+					"name": "Intercept the Alien Warrior!"
+				},
+				{
+					"id": 381004,
+					"name": "Young Hearts, Liberated!"
+				},
+				{
+					"id": 381005,
+					"name": "Defeat the King of Demon Realm!"
+				},
+				{
+					"id": 381006,
+					"name": "Stop the Reckless Majin!"
+				}
+			]
+		},
+		{
 			"id": 401,
             "banner_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_banner/quest_list_banner_401.png",
             "event_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_header/quest_top_banner_401_R.png",
@@ -5552,6 +5617,126 @@
             ]
         },
 		{
+			"id": 713,
+            "banner_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_banner/quest_list_banner_713.png",
+            "event_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_header/quest_top_banner_713.png",
+            "minibanner_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_banner/quest_event_banner_713.png",
+            "quests":[
+                {
+					"id": 713001,
+                    "limitations":[
+                        {
+        					"id": 327,
+                            "description":"\"Continues\" are not allowed."
+                        },
+                        {
+                            "id":328,
+                            "description":"Androids/Cell Saga (vs. Super Warriors)"
+                        }
+                    ],
+                    "name": "Spirited Earth Defense"
+                },
+                {
+					"id": 713002,
+                    "limitations":[
+                        {
+        					"id": 329,
+                            "description":"\"Continues\" are not allowed."
+                        },
+                        {
+                            "id":330,
+                            "description":"Up to 2 types of Support Items are allowed."
+                        }
+                    ],
+                    "name": "Androids/Cell Saga (vs. Androids)"
+                },
+                {
+					"id": 713003,
+                    "limitations":[
+                        {
+        					"id": 371,
+                            "description":"\"Continues\" are not allowed."
+                        },
+                        {
+                            "id":372,
+                            "description":"Up to 2 types of Support Items are allowed."
+                        }
+                    ],
+                    "name": "Vs. Goku's Family"
+                },
+                {
+					"id": 713004,
+                    "limitations":[
+                        {
+        					"id": 373,
+                            "description":"\"Continues\" are not allowed."
+                        },
+                        {
+                            "id":374,
+                            "description":"Up to 2 types of Support Items are allowed."
+                        }
+                    ],
+                    "name": "Vs. Vegeta's Family"
+                },
+                {
+					"id": 713005,
+                    "limitations":[
+                        {
+        					"id": 390,
+                            "description":"\"Continues\" are not allowed."
+                        },
+                        {
+                            "id":391,
+                            "description":"Up to 2 types of Support Items are allowed."
+                        }
+                    ],
+                    "name": "Dragon Ball Super: Broly"
+                },
+                {
+					"id": 713006,
+                    "limitations":[
+                        {
+        					"id": 417,
+                            "description":"\"Continues\" are not allowed."
+                        },
+                        {
+                            "id":418,
+                            "description":"Up to 2 types of Support Items are allowed."
+                        }
+                    ],
+                    "name": "DB Super: \"Future\" Trunks Saga"
+                },
+                {
+					"id": 713007,
+                    "limitations":[
+                        {
+        					"id": 453,
+                            "description":"\"Continues\" are not allowed."
+                        },
+                        {
+                            "id":454,
+                            "description":"Up to 2 types of Support Items are allowed."
+                        }
+                    ],
+                    "name": "Vs. Youth"
+                },
+                {
+					"id": 713008,
+                    "limitations":[
+                        {
+        					"id": 465,
+                            "description":"\"Continues\" are not allowed."
+                        },
+                        {
+                            "id":466,
+                            "description":"Up to 2 types of Support Items are allowed."
+                        }
+                    ],
+                    "name": "Vs. Universe 6"
+                }
+            ]
+        },
+		{
 			"id": 714,
 			"quests": [
 				{
@@ -5810,15 +5995,15 @@
                     "limitations":[
                         {
         					"id": 455,
-                            "description":"▼ Only the following characters can challenge \n\n・[Furious Wrath Freeza (Final Form)\n・[Almighty Cleave Cooler\n・[Reign of Terror Freeza (1st Form)\n・[Counterattack of the Wicked Family Mecha Freeza & King Cold \n ・[Overwhelming Army Metal Cooler Army \n ・[Shady Business Freeza (Final Form) (Angel)) \n ・[Raging Counterstrike Mecha Freeza \n ・[Tenacious Clan King Cold \n ・[Brutal Invasion Chilled \n ・[Last-Ditch Attack Freeza (Full Power) \n ・[Heinous Attack Cooler (Final Form) \n ・[Golden Malice Golden Freeza\n・[Proof of Resurrection Golden Freeza"
+                            "description":"▼ Only the following characters can challenge \n\n・[Furious Wrath Freeza] (Final Form)\n・[Almighty Cleave] Cooler\n・[Reign of Terror] Freeza (1st Form)\n・[Counterattack of the Wicked Family] Mecha Freeza & King Cold \n ・[Overwhelming Army] Metal Cooler Army \n ・[Shady Business] Freeza (Final Form) (Angel)) \n ・[Raging Counterstrike] Mecha Freeza \n ・[Tenacious Clan] King Cold \n ・[Brutal Invasion] Chilled \n ・[Last-Ditch Attack] Freeza (Full Power) \n ・[Heinous Attack] Cooler (Final Form) \n ・[Golden Malice] Golden Freeza\n・[Proof of Resurrection] Golden Freeza"
                         },
                         {
                             "id":456,
-                            "description":"[Furious Wrath Can be challenged by \na team including Freeza (Final Form)"
+                            "description": "You can challenge with a team that includes\n[Furious Wrath Freeza] (Final Form)"
                         },
                         {
                             "id":457,
-                            "description":"[Almighty Cleave Can be challenged by \na team including Cooler"
+                            "description": "You can challenge with a team that includes\n[Almighty Cleave] Cooler"
                         },
                         {
                             "id":458,
@@ -5836,15 +6021,15 @@
                     "limitations":[
                         {
         					"id": 460,
-                            "description":"▼ Only the following characters can challenge \n\n・[Furious Wrath Freeza (Final Form)\n・[Almighty Cleave Cooler\n・[Reign of Terror Freeza (1st Form)\n・[Counterattack of the Wicked Family Mecha Freeza & King Cold \n ・[Overwhelming Army Metal Cooler Army \n ・[Shady Business Freeza (Final Form) (Angel)) \n ・[Raging Counterstrike Mecha Freeza \n ・[Tenacious Clan King Cold \n ・[Brutal Invasion Chilled \n ・[Last-Ditch Attack Freeza (Full Power) \n ・[Heinous Attack Cooler (Final Form) \n ・[Golden Malice Golden Freeza\n・[Proof of Resurrection Golden Freeza"
+                            "description":"▼ Only the following characters can challenge \n\n・[Furious Wrath Freeza] (Final Form)\n・[Almighty Cleave] Cooler\n・[Reign of Terror] Freeza (1st Form)\n・[Counterattack of the Wicked Family] Mecha Freeza & King Cold \n ・[Overwhelming Army] Metal Cooler Army \n ・[Shady Business] Freeza (Final Form) (Angel)) \n ・[Raging Counterstrike] Mecha Freeza \n ・[Tenacious Clan] King Cold \n ・[Brutal Invasion] Chilled \n ・[Last-Ditch Attack] Freeza (Full Power) \n ・[Heinous Attack] Cooler (Final Form) \n ・[Golden Malice] Golden Freeza\n・[Proof of Resurrection] Golden Freeza"
                         },
                         {
                             "id":461,
-                            "description":"[Furious Wrath Can be challenged by \na team including Freeza (Final Form)"
+                            "description": "You can challenge with a team that includes\n[Furious Wrath Freeza] (Final Form)"
                         },
                         {
                             "id":462,
-                            "description":"[Almighty Cleave Can be challenged by \na team including Cooler"
+                            "description": "You can challenge with a team that includes\n[Almighty Cleave] Cooler"
                         },
                         {
                             "id":463,
@@ -5860,150 +6045,30 @@
             ]
         },
 		{
-			"id": 713,
-            "banner_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_banner/quest_list_banner_713.png",
-            "event_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_header/quest_top_banner_713.png",
-            "minibanner_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_banner/quest_event_banner_713.png",
-            "quests":[
-                {
-					"id": 713001,
-                    "limitations":[
-                        {
-        					"id": 327,
-                            "description":"\"Continues\" are not allowed."
-                        },
-                        {
-                            "id":328,
-                            "description":"Androids/Cell Saga (vs. Super Warriors)"
-                        }
-                    ],
-                    "name": "Spirited Earth Defense"
-                },
-                {
-					"id": 713002,
-                    "limitations":[
-                        {
-        					"id": 329,
-                            "description":"\"Continues\" are not allowed."
-                        },
-                        {
-                            "id":330,
-                            "description":"Up to 2 types of Support Items are allowed."
-                        }
-                    ],
-                    "name": "Androids/Cell Saga (vs. Androids)"
-                },
-                {
-					"id": 713003,
-                    "limitations":[
-                        {
-        					"id": 371,
-                            "description":"\"Continues\" are not allowed."
-                        },
-                        {
-                            "id":372,
-                            "description":"Up to 2 types of Support Items are allowed."
-                        }
-                    ],
-                    "name": "Vs. Goku's Family"
-                },
-                {
-					"id": 713004,
-                    "limitations":[
-                        {
-        					"id": 373,
-                            "description":"\"Continues\" are not allowed."
-                        },
-                        {
-                            "id":374,
-                            "description":"Up to 2 types of Support Items are allowed."
-                        }
-                    ],
-                    "name": "Vs. Vegeta's Family"
-                },
-                {
-					"id": 713005,
-                    "limitations":[
-                        {
-        					"id": 390,
-                            "description":"\"Continues\" are not allowed."
-                        },
-                        {
-                            "id":391,
-                            "description":"Up to 2 types of Support Items are allowed."
-                        }
-                    ],
-                    "name": "Dragon Ball Super: Broly"
-                },
-                {
-					"id": 713006,
-                    "limitations":[
-                        {
-        					"id": 417,
-                            "description":"\"Continues\" are not allowed."
-                        },
-                        {
-                            "id":418,
-                            "description":"Up to 2 types of Support Items are allowed."
-                        }
-                    ],
-                    "name": "DB Super: \"Future\" Trunks Saga"
-                },
-                {
-					"id": 713007,
-                    "limitations":[
-                        {
-        					"id": 453,
-                            "description":"\"Continues\" are not allowed."
-                        },
-                        {
-                            "id":454,
-                            "description":"Up to 2 types of Support Items are allowed."
-                        }
-                    ],
-                    "name": "Vs. Youth"
-                },
-                {
-					"id": 713008,
-                    "limitations":[
-                        {
-        					"id": 465,
-                            "description":"\"Continues\" are not allowed."
-                        },
-                        {
-                            "id":466,
-                            "description":"Up to 2 types of Support Items are allowed."
-                        }
-                    ],
-                    "name": "Vs. Universe 6"
-                }
-            ]
-        },
-		{
 			"id": 722,
 			"quests": [
 				{
 					"id": 722001,
 					"limitations": [
 						{
-							"description": "▼Only the following characters can challenge\n\n・[Fusion Power of the Dynamic Duo] Goku (Kaioken)\n・[Namekian Mutation] Slug\n・[Wings of Wonder] Gohan (Kid)\n・[Infinite Curiosity] Goku\n・[Ace Up the Sleeve] Piccolo\n・[Polished Technique] Krillin\n・[Raging Killer Move] Krillin\n・[Evil Namekian] Slug (Giant Form)\n・[A True Master's Dignity] Piccolo\n[Innocent Friendship] Gohan (Kid)\n・[Earnest Determination] Nail",
-							"id": 468
+                            "id": 468,
+                            "description": "▼Only the following characters can challenge\n\n・[Fusion Power of the Dynamic Duo] Goku (Kaioken)\n・[Namekian Mutation] Slug\n・[Wings of Wonder] Gohan (Kid)\n・[Infinite Curiosity] Goku\n・[Ace Up the Sleeve] Piccolo\n・[Polished Technique] Krillin\n・[Raging Killer Move] Krillin\n・[Evil Namekian] Slug (Giant Form)\n・[A True Master's Dignity] Piccolo\n[Innocent Friendship] Gohan (Kid)\n・[Earnest Determination] Nail"
 						},
 						{
-							"description": "Teams including this unit can challenege:\n[Fusion Power of the Dynamic Duo] Goku (Kaioken)",
-							"id": 469
+                            "id": 469,
+                            "description": "You can challenge with a team that includes\n[Fusion Power of the Dynamic Duo] Goku (Kaioken)"
 						},
 						{
-							"description": "Teams including this unit can challenege:\n[Namekian Mutation] Slug",
-							"id": 470
+                            "id": 470,
+                            "description": "You can challenge with a team that includes\n[Namekian Mutation] Slug"
 						},
 						{
-							"description": "Support Items are not allowed",
-							"id": 471
+                            "id": 471,
+                            "description": "Support Items are not allowed"
 						},
 						{
-							"description": "Cannot Continue",
-							"id": 472
+                            "id": 472,
+                            "description": "Cannot Continue"
 						}
 					],
 					"name": "Fusion Power of the Dynamic Duo"
@@ -6012,24 +6077,24 @@
 					"id": 722002,
 					"limitations": [
 						{
-							"description": "Teams including this unit can challenege:\n[Fusion Power of the Dynamic Duo] Goku (Kaioken)",
-							"id": 473
+                            "id": 473,
+                            "description": "▼Only the following characters can challenge\n\n・[Fusion Power of the Dynamic Duo] Goku (Kaioken)\n・[Namekian Mutation] Slug\n・[Wings of Wonder] Gohan (Kid)\n・[Infinite Curiosity] Goku\n・[Ace Up the Sleeve] Piccolo\n・[Polished Technique] Krillin\n・[Raging Killer Move] Krillin\n・[Evil Namekian] Slug (Giant Form)\n・[A True Master's Dignity] Piccolo\n[Innocent Friendship] Gohan (Kid)\n・[Earnest Determination] Nail"
 						},
 						{
-							"description": "\u3010\u8d8a\u5883\u30b3\u30f3\u30d3\u306e\u5408\u4f53\u30d1\u30ef\u30fc\u3011\u5b6b\u609f\u7a7a(\u754c\u738b\u62f3)\n\u3092\u542b\u3080\u30c1\u30fc\u30e0\u3067\u6311\u6226\u53ef\u80fd",
-							"id": 474
+                            "id": 474,
+                            "description": "You can challenge with a team that includes\n[Fusion Power of the Dynamic Duo] Goku (Kaioken)"
 						},
 						{
-							"description": "Teams including this unit can challenege:\n[Namekian Mutation] Slug",
-							"id": 475
+                            "id": 475,
+                            "description": "You can challenge with a team that includes\n[Namekian Mutation] Slug"
 						},
 						{
-							"description": "Support Items are not allowed",
-							"id": 476
+                            "id": 476,
+                            "description": "Support Items are not allowed"
 						},
 						{
-							"description": "Cannot Continue",
-							"id": 477
+                            "id": 477,
+                            "description": "Cannot Continue"
 						}
 					],
 					"name": "Namekian Mutation"
