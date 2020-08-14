@@ -4421,7 +4421,25 @@
                 "description": "For Advanced Users!"
             }
         },
-        { "id": 601,
+		{
+			"banner_image": "https://cf.ishin-prod.aktsk.jp/images/event/eve_banner/quest_list_banner_560.png?Expires=1597383962&Signature=NjBedOJUBF-9cpcTvV0cxPofWaaOawlfLplSDtcToMIJXvEQXTiX9A4Ehhe2Wq12TNjtVBojBbaIsyYi1P2c509ptBQdCLMI1-xFmYkhBcPEabG9SC2cIbM63YNSQB9ATygv9KiQNkVlw~oLpUK8nQ0L21tic13lUpPyV7bFwfgkssdhHLNxza-W1kZfQfh7hG8BJDIkq3rNVVN3tvc2BHLZCTjw3aRzEdI1k7QS70yoqQFMnPPESSo1n4mIdyPAX6fJs5dGGmfg~On4Qm3DSSMakcHLp7JW-IW36f2IDLwzKSYyc3HARuz4czaSupMyoSaflEs2izjffwo~5EH5RA__&Key-Pair-Id=APKAJUCX7G2RJNYAVITA",
+			"event_image": "https://cf.ishin-prod.aktsk.jp/images/event/eve_header/quest_top_banner_560.png?Expires=1597383962&Signature=mYRI0uOmsr3iLUtPKXCztNHqiCCvDFklkUkm~WEM-hpgVLdBnOWDEHcQaebZAdCG2SPaGdGMMhrhLEMFm830VgsDQDGASL6gVVBacbto72QiwcpMF-xycxZasUmQalVsVY0NaXSgfdsqcQDrYLKT0L3r8AhDR72ZFBDFdEt5GKHFeECApJcyl~tVFfdVkBYZmywXbyHP1Rna9W4s8oUCw5k0g99ZigrpzsPa9cJtyPr2i6B4BbGM3n23I4~U4j9nlePjrDEc1RfTd4k7M9EWTtahmZ0weWc4jSLNBx7pYhqtpBzqkEXkILekz~R4LpZGs-9SAWcwRjJzZHPc7DGuqg__&Key-Pair-Id=APKAJUCX7G2RJNYAVITA",
+			"id": 560,
+			"minibanner_image": "https://cf.ishin-prod.aktsk.jp/images/event/eve_banner/quest_event_banner_560.png?Expires=1597383962&Signature=dVSGXloIGY21CJjVX~apJvSJB~FZarTSevOhhyrYkVzHqv6eEaIGkHFb1hRk7pcQRO5FDSPsEzfny67gL96gON8trHH77rM59eJVNloXaB0eKG5fMLTCyGifGQDg6QNamXbfr4pjDDxU6thMt7ouN3qu-bfBzHgY0HEG7QAuDj1oFucEY548dTED8qc-46LW5WJc~yXHPJL2bdfQJHroskGUk0FL9Cby49A7i2d6JY28DdIy9nDE1s7Rb5Z4tdghMFyROnogg3eA8L~yOpiNe17LpOeV33FyVWLPxAqI2NPNlxkhcTeoDavrprv0DXTgtdMGjyry8DXohFlqNSn8LQ__&Key-Pair-Id=APKAJUCX7G2RJNYAVITA",
+			"quests": [
+				{
+					"id": 560001,
+					"name": "Saiyans Aiming to Be the Strongest",
+					"user_quest": {
+						"next_reset_at": null,
+						"visited_count": 0
+					},
+					"visit_count_max": null
+				}
+			]
+		},
+        { 
+            "id": 601,
             "banner_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_banner/quest_list_banner_601.png",
             "event_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_header/quest_top_banner_601_1.png",
             "minibanner_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_banner/quest_event_banner_601.png",
@@ -4874,7 +4892,7 @@
                             "description":"\"Continues\" are not allowed."
                         }
                     ],
-                    "name": "[VS. Extreme AGL Super Battle Road"
+                    "name": "[VS. Extreme AGL]"
                 },
                 {
 					"id": 710002,
@@ -4888,7 +4906,7 @@
                             "description":"\"Continues\" are not allowed."
                         }
                     ],
-                    "name": "[VS. Super AGL Super Battle Road"
+                    "name": "[VS. Super AGL]"
                 },
                 {
 					"id": 710003,
@@ -4902,7 +4920,7 @@
                             "description":"\"Continues\" are not allowed."
                         }
                     ],
-                    "name": "[VS. Extreme TEQ Super Battle Road"
+                    "name": "[VS. Extreme TEQ]"
                 },
                 {
 					"id": 710004,
@@ -4916,7 +4934,7 @@
                             "description":"\"Continues\" are not allowed."
                         }
                     ],
-                    "name": "[VS. Super TEQ Super Battle Road"
+                    "name": "[VS. Super TEQ]"
                 },
                 {
 					"id": 710005,
@@ -4930,7 +4948,7 @@
                             "description":"\"Continues\" are not allowed."
                         }
                     ],
-                    "name": "[VS. Extreme INT Super Battle Road"
+                    "name": "[VS. Extreme INT]"
                 },
                 {
 					"id": 710006,
@@ -4944,7 +4962,7 @@
                             "description":"\"Continues\" are not allowed."
                         }
                     ],
-                    "name": "[VS. Super INT Super Battle Road"
+                    "name": "[VS. Super INT]"
                 },
                 {
 					"id": 710007,
@@ -4958,7 +4976,7 @@
                             "description":"\"Continues\" are not allowed."
                         }
                     ],
-                    "name": "[VS. Extreme STR Super Battle Road"
+                    "name": "[VS. Extreme STR]"
                 },
                 {
 					"id": 710008,
@@ -4972,7 +4990,7 @@
                             "description":"\"Continues\" are not allowed."
                         }
                     ],
-                    "name": "[VS. Super STR Super Battle Road"
+                    "name": "[VS. Super STR]"
                 },
                 {
 					"id": 710009,
@@ -4986,7 +5004,7 @@
                             "description":"\"Continues\" are not allowed."
                         }
                     ],
-                    "name": "[VS. Extreme PHY Super Battle Road"
+                    "name": "[VS. Extreme PHY]"
                 },
                 {
 					"id": 710010,
@@ -5000,7 +5018,7 @@
                             "description":"\"Continues\" are not allowed."
                         }
                     ],
-                    "name": "[VS. Super PHY Super Battle Road"
+                    "name": "[VS. Super PHY]"
                 },
                 {
 					"id": 710011,
@@ -5050,7 +5068,7 @@
                             "description":"\"Continues\" are not allowed."
                         }
                     ],
-                    "name": "\"Fusion\" Only"
+                    "name": "[Fusion] Only"
                 },
                 {
 					"id": 710014,
@@ -5064,7 +5082,7 @@
                             "description":"\"Continues\" are not allowed."
                         }
                     ],
-                    "name": "\"Shadow Dragon Saga\" Only"
+                    "name": "[Shadow Dragon Saga] Only"
                 },
                 {
 					"id": 710015,
@@ -5078,7 +5096,7 @@
                             "description":"\"Continues\" are not allowed."
                         }
                     ],
-                    "name": "\"Peppy Gals\" Only"
+                    "name": "[Peppy Gals] Only"
                 },
                 {
 					"id": 710016,
@@ -5092,7 +5110,7 @@
                             "description":"\"Continues\" are not allowed."
                         }
                     ],
-                    "name": "\"Hybrid Saiyans\" Only"
+                    "name": "[Hybrid Saiyans] Only"
                 },
                 {
 					"id": 710017,
@@ -5106,7 +5124,7 @@
                             "description":"\"Continues\" are not allowed."
                         }
                     ],
-                    "name": "\"Resurrected Warriors\" Only"
+                    "name": "[Resurrected Warriors] Only"
                 },
                 {
 					"id": 710018,
@@ -5120,7 +5138,7 @@
                             "description":"\"Continues\" are not allowed."
                         }
                     ],
-                    "name": "\"Realm of Gods\" Only"
+                    "name": "[Realm of Gods] Only"
                 },
                 {
 					"id": 710019,
@@ -5134,7 +5152,7 @@
                             "description":"\"Continues\" are not allowed."
                         }
                     ],
-                    "name": "\"Majin Buu Saga\" Only"
+                    "name": "[Majin Buu Saga] Only"
                 },
                 {
 					"id": 710020,
@@ -5148,7 +5166,7 @@
                             "description":"\"Continues\" are not allowed."
                         }
                     ],
-                    "name": "\"Potara\" Only"
+                    "name": "[Potara] Only"
                 },
                 {
 					"id": 710021,
@@ -5162,7 +5180,7 @@
                             "description":"\"Continues\" are not allowed."
                         }
                     ],
-                    "name": "\"Universe Survival Saga\" Only"
+                    "name": "[Universe Survival Saga] Only"
                 },
                 {
 					"id": 710022,
@@ -5176,7 +5194,7 @@
                             "description":"\"Continues\" are not allowed."
                         }
                     ],
-                    "name": "\"Super Saiyan 3\" Only"
+                    "name": "[Super Saiyan 3] Only"
                 },
                 {
 					"id": 710023,
@@ -5190,7 +5208,7 @@
                             "description":"\"Continues\" are not allowed."
                         }
                     ],
-                    "name": "\"Giant Form\" Only"
+                    "name": "[Giant Form] Only"
                 },
                 {
 					"id": 710024,
@@ -5204,7 +5222,7 @@
                             "description":"\"Continues\" are not allowed."
                         }
                     ],
-                    "name": "\"Transformation Boost\" Only"
+                    "name": "[Transformation Boost] Only"
                 },
                 {
 					"id": 710025,
@@ -5218,7 +5236,7 @@
                             "description":"\"Continues\" are not allowed."
                         }
                     ],
-                    "name": "\"Ginyu Force\" Only"
+                    "name": "[Ginyu Force] Only"
                 },
                 {
 					"id": 710026,
@@ -5232,7 +5250,7 @@
                             "description":"\"Continues\" are not allowed."
                         }
                     ],
-                    "name": "\"Movie Bosses\" Only"
+                    "name": "[Movie Bosses] Only"
                 },
                 {
 					"id": 710027,
@@ -5246,7 +5264,7 @@
                             "description":"\"Continues\" are not allowed."
                         }
                     ],
-                    "name": "\"Pure Saiyans\" Only"
+                    "name": "[Pure Saiyans] Only"
                 },
                 {
 					"id": 710028,
@@ -5260,7 +5278,7 @@
                             "description":"\"Continues\" are not allowed."
                         }
                     ],
-                    "name": "\"Future Saga\" Only"
+                    "name": "[Future Saga] Only"
                 },
                 {
 					"id": 710029,
@@ -5274,7 +5292,7 @@
                             "description":"\"Continues\" are not allowed."
                         }
                     ],
-                    "name": "\"Full Power\" Only"
+                    "name": "[Full Power] Only"
                 },
                 {
 					"id": 710030,
@@ -5288,8 +5306,151 @@
                             "description":"\"Continues\" are not allowed."
                         }
                     ],
-                    "name": "\"Androids\" Only"
-                }
+                    "name": "[Androids] Only"
+                },
+                {
+					"id": 710031,
+					"limitations": [
+						{
+                            "id": 513,
+                            "description":"Only \"Representatives of Universe 7\" Category characters \nmay attempt."
+						},
+						{
+                            "id": 514,
+                            "description":"\"Continues\" are not allowed."
+						}
+					],
+					"name": "[Representatives of Universe 7] Only"
+				},
+				{
+					"id": 710032,
+					"limitations": [
+						{
+							"id": 515,
+							"description":"Only \"Most Malevolent Clan\" Category characters \nmay attempt."
+						},
+						{
+							"id": 516,
+							"description":"\"Continues\" are not allowed."
+						}
+					],
+					"name": "[Most Malevolent Clan] Only"
+				},
+				{
+					"id": 710033,
+					"limitations": [
+						{
+							"id": 517,
+							"description":"Only \"Time Travelers\" Category characters \nmay attempt."
+						},
+						{
+							"id": 518,
+							"description":"\"Continues\" are not allowed."
+						}
+					],
+					"name": "[Time Travelers] Only"
+				},
+				{
+					"id": 710034,
+					"limitations": [
+						{
+							"id": 519,
+							"description":"Only \"Universe 6\" Category characters \nmay attempt."
+						},
+						{
+							"id": 520,
+							"description":"\"Continues\" are not allowed."
+						}
+					],
+					"name": "[Universe 6] Only"
+				},
+				{
+					"id": 710035,
+					"interval_reset_visited_days": null,
+					"limitations": [
+						{
+							"id": 521,
+							"description":"Only \"Movie Heroes\" Category characters \nmay attempt."
+						},
+						{
+							"id": 522,
+							"description":"\"Continues\" are not allowed."
+						}
+					],
+					"name": "[Movie Heroes] Only"
+				},
+				{
+					"id": 710036,
+					"limitations": [
+						{
+							"id": 523,
+							"description":"Only \"Goku's Family\" Category characters \nmay attempt."
+						},
+						{
+							"id": 524,
+							"description":"\"Continues\" are not allowed."
+						}
+					],
+					"name": "[Goku's Family] Only"
+				},
+				{
+					"id": 710037,
+					"interval_reset_visited_days": null,
+					"limitations": [
+						{
+							"id": 525,
+							"description":"Only \"Vegeta's Family\" Category characters \nmay attempt."
+						},
+						{
+							"id": 526,
+							"description":"\"Continues\" are not allowed."
+						}
+					],
+					"name": "[Vegeta's Family] Only"
+				},
+				{
+					"id": 710038,
+					"interval_reset_visited_days": null,
+					"limitations": [
+						{
+							"id": 527,
+							"description":"Only \"Youth\" Category characters \nmay attempt."
+						},
+						{
+							"id": 528,
+							"description":"\"Continues\" are not allowed."
+						}
+					],
+					"name": "[Youth] Only"
+				},
+				{
+					"id": 710039,
+					"limitations": [
+						{
+							"id": 529,
+							"description":"Only \"Super Saiyans\" Category characters \nmay attempt."
+						},
+						{
+							"id": 530,
+							"description":"\"Continues\" are not allowed."
+						}
+					],
+					"name": "[Super Saiyans] Only"
+				},
+				{
+					"id": 710040,
+					"limitations": [
+						{
+							"id": 531,
+							"description":"Only \"Last Resort\" Category characters \nmay attempt."
+						},
+						{
+							"id": 532,
+							"description":"\"Continues\" are not allowed."
+						}
+					],
+					"name": "[Last Resort] Only"
+				}
             ]
         },
 		{
@@ -5391,6 +5552,112 @@
             ]
         },
 		{
+			"id": 714,
+			"quests": [
+				{
+					"id": 714001,
+					"limitations": [
+						{
+							"id": 317,
+							"description": "▼Only the following characters can challenge\n\n・[Unwavering Will and Newfound PowerSuper] Saiyan Goku\n・[Shocking Contact] Android #18\n・[Invincible Battle Form] Super Vegeta/Super Trunks\n・[Answers Found in Training]\nSuper Saiyan Goku/Super Saiyan Gohan (Youth)\n・[Terrestrial Flash] Android #16\n・[Evolved Form] Cell (Perfect Form)\n・[Limitless Energy] Androids #17 & #18\n・[Striking in Harmony] Super Saiyan 2 Gohan (Youth)\n・[Ceaseless Terror] Perfect Cell\n・[New Power from Training] Super Vegeta\n・[Immutable Fighter] Super Vegeta\n・[Risky Super Attack] Tenshinhan\n・[Obsession with Perfection] Cell (2nd Form)\n・[All-Out Focus] Tenshinhan\n・[Pursuing Perfection Cell] (2nd Form)"
+						},
+						{
+							"id": 318,
+							"description": "You can challenge with a team that includes\n[Unwavering Will and Newfound Power] Super Saiyan Goku"
+						},
+						{
+							"id": 319,
+							"description": "You can challenge with a team that includes\n[Shocking Contact Android] #18"
+						},
+						{
+							"id": 320,
+							"description": "You can challenge with a team that includes\n[Invincible Battle Form] Super Vegeta/Super Trunks"
+						},
+						{
+							"id": 321,
+							"description": "You can challenge with a team\nthat includes [Answers Found in Training]\nSuper Saiyan Goku/Super Saiyan Gohan (Youth)"
+						},
+						{
+							"id": 331,
+							"description": "No support items allowed"
+						},
+						{
+							"id": 333,
+							"description": "Cannot continue"
+						}
+					],
+					"name": "Invincible Battle Form"
+				},
+				{
+					"id": 714002,
+					"limitations": [
+						{
+							"id": 322,
+							"description": "▼Only the following characters can challenge\n\n・[Unwavering Will and Newfound PowerSuper] Saiyan Goku\n・[Shocking Contact] Android #18\n・[Invincible Battle Form] Super Vegeta/Super Trunks\n・[Answers Found in Training]\nSuper Saiyan Goku/Super Saiyan Gohan (Youth)\n・[Terrestrial Flash] Android #16\n・[Evolved Form] Cell (Perfect Form)\n・[Limitless Energy] Androids #17 & #18\n・[Striking in Harmony] Super Saiyan 2 Gohan (Youth)\n・[Ceaseless Terror] Perfect Cell\n・[New Power from Training] Super Vegeta\n・[Immutable Fighter] Super Vegeta\n・[Risky Super Attack] Tenshinhan\n・[Obsession with Perfection] Cell (2nd Form)\n・[All-Out Focus] Tenshinhan\n・[Pursuing Perfection Cell] (2nd Form)"
+						},
+						{
+							"id": 323,
+							"description": "You can challenge with a team that includes\n[Unwavering Will and Newfound Power] Super Saiyan Goku"
+						},
+						{
+							"id": 324,
+							"description": "You can challenge with a team that includes\n[Shocking Contact Android] #18"
+						},
+						{
+							"id": 325,
+							"description": "You can challenge with a team that includes\n[Invincible Battle Form] Super Vegeta/Super Trunks"
+						},
+						{
+							"id": 326,
+							"description": "You can challenge with a team\nthat includes [Answers Found in Training]\nSuper Saiyan Goku/Super Saiyan Gohan (Youth)"
+						},
+						{
+							"id": 332,
+							"description": "No support items allowed"
+						},
+						{
+							"id": 334,
+							"description": "Cannot continue"
+						}
+					],
+					"name": "Answers Found in Training"
+				}
+			]
+        },
+		{
+			"id": 719,
+			"quests": [
+				{
+					"id": 719001,
+					"interval_reset_visited_days": null,
+					"limitation_announcement_master_id": 200522,
+					"limitations": [
+						{
+							"id": 445,
+							"description": "▼Only the following characters can challenge\n\n・[Unquestionable Cruelty] Nappa (Giant Ape)\n・[Ruthless Invader] Raditz\n・[Raging Killer Move] Krillin\n・[Unwavering Bond] Tien & Chiaotzu\n・[Budding Heart] Piccolo\n・[Slumbering Strength] Gohan (Kid)\n・[Transcendent Combat] Vegeta\n・[Devastating Carnage] Nappa\n・[Noble Prince] Vegeta\n・[Wounded Honor] Yamcha\n・[Diabolical Strike] Nappa\n・[Game-Reversing Technique] Goku (Kaioken)\n・[Infinite Curiosity] Goku\n・[Saiyan Assault!] Vegeta (Dokkan Butoden)\n・[All-Out Clash!] Goku (Dokkan Butoden)\n・[Rampaging Vicious Saiyans] Nappa/Vegeta\n・[Atrocious Crackdown] Raditz (Giant Ape)\n・[Power for the Death-Match] Vegeta (Giant Ape)\n・[Explosive Super Elite] Vegeta\n・[Potent Super Attack] Goku (Kaioken)"
+						},
+						{
+							"id": 446,
+							"description": "You can challenge with a team that includes\n[Unquestionable Cruelty] Nappa (Giant Ape)"
+						},
+						{
+							"id": 447,
+							"description": "You can challenge with a team that includes\n[Ruthless Invader] Raditz"
+						},
+						{
+							"id": 448,
+							"description": "No support items allowed"
+						},
+						{
+							"id": 449,
+							"description": "Cannot continue"
+						}
+					],
+					"name": "Ruthless Invader"
+				}
+			]
+		},
+		{
 			"id": 720,
             "quests":[
                 {
@@ -5405,7 +5672,7 @@
                             "description":"\"Continues\" are not allowed."
                         }
                     ],
-                    "name": "[VS. Extreme AGL Super Battle Road"
+                    "name": "[VS. Extreme AGL]"
                 },
                 {
 					"id": 720002,
@@ -5419,7 +5686,7 @@
                             "description":"\"Continues\" are not allowed."
                         }
                     ],
-                    "name": "[VS. Super AGL Super Battle Road"
+                    "name": "[VS. Super AGL]"
                 },
                 {
 					"id": 720003,
@@ -5433,7 +5700,7 @@
                             "description":"\"Continues\" are not allowed."
                         }
                     ],
-                    "name": "[VS. Extreme TEQ Super Battle Road"
+                    "name": "[VS. Extreme TEQ]"
                 },
                 {
 					"id": 720004,
@@ -5447,7 +5714,7 @@
                             "description":"\"Continues\" are not allowed."
                         }
                     ],
-                    "name": "[VS. Super TEQ Super Battle Road"
+                    "name": "[VS. Super TEQ]"
                 },
                 {
 					"id": 720005,
@@ -5461,7 +5728,7 @@
                             "description":"\"Continues\" are not allowed."
                         }
                     ],
-                    "name": "[VS. Extreme INT Super Battle Road"
+                    "name": "[VS. Extreme INT]"
                 },
                 {
 					"id": 720006,
@@ -5475,7 +5742,7 @@
                             "description":"\"Continues\" are not allowed."
                         }
                     ],
-                    "name": "[VS. Super INT Super Battle Road"
+                    "name": "[VS. Super INT]"
                 },
                 {
 					"id": 720007,
@@ -5489,7 +5756,7 @@
                             "description":"\"Continues\" are not allowed."
                         }
                     ],
-                    "name": "[VS. Extreme STR Super Battle Road"
+                    "name": "[VS. Extreme STR]"
                 },
                 {
 					"id": 720008,
@@ -5503,7 +5770,7 @@
                             "description":"\"Continues\" are not allowed."
                         }
                     ],
-                    "name": "[VS. Super STR Super Battle Road"
+                    "name": "[VS. Super STR]"
                 },
                 {
 					"id": 720009,
@@ -5517,7 +5784,7 @@
                             "description":"\"Continues\" are not allowed."
                         }
                     ],
-                    "name": "[VS. Extreme PHY Super Battle Road"
+                    "name": "[VS. Extreme PHY]"
                 },
                 {
 					"id": 720010,
@@ -5531,7 +5798,7 @@
                             "description":"\"Continues\" are not allowed."
                         }
                     ],
-                    "name": "[VS. Super PHY Super Battle Road"
+                    "name": "[VS. Super PHY]"
                 }
             ]
         },
