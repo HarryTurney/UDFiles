@@ -151,9 +151,14 @@
 			"id": 2
 		}
 	],
-	"rmbattles": 
-	{
-		"description": "Held every day until the end period!! Defeat strong enemies with UR and LR characters!!\nGet \"Battlefield Memeory\" by clearing stages!!",
-		"id": 29
-	}
+	"rmbattles":[
+		{
+			"description": "Held every day until the end period!! Defeat strong enemies with UR and LR characters!!\nGet \"Battlefield Memeory\" by clearing stages!!",
+			"id": 28
+		},
+		{
+			"description": "Held every day until the end period!! Defeat strong enemies with UR and LR characters!!\nGet \"Battlefield Memeory\" by clearing stages!!",
+			"id": 29
+		}
+	]
 }
