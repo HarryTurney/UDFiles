@@ -1,6 +1,50 @@
 {
 	"banners": [
 		{
+			"description": "Until 8/28 (Friday) 16:59!! Some characters can be awakened Dokkan!!",
+			"id": 30013497
+		},
+		{
+			"description": "Until 8/21 (Friday) 16:59!! Attention to the pickup!",
+			"id": 30013489
+		},
+		{
+			"description": "Until 8/21 (Friday) 16:59!! Let's increase the number of friends with the category Gasha!!",
+			"id": 30013485
+		},
+		{
+			"description": "Until 8/21 (Friday) 16:59!! Let's challenge the ultimate battle!!",
+			"id": 30013492
+		},
+		{
+			"description": "Until 8/28 (Fri) 16:59!! Collect awakening medals on the new stage!!",
+			"id": 30013240
+		},
+		{
+			"description": "Held every day during the period!! Let's challenge a new stage!!",
+			"id": 30012694
+		},
+		{
+			"description": "Until 8/28 (Fri.) 16:59!! Join Great Saiyan Man 2!!",
+			"id": 30013483
+		},
+		{
+			"description": "Until 8/22 (Sat.) 3:59!! Get Gasha Ticket!!",
+			"id": 30013490
+		},
+		{
+			"description": "Enjoy a variety of event campaigns with Dokkan!!",
+			"id": 30013486
+		},
+		{
+			"description": "Until 8/21 (Fri) 23:59!! Complete missions and get rewards!!",
+			"id": 30013482
+		},
+		{
+			"description": "Until 8/21 (Friday) 3:59!! Log in every day and get rewards!!",
+			"id": 30013481
+		},
+		{
 			"description": "Until 7/16(Thu) 16:59!! New SSR Characters!!",
 			"id": 30013443
 		},
@@ -110,6 +154,6 @@
 	"rmbattles": 
 	{
 		"description": "Held every day until the end period!! Defeat strong enemies with UR and LR characters!!\nGet \"Battlefield Memeory\" by clearing stages!!",
-		"id": 28
+		"id": 29
 	}
 }
