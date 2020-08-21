@@ -3,6 +3,42 @@
 		{
 			"courses": [
 				{
+					"description": "Use 1 {color: #FFD700} Celebration Summon Ticket {color} to recruit\na Rare or higher character in this summon.",
+					"no": 1,
+					"title": "{color: #FFD700}Special {color}{color: #FF3300} D{color}{color: #FF9900}O{color}{color: #CCFF00}K{color}{color: #33FF00}K{color}{color: #00FFCC}A{color}{color: #0099FF}N{color}{color: #9966FF} Fes{color}{color: #9933CC}ti{color}{color: #CC3366}val{color}"
+				},
+				{
+					"description": "Use 7 {color: #FFD700} Celebration Summon Ticket {color} to recruit\na Rare or higher character in this summon.",
+					"no": 2,
+					"title": "{color: #FFD700}Special {color}{color: #FF3300} D{color}{color: #FF9900}O{color}{color: #CCFF00}K{color}{color: #33FF00}K{color}{color: #00FFCC}A{color}{color: #0099FF}N{color}{color: #9966FF} Fes{color}{color: #9933CC}ti{color}{color: #CC3366}val{color}"
+				}
+			],
+			"current_step": 1,
+			"description": "{center: begin}Use {color: #FFD700} exclusive Summon Tickets {color} to recruit {color: #33FF00} characters {color}\n who appear in the {color: #FF0000} Dokkan Festival {color} to your {color: #FFFF00} team!!{color}\nPowerful characters assemble!{center}",
+			"id": 780,
+			"name": "World Simultaneous CP Memorial!\nDOKKAN Festival [Ticket]"
+		},
+		{
+			"courses": [
+				{
+					"description": "Use 50 {color: #FFD700} Celebration Summon Ticket {color} to recruit\na Rare or higher character in this summon.",
+					"no": 1,
+					"title": "{color: #FFD700}Special {color}{color: #FF3300} D{color}{color: #FF9900}O{color}{color: #CCFF00}K{color}{color: #33FF00}K{color}{color: #00FFCC}A{color}{color: #0099FF}N{color}{color: #9966FF} Fes{color}{color: #9933CC}ti{color}{color: #CC3366}val{color}"
+				},
+				{
+					"description": "Use 50 {color: #FFD700} Celebration Summon Ticket {color} to recruit\na Rare or higher character in this summon.",
+					"no": 2,
+					"title": "{color: #FFD700}Special {color}{color: #FF3300} D{color}{color: #FF9900}O{color}{color: #CCFF00}K{color}{color: #33FF00}K{color}{color: #00FFCC}A{color}{color: #0099FF}N{color}{color: #9966FF} Fes{color}{color: #9933CC}ti{color}{color: #CC3366}val{color}"
+				}
+			],
+			"current_step": 1,
+			"description": "{center: begin}Use {color: #FFD700} exclusive Summon Tickets {color} to recruit {color: #33FF00} characters {color}\n who appear in the {color: #FF0000} Dokkan Festival {color} to your {color: #FFFF00} team!!{color}\nPowerful characters assemble!{center}",
+			"id": 781,
+			"name": "World Simultaneous CP Memorial!\nDOKKAN festival [50 consecutive tickets]"
+		},
+		{
+			"courses": [
+				{
 					"description": "Get a SR or higher character with this Summon.",
 					"no": 1,
 					"title": "{color: #FFD700}Goku {color}{color: #FF0000} Ticket Gacha{color}"
