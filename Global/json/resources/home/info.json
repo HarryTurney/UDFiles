@@ -1,6 +1,54 @@
 {
 	"banners": [
 		{
+			"description": "Dokkan Festival is now on! Summon with Tickets and Stones!",
+			"id": 30013515
+		},
+		{
+			"description": "Attempt the event every day and get \"Aged Meat\"!",
+			"id": 30013519
+		},
+		{
+			"description": "\"Showdown! The Ultimate Final Battle\" runs until 10/5(Mon)16:59!!",
+			"id": 30013513
+		},
+		{
+			"description": "Work together to obtain awesome rewards!",
+			"id": 30013514
+		},
+		{
+			"description": "Exchange \"Memorial Dragon Stone\" for characters!",
+			"id": 30013523
+		},
+		{
+			"description": "32 SSR Select Characters are alailable at Baba's Shop!",
+			"id": 30013517
+		},
+		{
+			"description": "Recruit specific characters with \"Premium Dragon Stone 6\"",
+			"id": 30013518
+		},
+		{
+			"description": "Various events will become available!",
+			"id": 30013516
+		},
+		{
+			"description": "Aim to complete all the missions to botain awesome rewards!",
+			"id": 30013522
+		},
+		{
+			"description": "Until 10/5 (Mon) 3:59!! Login every day to get rewards!!",
+			"id": 30013521
+		},
+		{
+			"description": "Get rewards according to the number of comeback users!!",
+			"id": 30013498
+		},
+		{
+			"description": "Legendary Challenge Campaign runs until 10/5(Mon) 23:59!",
+			"id": 30013508
+		},
+		{
 			"description": "Until 8/28 (Friday) 16:59!! Some characters can be awakened Dokkan!!",
 			"id": 30013497
 		},

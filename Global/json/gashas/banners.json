@@ -3,6 +3,24 @@
 		{
 			"courses": [
 				{
+					"description": "{color: #FFFF00}Worldwide Campaign Celebration!{color}\nGet a Rare or higher character with this summons",
+					"no": 1,
+					"title": "{color: #FFD700}Special {color}{color: #FF3300} D{color}{color: #FF9900}O{color}{color: #CCFF00}K{color}{color: #33FF00}K{color}{color: #00FFCC}A{color}{color: #0099FF}N{color}{color: #9966FF} Fes{color}{color: #9933CC}ti{color}{color: #CC3366}val{color}"
+				},
+				{
+					"description": "{color: #FFFF00}Worldwide Campaign Celebration!{color}\nGet 10 Rare or higher character with this summons",
+					"no": 2,
+					"title": "{color: #FFD700}Special {color}{color: #FF3300} D{color}{color: #FF9900}O{color}{color: #CCFF00}K{color}{color: #33FF00}K{color}{color: #00FFCC}A{color}{color: #0099FF}N{color}{color: #9966FF} Fes{color}{color: #9933CC}ti{color}{color: #CC3366}val{color}"
+				}
+			],
+			"current_step": 1,
+			"description": "{center: begin}{color: #33FF00}Characters {color} who appear in the {color: #FF0000} Dokkan Festival {color} assemble!\n Recruit {color: #FFFF00} powerful characters {color} to your team!{center}",
+			"id": 782,
+			"name": "World Simultaneous CP Memorial!\nDOKKAN Festival"
+		},
+		{
+			"courses": [
+				{
 					"description": "Use 1 {color: #FFD700} Celebration Summon Ticket {color} to recruit\na Rare or higher character in this summon.",
 					"no": 1,
 					"title": "{color: #FFD700}Special {color}{color: #FF3300} D{color}{color: #FF9900}O{color}{color: #CCFF00}K{color}{color: #33FF00}K{color}{color: #00FFCC}A{color}{color: #0099FF}N{color}{color: #9966FF} Fes{color}{color: #9933CC}ti{color}{color: #CC3366}val{color}"
