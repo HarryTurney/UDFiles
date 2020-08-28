@@ -2,19 +2,23 @@
     "joint_campaigns": [
         {
             "id": 1001,
-            "title": "\u9b54\u306e\u8ff7\u5bae\u3092\u8131\u51fa\u305b\u3088\uff01\u5168\u4e16\u754c\u5354\u529b\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
-            "banner": "https://cf.ishin-prod.aktsk.jp/images/home/myp_banner_camp_mission_1.png?Expires=1598623406&Signature=BmR-xrIRGmz0bgPBe1qpu1rO9yfBJwuZasSDBnGLBVKhr1WeQCrMnGjHlAFgnjpMMyV7h7I0MMPUhuUevLxaByiGbN3xVMP3Ijoyb99U7VMJJixhfTw3qtnPYdRzUuoU4Mz5ymgnb9ZfCs2ygu2Mvk-UudPrYLN1V6DhzwmSthzgNti25zdzlEULS0bltdl0D-9Qt-htJ-j0xoYdBETQ5aP-jm0h-gwiA4C~KvDz5Y1tVmBLcRNbqjBeTwhSjIphTaOCg8Ry3pq~fdOAI13ZxW-FjKA4nSAKGWOv8GEw6AlrO~eivCARcBXZlXQX-eHxJmdru-OMB7BLoFcMqJS-fQ__&Key-Pair-Id=APKAJUCX7G2RJNYAVITA",
-            "home_banner": "https://cf.ishin-prod.aktsk.jp/images/home/myp_banner_camp_mission_1.png?Expires=1598623406&Signature=BmR-xrIRGmz0bgPBe1qpu1rO9yfBJwuZasSDBnGLBVKhr1WeQCrMnGjHlAFgnjpMMyV7h7I0MMPUhuUevLxaByiGbN3xVMP3Ijoyb99U7VMJJixhfTw3qtnPYdRzUuoU4Mz5ymgnb9ZfCs2ygu2Mvk-UudPrYLN1V6DhzwmSthzgNti25zdzlEULS0bltdl0D-9Qt-htJ-j0xoYdBETQ5aP-jm0h-gwiA4C~KvDz5Y1tVmBLcRNbqjBeTwhSjIphTaOCg8Ry3pq~fdOAI13ZxW-FjKA4nSAKGWOv8GEw6AlrO~eivCARcBXZlXQX-eHxJmdru-OMB7BLoFcMqJS-fQ__&Key-Pair-Id=APKAJUCX7G2RJNYAVITA",
+            "title": "Escape From the Innards of Buu! \nWorldwide Co-Op Campaign",
+            "banner": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/joint_campaigns/1001/myp_banner_camp_mission_1.png",
+            "home_banner": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/joint_campaigns/1001/myp_banner_camp_mission_1.png",
             "events": [
                 {
-                    "campaign_mission_header_image": "https://cf.ishin-prod.aktsk.jp/images/news/camp_mission_header_02.png?Expires=1598623406&Signature=ccF7gOqbpRGMT66iJ6Yb3jlIpyvDD8g2hDs5WWQ4gxQoMgTF-jm2mbbL1i7L0iyOaHtDz7QM7jpCihFs5KPLIOJyAKL6QNBgQk7-bxRyUREWq8i~R-FlHN4c9FUlz1LxReUz-FWV4t9aOi71vQiEXRF5jumMAdPba6o6X2CVse-UOGP9iDkizJsTSJhbyKDifqxe3ScjZ85~kenkP68b53mkdpRnFkDKFJVSMFYSOXC~lH321iUZaG2QE~k~iiGI9j0xfzPKM9DRC6g6zKk1Ux-4iAX9wuL4ARzRF4ff1UnIp4Q~NxqJy3JGJ5VNilV1N~vd5u~~EbwaEXulVvNN4w__&Key-Pair-Id=APKAJUCX7G2RJNYAVITA",
-                    "campaign_mission_reward_image": "https://cf.ishin-prod.aktsk.jp/images/news/camp_missin_banner_reward_02_1.png?Expires=1598623406&Signature=GsZfeU4iWZ~FRRuewnX-Xx-jshzD7EHSGME3ghaM0Z2Sbol7Vrb~SSoY0eo9ZneF-cWpusVBVpPW9wE~6N9HYIlOMmdracVqgZwxKf2gqA3U~Rj02Ir1CWzjRkmjfxGL6FUQ6Z1WP4tgT2I2-ougKYMAnCiEYwa-Uz6OnwvsrIIwKGEotxBB2tD4bObFRAfW6cdQZHetpGCpnwhwZkhXO66X4IiKSO9VmRGOtLXrM8e6czAEPDORQZisD3vGLg9k41kQMrkUpYGdog25NCsw27iGrWGVG6gTeYVPca1jl4Z0e4yzgsGr30zzJkw0nWaVqc1tvLsXt58v-kutlTsgKw__&Key-Pair-Id=APKAJUCX7G2RJNYAVITA",
+                    "id": 10011,
+                    "title": "Escape From the Innards of Buu! \nWorldwide Co-Op Campaign",
+                    "private_mission_header_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/joint_campaigns/1001/camp_mission_header_01.png",
+                    "private_mission_reward_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/joint_campaigns/1001/camp_missin_banner_reward_01.png",
+                    "campaign_mission_header_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/joint_campaigns/1001/camp_mission_header_02.png",
+                    "campaign_mission_reward_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/joint_campaigns/1001/camp_missin_banner_reward_02_1.png",
                     "cooperation_missions": [
                         {
                             "id": 10011002,
                             "rewards": [
                                 {
-                                    "label_name": "\u5404\u7a2e5\u500b",
+                                    "label_name": "x5 (All Types)",
                                     "item_id": 900,
                                     "quantity": 5
                                 }
@@ -24,7 +28,7 @@
                             "id": 10011003,
                             "rewards": [
                                 {
-                                    "label_name": "\u5404\u7a2e5\u500b",
+                                    "label_name": "x5 (All Types)",
                                     "item_id": 1000,
                                     "quantity": 5
                                 }
@@ -34,19 +38,13 @@
                             "id": 10011005,
                             "rewards": [
                                 {
-                                    "card_exp_init": 0,
+                                    "label_name": "x1 (All Types)",
                                     "item_id": 1012230,
-                                    "item_type": "Card",
-                                    "label_name": "\u5404\u7a2e1\u4f53",
                                     "quantity": 1
                                 }
                             ]
                         }
-                    ], 
-                    "id": 10011,
-                    "title": "\u9b54\u306e\u8ff7\u5bae\u3092\u8131\u51fa\u305b\u3088\uff01\u5168\u4e16\u754c\u5354\u529b\u30ad\u30e3\u30f3\u30da\u30fc\u30f3",
-                    "private_mission_header_image": "https://cf.ishin-prod.aktsk.jp/images/news/camp_mission_header_01.png?Expires=1598623406&Signature=gW3R5x5mPM0LlnVTdXYBrXUmv1e8GqSzNWlWpvlikuVtSmjpb~LX-drflJt9jjVG~bdJMhefrsDLEDIkhdWOAkkX64Ay0hvbMEI9UQ25ZwE1fyRa4alWfTqGojgVUfTP0fqls8WFZYihKluzyaRLl4VzipBoFMHW6w069PP9JOg7VDhatPZJGyoykT6a6OAeXJf7GIVzP4PQ1ErwxM3WyijiZxpVIhAcE3vdSKmfElH5Ct8204gu6AKyQPwtr7xzfhnoj2eRM4FVRbA6CT2dmEGDiveMTizSJoOCgQvzP0AVf16A6Osk0B3Nl3BgVBbUeX6Ois-Ql5udILpy3IbZoQ__&Key-Pair-Id=APKAJUCX7G2RJNYAVITA",
-                    "private_mission_reward_image": "https://cf.ishin-prod.aktsk.jp/images/news/camp_missin_banner_reward_01.png?Expires=1598623406&Signature=CdPFZ4uEySpkksIDGpiKldwomTs6Ib7-G~CuPwIBGjd1fUPa0cTQtyV1IoA8b2ivwdZGNR7LNTP-9RBiE6r~A7zc1ZrwOCP~2XXcE8429TM1fNluaHqlxnVnEk4j1bv9YfgQGA816IbF6TCaU2C5jIGUlMonlOZmBd75IgHBuNs9StFVxPiblNWmKhxQT8VEMNOm13y0xLUTquYWSq8TCPA7zeA1GCG9ERKiMsodnxBzQV0TiPlTcsP8FTEiffQ40eryf5bc7nosHBskcpgpP5CV0UEq3LBY7m0hg4lLB2e6I-TgD-Dg7CTHFgkY4-y61nihz~ZhKhNAXKk5jlxAzQ__&Key-Pair-Id=APKAJUCX7G2RJNYAVITA"
+                    ]
                 }
             ]
         }
