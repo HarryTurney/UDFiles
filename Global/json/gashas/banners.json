@@ -21,6 +21,24 @@
 		{
 			"courses": [
 				{
+					"description": "{color: #FF9900}New {color}{color: #FFFF00} Goku & Vegeta (Angel) {color} arrives!\nGet 10 Rare or higher characters with Summons.",
+					"no": 1,
+					"title": "{color: #FF33CC}DOKKAN{color}{color: #FFEE00}\u30d5\u30a7\u30b9{color}"
+				},
+				{
+					"description": "{color: #FF9900}New {color}{color: #FFFF00} Goku & Vegeta (Angel) {color} arrives!\nGet 10 Rare or higher characters with Summons.",
+					"no": 2,
+					"title": "{color: #FF33CC}DOKKAN{color}{color: #FFEE00}\u30d5\u30a7\u30b9{color}"
+				}
+			],
+			"current_step": 2,
+			"description": "{center: begin}{color: #FF0000}400 hours only! {color} Perform 3 Multi-Summons and {color: #FF9900} get one FREE! {color}\n{color: #00CCFF} New {color}{color: #33FF00} Goku & Vegeta (Angel) {color}{color: #FFFF00} arrives!{color}{center}",
+			"id": 786,
+			"name": "DOKKAN Festival \n[Majin Buu (Gotenks absorption)]"
+		},
+		{
+			"courses": [
+				{
 					"description": "{color: #FFFF00}New {color}{color: #FF0000} Majin Buu (Gotenks) {color} arrives!\nGet 10 Rare or higher characters with Summons.",
 					"no": 1,
 					"title": "{color: #33FF00}DOKKAN {color}{color: #FFEE00} FESTIVAL{color}"
@@ -32,6 +50,24 @@
 				}
 			],
 			"current_step": 1,
+			"description": "{center: begin}{color: #FF0000}400 hours only! {color} Perform 3 Multi-Summons and {color: #FF9900} get one FREE! {color}\n{color: #00CCFF} New {color}{color: #33FF00} Majin Buu (Gotenks) {color}{color: #FFFF00} arrives!{color}{center}",
+			"id": 783,
+			"name": "DOKKAN Festival \n[Goku & Vegeta (Angel)]"
+		},
+		{
+			"courses": [
+				{
+					"description": "{color: #FFFF00}New {color}{color: #FF0000} Majin Buu (Gotenks) {color} arrives!\nGet 10 Rare or higher characters with Summons.",
+					"no": 1,
+					"title": "{color: #33FF00}DOKKAN {color}{color: #FFEE00} FESTIVAL{color}"
+				},
+				{
+					"description": "{color: #FFFF00}New {color}{color: #FF0000} Majin Buu (Gotenks) {color} arrives!\nGet 10 Rare or higher characters with Summons.",
+					"no": 2,
+					"title": "{color: #33FF00}DOKKAN {color}{color: #FFEE00} FESTIVAL{color}"
+				}
+			],
+			"current_step": 2,
 			"description": "{center: begin}{color: #FF0000}400 hours only! {color} Perform 3 Multi-Summons and {color: #FF9900} get one FREE! {color}\n{color: #00CCFF} New {color}{color: #33FF00} Majin Buu (Gotenks) {color}{color: #FFFF00} arrives!{color}{center}",
 			"id": 783,
 			"name": "DOKKAN Festival \n[Goku & Vegeta (Angel)]"
