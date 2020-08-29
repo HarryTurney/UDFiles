@@ -2,6 +2,80 @@
 	"steps": [
 		{
 			"gasha_rates": {
+				"id": 1259,
+				"name": "Normal"
+			},
+			"name": "1-3 Times",
+			"note": "*The distribution ratio for each character in each category is uniform. \n *Since each provision ratio is rounded off to the fourth decimal place, the total may not be 100%. \n *Each character may appear twice.",
+			"special_gashas": [
+				{
+					"id": 1260,
+					"items_name": "SSR Character",
+					"name": "SSR Confirmed"
+				}
+			]
+		},
+		{
+			"gasha_rates": {
+				"id": 1261,
+				"name": "Free Multi"
+			},
+			"name": "4th time",
+			"note": "*The distribution ratio for each character in each category is uniform. \n *Since each provision ratio is rounded off to the fourth decimal place, the total may not be 100%. \n *Each character may appear twice.",
+			"special_gashas": [
+				{
+					"id": 1262,
+					"items_name": "SSR Character",
+					"name": "SSR Confirmed"
+				}
+			]
+		},
+		{
+			"gasha_rates": {
+				"id": 1253,
+				"name": "Normal"
+			},
+			"name": "1-3 Times",
+			"note": "*The distribution ratio for each character in each category is uniform. \n *Since each provision ratio is rounded off to the fourth decimal place, the total may not be 100%. \n *Each character may appear twice.",
+			"special_gashas": [
+				{
+					"id": 1254,
+					"items_name": "SSR Character",
+					"name": "SSR Confirmed"
+				}
+			]
+		},
+		{
+			"gasha_rates": {
+				"id": 1255,
+				"name": "Free Multi"
+			},
+			"name": "4th time",
+			"note": "*The distribution ratio for each character in each category is uniform. \n *Since each provision ratio is rounded off to the fourth decimal place, the total may not be 100%. \n *Each character may appear twice.",
+			"special_gashas": [
+				{
+					"id": 1256,
+					"items_name": "SSR Character",
+					"name": "SSR Confirmed"
+				}
+			]
+		},
+		{
+			"gasha_rates": {
+				"id": 1251,
+				"name": "Normal"
+			},
+			"note": "*The distribution ratio for each character in each category is uniform. \n *Since each provision ratio is rounded off to the fourth decimal place, the total may not be 100%. \n *Each character may appear twice.",
+			"special_gashas": [
+				{
+					"id": 1252,
+					"items_name": "SSR Character",
+					"name": "SSR Confirmed"
+				}
+			]
+		},
+		{
+			"gasha_rates": {
 				"id": 1249
 			},
 			"note": "*The distribution ratio for each character in each category is uniform. \n *Since each provision ratio is rounded off to the fourth decimal place, the total may not be 100%. \n *Each character may appear twice."
