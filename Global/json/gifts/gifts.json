@@ -1,0 +1,12 @@
+{
+	"gifts": [
+		{
+            "description": "\u901a\u7b97\u30ed\u30b0\u30a4\u30f3\u30dc\u30fc\u30ca\u30b92\u65e5\u76ee",
+            "EnglishDescription": "Test"
+        },
+        {
+            "description": "通算ログインボーナス2日目",
+            "EnglishDescription": "Test 2"
+		}
+	]
+}
