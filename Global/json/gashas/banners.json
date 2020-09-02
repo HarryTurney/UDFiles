@@ -3,6 +3,24 @@
 		{
 			"courses": [
 				{
+					"description": "{color: #FF0000}Only Once!!{color}\n{color: #FFFF00}It is a gacha where you can acquire 10 elder kais{color}\n{color: #FF0000}*The characters that appears is Mysterious Ritual Elder Kai{color}",
+					"no": 1,
+					"title": "{color: #FF99FF}E{color}{color: #FF9966}L{color}{color: #FFFF00}D{color}{color: #99FF00}E{color}{color: #00FF99}R{color}{color: #33FFFF}-{color}{color: #CC0000}KAI{color}"
+				},
+				{
+					"description": "{color: #FF0000}Only Once!!{color}\n{color: #FFFF00}It is a gacha where you can acquire 10 elder kais{color}\n{color: #FF0000}*The characters that appears is Mysterious Ritual Elder Kai{color}",
+					"no": 2,
+					"title": "{color: #FF99FF}E{color}{color: #FF9966}L{color}{color: #FFFF00}D{color}{color: #99FF00}E{color}{color: #00FF99}R{color}{color: #33FFFF}-{color}{color: #CC0000}KAI{color}"
+				}
+			],
+			"current_step": 1,
+			"description": "{center: begin}Hoon Hoon Hoon♪ Hoon Hoon Hoon♪\n{color: #FFFF00}Mysterious Ceremony Gasha is being held!!{color}{center}",
+			"id": 789,
+			"name": "Mysterious Ritual Gacha"
+		},
+		{
+			"courses": [
+				{
 					"description": "{color: #FF9900}New {color}{color: #FFFF00} Goku & Vegeta (Angel) {color} arrives!\nGet 10 Rare or higher characters with Summons.",
 					"no": 1,
 					"title": "{color: #33FF00}DOKKAN {color}{color: #FFEE00} FESTIVAL{color}"
