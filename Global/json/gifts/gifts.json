@@ -2,11 +2,23 @@
 	"gifts": [
 		{
             "description": "\u901a\u7b97\u30ed\u30b0\u30a4\u30f3\u30dc\u30fc\u30ca\u30b92\u65e5\u76ee",
-            "EnglishDescription": "Test"
+            "EnglishDescription": "Comulative Log-in Bonus Day 2!"
         },
         {
-            "description": "通算ログインボーナス2日目",
-            "EnglishDescription": "Test 2"
-		}
+            "description": "\u9023\u7d9a\u30ed\u30b0\u30a4\u30f3\u30dc\u30fc\u30ca\u30b9\u0032\u65e5\u76ee",
+            "EnglishDescription": "Consecutive Log-in Bonus Day 2!"
+        },
+        {
+            "description": "\u7a7a\u524d\u7d76\u5f8c\uff01\uff01\u5730\u7403\u307e\u308b\u3054\u3068\u30ed\u30b0\u30dc",
+            "EnglishDescription": "Worldwide Celebration! Explosive Fighting Spirit Campaign"
+        },
+        {
+            "description": "\u0044\u004f\u004b\u004b\u0041\u004e\u30d5\u30a7\u30b9\u005b\u5b6b\u609f\u7a7a\u0026\u30d9\u30b8\u30fc\u30bf\u0028\u5929\u4f7f\u0029\u005d\u3067\u7372\u5f97\u3057\u307e\u3057\u305f",
+            "EnglishDescription": "Summon Bonus"
+        },
+        {
+            "description": "\u30df\u30c3\u30b7\u30e7\u30f3\u306e\u9054\u6210\u5831\u916c\u3067\u3059",
+            "EnglishDescription": "Mission Achievement Reward"
+        }
 	]
 }
