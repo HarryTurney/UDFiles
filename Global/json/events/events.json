@@ -817,7 +817,10 @@
 					"id": 206001,
 					"name": "Go, Launch, Go!"
 				}
-			]
+            ],
+            "recommend": {
+				"description": "Get 20 dragon stones every week !!"
+			}
 		},
 		{
 			"id": 209,
@@ -3404,7 +3407,10 @@
 					"id": 382008,
 					"name": "Showdown"
 				}
-			]
+            ],
+            "recommend": {
+				"description": "New story event"
+			}
 		},
 		{
 			"id": 401,
@@ -6814,6 +6820,76 @@
 						}
 					],
 					"name": "Charming Girl's Dance"
+				}
+			]
+        },
+        ,
+        {
+			"id": 725,
+			"quests": [
+				{
+					"id": 725001,
+					"limitations": [
+						{
+							"id": 549,
+							"description": "▼ Only the following characters can challenge\n\n・ [A Friend's Decision] Hercule/Majin Buu (Good)\n・ [Resolve for the Final Battle] Super Saiyan 3 Goku\n・ [Mr. Satan City's New Hero] Gohan (Teen)\n・ [Creeping Conspiracy] Yamu & Spopovich\n・ [Technique Taught by Dad] Goten (Kid)\n・ [Hope for Posterity] Goku (Angel)\n・ [The Greatest Power-Up] Ultimate Gohan\n・ [Thousandfold Plea] Goku\n・ [Blazing Love and Burning Justice] Great Saiyaman 1 & 2\n・ [The Evil Sorcerer and The King of the Demon Realm] Babidi & Dabura\n・ [Unstoppable Battle] Super Saiyan 2 Goku (Angel)\n・ [Fight for Pride] Majin Vegeta\n・ [Burgeoning Strength] Super Saiyan 3 Goku (Angel)\n・ [Watchers of the Cosmos] Supreme Kai\n・ [Obligation for Tranquility] West Supreme Kai\n・ [Brave Pair] Gohan (Teen) & Videl\n・ [Raising Justice] Great Saiyaman 2/1\n・ [Heading for a Showdown] Super Saiyan 3 Goku (Angel)\n・ [Passion for Peace] Great Saiyaman\n・ [Strike From on High] Dabura\n・ [The Hope of the Universe] Goku\n・ [Trustworthy Rival] Vegeta\n・ [Uncontrollable Instinct] Majin Buu (Pure)\n・ [Destruction Descending] Majin Buu (Evil)\n・ [Clutching Victory] Super Saiyan 3 Goku\n・ [Exceptional Potential] Ultimate Gohan\n・ [Hero's Return] Ultimate Gohan\n・ [Noble Conviction] Supreme Kai & Kibito\n・ [Defending the Sanctuary] West Supreme Kai\n・ [Raging Dash] Majin Buu (South Supreme Kai)\n・ [Tactics Evolved] Majin Buu (Gotenks)\n・ [Universe's Bravest] Mr. Mr. Satan\n・ [Wrathful Eruption] Majin Buu (Good)\n・ [Power Taken From Others] Majin Buu (Piccolo)\n・ [Returning from the Otherworld] Super Saiyan 2 Goku (Angel)\n・ [All-Out Resistance] Great Saiyaman (SS)\n・ [DRisky Covering Fire] Tenshinhan\n・ [Lord of the Demon Realm's Trial by Fire] Dabura "
+                        },
+						{
+							"id": 550,
+							"description": "Can be challenged by a team including\n[A Friend's Decision] Hercule/Majin Buu (Good)"
+						},
+						{
+							"id": 551,
+							"description": "Can be challenged by a team including\n[Mr. Satan City's New Hero] Gohan (Teen)"
+						},
+						{
+							"id": 552,
+							"description": "Can be challenged by a team including\n[Creeping Conspiracy] Yamu & Spopovich"
+						},
+						{
+							"id": 553,
+							"description":"Support Items are not allowed."
+						},
+						{
+							"id": 554,
+							"description":"Continues are not allowed"
+						}
+					],
+					"name": "A Friend's Decision"
+				},
+				{
+					"id": 725002,
+					"limitations": [
+						{
+							"id": 555,
+							"description": "▼ Only the following characters can challenge\n\n・ [A Friend's Decision] Hercule/Majin Buu (Good)\n・ [Resolve for the Final Battle] Super Saiyan 3 Goku\n・ [Mr. Satan City's New Hero] Gohan (Teen)\n・ [Creeping Conspiracy] Yamu & Spopovich\n・ [Technique Taught by Dad] Goten (Kid)\n・ [Hope for Posterity] Goku (Angel)\n・ [The Greatest Power-Up] Ultimate Gohan\n・ [Thousandfold Plea] Goku\n・ [Blazing Love and Burning Justice] Great Saiyaman 1 & 2\n・ [The Evil Sorcerer and The King of the Demon Realm] Babidi & Dabura\n・ [Unstoppable Battle] Super Saiyan 2 Goku (Angel)\n・ [Fight for Pride] Majin Vegeta\n・ [Burgeoning Strength] Super Saiyan 3 Goku (Angel)\n・ [Watchers of the Cosmos] Supreme Kai\n・ [Obligation for Tranquility] West Supreme Kai\n・ [Brave Pair] Gohan (Teen) & Videl\n・ [Raising Justice] Great Saiyaman 2/1\n・ [Heading for a Showdown] Super Saiyan 3 Goku (Angel)\n・ [Passion for Peace] Great Saiyaman\n・ [Strike From on High] Dabura\n・ [The Hope of the Universe] Goku\n・ [Trustworthy Rival] Vegeta\n・ [Uncontrollable Instinct] Majin Buu (Pure)\n・ [Destruction Descending] Majin Buu (Evil)\n・ [Clutching Victory] Super Saiyan 3 Goku\n・ [Exceptional Potential] Ultimate Gohan\n・ [Hero's Return] Ultimate Gohan\n・ [Noble Conviction] Supreme Kai & Kibito\n・ [Defending the Sanctuary] West Supreme Kai\n・ [Raging Dash] Majin Buu (South Supreme Kai)\n・ [Tactics Evolved] Majin Buu (Gotenks)\n・ [Universe's Bravest] Mr. Mr. Satan\n・ [Wrathful Eruption] Majin Buu (Good)\n・ [Power Taken From Others] Majin Buu (Piccolo)\n・ [Returning from the Otherworld] Super Saiyan 2 Goku (Angel)\n・ [All-Out Resistance] Great Saiyaman (SS)\n・ [DRisky Covering Fire] Tenshinhan\n・ [Lord of the Demon Realm's Trial by Fire] Dabura "
+                        },
+						{
+							"id": 556,
+							"description": "Can be challenged by a team including\n[Resolve for the Final Battle] Super Saiyan 3 Goku"
+						},
+						{
+							"id": 557,
+							"description": "Can be challenged by a team including\n[Technique Taught by Dad] Goten (Kid)"
+						},
+						{
+							"id": 558,
+							"description": "Can be challenged by a team including\n[Hope for Posterity] Goku (Angel)"
+						},
+						{
+							"id": 559,
+							"description": "Can be challenged by a team including\n[The Greatest Power-Up] Ultimate Gohan"
+						},
+						{
+							"id": 560,
+							"description":"Support Items are not allowed."
+						},
+						{
+							"id": 561,
+							"description":"Continues are not allowed"
+						}
+					],
+					"name": "Resolve for the Final Battle"
 				}
 			]
         }
