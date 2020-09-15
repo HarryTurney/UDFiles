@@ -6446,6 +6446,62 @@
 						}
 					],
 					"name": "Extreme Class Only"
+				},
+				{
+					"id": 720013,
+					"limitations": [
+						{
+                            "id": 574,
+                            "description":"Only \"Fusion\" Category \ncharacters may attempt."
+						},
+						{
+							"id": 575,
+							"description":"\"Continues\" are not allowed."
+						}
+					],
+					"name": "[Fusion] Only"
+				},
+				{
+					"id": 720014,
+					"limitations": [
+						{
+							"id": 576,
+							"description":"Only \"Shadow Dragon Saga\" Category \ncharacters may attempt."
+						},
+						{
+							"id": 577,
+							"description":"\"Continues\" are not allowed."
+						}
+					],
+					"name": "[Shadow Dragon Saga] Only"
+				},
+				{
+					"id": 720015,
+					"limitations": [
+						{
+							"id": 578,
+							"description":"Only \"Peppy Gals\" Category \ncharacters may attempt."
+						},
+						{
+							"id": 579,
+							"description":"\"Continues\" are not allowed."
+						}
+					],
+					"name": "[Peppy Gals] Only"
+				},
+				{
+					"id": 720016,
+					"limitations": [
+						{
+							"id": 580,
+							"description":"Only \"Hybrid Saiyans\" Category \ncharacters may attempt."
+						},
+						{
+							"id": 581,
+							"description":"\"Continues\" are not allowed."
+						}
+					],
+					"name": "[Hybrid Saiyans] Only"
 				}
             ]
         },
