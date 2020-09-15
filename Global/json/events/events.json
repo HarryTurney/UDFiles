@@ -6502,61 +6502,6 @@
 						}
 					],
 					"name": "[Hybrid Saiyans] Only"
-				},
-				{
-					"id": 720017,
-					"limitations": [
-						{
-							"id": 582,
-							"description":"Only \"Resurrected Warriors\" Category \ncharacters may attempt."
-						},
-						{
-							"id": 583,
-							"description":"\"Continues\" are not allowed."
-						}
-					],
-					"name": "[Resurrected Warriors] Only"
-				},
-				{
-					"id": 720018,
-					"limitations": [
-						{
-							"id": 584,
-							"description":"Only \"Realm of Gods\" Category \ncharacters may attempt."
-						},
-						{
-							"id": 585,
-							"description":"\"Continues\" are not allowed."
-						}
-					],
-					"name": "[Realm of Gods] Only"
-				},
-				{
-					"limitations": [
-						{
-							"id": 586,
-							"description":"Only \"Majin Buu Saga\" Category \ncharacters may attempt."
-						},
-						{
-							"id": 587,
-							"description":"\"Continues\" are not allowed."
-						}
-					],
-					"name": "[Majin Buu Saga] Only"
-				},
-				{
-					"id": 720020,
-					"limitations": [
-						{
-							"id": 588,
-							"description":"Only \"Potara\" Category \ncharacters may attempt."
-						},
-						{
-							"id": 589,
-							"description":"\"Continues\" are not allowed."
-						}
-					],
-					"name": "[Potara] Only"
 				}
             ]
         },
