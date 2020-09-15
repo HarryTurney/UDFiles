@@ -47,6 +47,22 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": 1002,
+            "title": "Showdown on Supreme Kai's Planet! \nWorldwide Showdown Campaign",
+            "banner": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/joint_campaigns/1002/myp_banner_camp_mission_a.png",
+            "home_banner": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/joint_campaigns/1002/myp_banner_camp_mission_a.png",
+            "events": [
+                {
+                    "id": 10021,
+                    "campaign_mission_header_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/joint_campaigns/1002/camp_mission_header_03.png",
+                    "campaign_mission_reward_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/joint_campaigns/1002/camp_missin_banner_reward_03a.png",
+                    "private_mission_header_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/joint_campaigns/1002/camp_mission_header_01.png",
+                    "private_mission_reward_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/joint_campaigns/1002/camp_missin_banner_reward_01a.png",
+                    "title": "Showdown on Supreme Kai's Planet! \nWorldwide Showdown Campaign"
+                }
+            ]
         }
     ]
 }
