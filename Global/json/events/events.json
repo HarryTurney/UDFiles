@@ -5839,35 +5839,7 @@
                         }
                     ],
                     "name": "Vs. Universe 6"
-                },
-                {
-					"id": 713009,
-					"limitations": [
-						{
-							"id": 543,
-							"description":"\"Continues\" are not allowed."
-						},
-						{
-							"id": 544,
-							"description":"Up to 2 types of Support Items are allowed."
-						}
-					],
-					"name": "Vs. Babidi's Army"
-                },
-                {
-					"id": 713010,
-					"limitations": [
-						{
-                            "id": 547,
-							"description":"\"Continues\" are not allowed."
-						},
-						{
-                            "id": 548,
-                            "description":"Up to 2 types of Support Items are allowed."
-						}
-					],
-					"name": "VS Majin Buu"
-				}
+                }
             ]
         },
 		{
