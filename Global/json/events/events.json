@@ -3896,6 +3896,10 @@
                 {
 					"id": 515004,
 					"name": "Fusion of Demonic Nightmare"
+				},
+				{
+					"id": 515005,
+					"name": "Threat of supernatural devil!!"
 				}
             ]
         },
@@ -4283,7 +4287,11 @@
                 {
 					"id": 537001,
                     "name": "The Ultimate Pair of the Present World!"
-                }
+                },
+                {
+					"id": 537002,
+					"name": "United! Vegeta's pride and Goku's wrath"
+				}
             ]
         },
 		{
