@@ -6502,6 +6502,20 @@
 						}
 					],
 					"name": "[Hybrid Saiyans] Only"
+				},
+				{
+					"id": 720017,
+					"limitations": [
+						{
+							"id": 582,
+							"description":"Only \"Resurrected Warriors\" Category \ncharacters may attempt."
+						},
+						{
+							"id": 583,
+							"description":"\"Continues\" are not allowed."
+						}
+					],
+					"name": "[Resurrected Warriors] Only"
 				}
             ]
         },
