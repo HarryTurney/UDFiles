@@ -3,6 +3,60 @@
 		{
 			"courses": [
 				{
+					"description": "{color: #FF9900}New {color}{color: #FFFF00} Goku & Vegeta (Angel) {color} arrives!\nGet 10 Rare or higher characters with Summons.",
+					"no": 1,
+					"title": "{color: #33FF00}DOKKAN {color}{color: #FFEE00} FESTIVAL{color}"
+				},
+				{
+					"description": "{color: #FF9900}New {color}{color: #FFFF00} Goku & Vegeta (Angel) {color} arrives!\nGet 10 Rare or higher characters with Summons.",
+					"no": 2,
+					"title": "{color: #33FF00}DOKKAN {color}{color: #FFEE00} FESTIVAL{color}"
+				}
+			],
+			"current_step": 1,
+			"description": "{center: begin}Dokkan Festival! New {color: #00CCFF} New {color}{color: #33FF00} Goku & Vegeta (Angel) {color}{color: #FFFF00} arrives!{color}\nOne SSR character guaranteed per Multi-Summon!{center}",
+			"id": 785,
+			"name": "DOKKAN Festival \n[Goku & Vegeta (Angel)]"
+		},
+		{
+			"courses": [
+				{
+					"description": "{color: #FFFF00}New {color}{color: #FF0000} Majin Buu (Gotenks) {color} arrives!\nGet 10 Rare or higher characters with Summons.",
+					"no": 1,
+					"title": "{color: #33FF00}DOKKAN {color}{color: #FFEE00} FESTIVAL{color}"
+				},
+				{
+					"description": "{color: #FFFF00}New {color}{color: #FF0000} Majin Buu (Gotenks) {color} arrives!\nGet 10 Rare or higher characters with Summons.",
+					"no": 2,
+					"title": "{color: #33FF00}DOKKAN {color}{color: #FFEE00} FESTIVAL{color}"
+				}
+			],
+			"current_step": 1,
+			"description": "{center: begin}Dokkan Festival! New {color: #33FF00} Majin Buu (Gotenks) {color}{color: #FFFF00} arrives!{color}\nOne SSR character guaranteed per Multi-Summon!{center}",
+			"id": 788,
+			"name": "DOKKAN Festival \n[Majin Buu (Gotenks absorption)]"
+		},
+		{
+			"courses": [
+				{
+					"description": "{color: #FF0000}Only Once!!{color}\n{color: #FFFF00}It is a gacha where you can acquire 10 elder kais{color}\n{color: #FF0000}*The characters that appears is Mysterious Ritual Elder Kai{color}",
+					"no": 1,
+					"title": "{color: #FF99FF}E{color}{color: #FF9966}L{color}{color: #FFFF00}D{color}{color: #99FF00}E{color}{color: #00FF99}R{color}{color: #33FFFF}-{color}{color: #CC0000}KAI{color}"
+				},
+				{
+					"description": "{color: #FF0000}Only Once!!{color}\n{color: #FFFF00}It is a gacha where you can acquire 10 elder kais{color}\n{color: #FF0000}*The characters that appears is Mysterious Ritual Elder Kai{color}",
+					"no": 2,
+					"title": "{color: #FF99FF}E{color}{color: #FF9966}L{color}{color: #FFFF00}D{color}{color: #99FF00}E{color}{color: #00FF99}R{color}{color: #33FFFF}-{color}{color: #CC0000}KAI{color}"
+				}
+			],
+			"current_step": 1,
+			"description": "{center: begin}Hoon Hoon Hoon♪ Hoon Hoon Hoon♪\n{color: #FFFF00}Mysterious Ceremony Gasha is being held!!{color}{center}",
+			"id": 791,
+			"name": "Mysterious Ritual Gacha"
+		},
+		{
+			"courses": [
+				{
 					"description": "{color: #FF0000}Only Once!!{color}\n{color: #FFFF00}It is a gacha where you can acquire 10 elder kais{color}\n{color: #FF0000}*The characters that appears is Mysterious Ritual Elder Kai{color}",
 					"no": 1,
 					"title": "{color: #FF99FF}E{color}{color: #FF9966}L{color}{color: #FFFF00}D{color}{color: #99FF00}E{color}{color: #00FF99}R{color}{color: #33FFFF}-{color}{color: #CC0000}KAI{color}"
