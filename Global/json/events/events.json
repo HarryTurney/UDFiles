@@ -768,6 +768,36 @@
 			]
 		},
 		{
+			"id": 203,
+			"quests": [
+				{
+					"id": 203001,
+					"name": "Gluttonous Saiyan"
+				}
+			]
+        },
+		{
+			"id": 206,
+			"quests": [
+				{
+					"id": 206001,
+					"name": "Go, Launch, Go!"
+				}
+            ],
+            "recommend": {
+				"description": "Get 20 dragon stones every week !!"
+			}
+		},
+		{
+			"id": 209,
+			"quests": [
+				{
+					"id": 209001,
+					"name": "Satan Martial Arts Party"
+				}
+			]
+		},
+		{
 			"id": 305,
             "banner_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_banner/quest_list_banner_305.png",
             "event_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_header/quest_top_banner_305_D.png",
@@ -3901,26 +3931,6 @@
 					"id": 515005,
 					"name": "Threat of supernatural devil!!"
 				}
-            ]
-        },
-		{
-			"id": 515,
-            "banner_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_banner/quest_list_banner_515_1.png",
-            "event_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_header/quest_top_banner_515_1.png",
-            "minibanner_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/event/eve_banner/quest_event_banner_515_1.png",
-            "quests":[
-                {
-					"id": 515001,
-                    "name": "Majin's Transformation"
-                },
-                {
-					"id": 515002,
-                    "name": "Horrendous Majin's Onslaught"
-                },
-                {
-					"id": 515003,
-                    "name": "The Strongest Majin is Born!"
-                }
             ]
         },
 		{
