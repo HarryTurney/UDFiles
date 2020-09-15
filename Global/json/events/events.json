@@ -6516,6 +6516,20 @@
 						}
 					],
 					"name": "[Resurrected Warriors] Only"
+				},
+				{
+					"id": 720018,
+					"limitations": [
+						{
+							"id": 584,
+							"description":"Only \"Realm of Gods\" Category \ncharacters may attempt."
+						},
+						{
+							"id": 585,
+							"description":"\"Continues\" are not allowed."
+						}
+					],
+					"name": "[Realm of Gods] Only"
 				}
             ]
         },
