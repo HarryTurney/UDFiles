@@ -6544,6 +6544,20 @@
 						}
 					],
 					"name": "[Majin Buu Saga] Only"
+				},
+				{
+                    "id": 720020,
+					"limitations": [
+						{
+							"id": 586,
+							"description":"Only \"Potara\" Category \ncharacters may attempt."
+						},
+						{
+							"id": 587,
+							"description":"\"Continues\" are not allowed."
+						}
+					],
+					"name": "[Potara] Only"
 				}
             ]
         },
