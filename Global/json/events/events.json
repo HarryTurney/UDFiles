@@ -3337,6 +3337,46 @@
 					"name": "Stop the Reckless Majin!"
 				}
 			]
+        },
+        {
+			"id": 382,
+			"quests": [
+				{
+					"id": 382001,
+					"name": "Buu's Trap"
+				},
+				{
+					"id": 382002,
+					"name": "Will It Work? Potara Fusion!"
+				},
+				{
+					"id": 382003,
+					"name": "Meet Vegetto"
+				},
+				{
+					"id": 382004,
+					"name": "Two Buus in Buu?!"
+                },
+                {
+					"id": 382005,
+					"name": "Battle for the Universe"
+				},
+				{
+					"id": 382006,
+					"name": "Vegeta Puts His Life on the Line"
+				},
+				{
+					"id": 382007,
+					"name": "Final Strategy"
+				},
+				{
+					"id": 382008,
+					"name": "Showdown"
+				}
+            ],
+            "recommend": {
+				"description": "New story event"
+			}
 		},
 		{
 			"id": 401,
