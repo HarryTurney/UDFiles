@@ -6410,7 +6410,43 @@
                         }
                     ],
                     "name": "[VS. Super PHY]"
-                }
+                },
+				{
+					"id": 720011,
+					"limitations": [
+						{
+                            "id": 568,
+                            "description":"One character of each Super Type required."
+						},
+						{
+							"id": 569,
+							"description":"Only Super Type characters or those who have been\nZ-Awakened into Super Type may attempt."
+						},
+						{
+							"id": 570,
+							"description":"\"Continues\" are not allowed."
+						}
+					],
+					"name": "Super Class Only"
+				},
+				{
+					"id": 720012,
+					"limitations": [
+						{
+							"id": 571,
+							"description":"One character of each Extreme Type required."
+						},
+						{
+							"id": 572,
+							"description":"Only Extreme Type characters or those who have been\nZ-Awakened into Extreme Type may attempt."
+						},
+						{
+							"id": 573,
+							"description":"\"Continues\" are not allowed."
+						}
+					],
+					"name": "Extreme Class Only"
+				}
             ]
         },
 		{
