@@ -6530,6 +6530,19 @@
 						}
 					],
 					"name": "[Realm of Gods] Only"
+				},
+				{
+					"limitations": [
+						{
+							"id": 586,
+							"description":"Only \"Majin Buu Saga\" Category \ncharacters may attempt."
+						},
+						{
+							"id": 587,
+							"description":"\"Continues\" are not allowed."
+						}
+					],
+					"name": "[Majin Buu Saga] Only"
 				}
             ]
         },
