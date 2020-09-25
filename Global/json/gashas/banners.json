@@ -14,7 +14,7 @@
 				}
 			],
 			"current_step": 1,
-			"description": "{center: begin}Dokkan Festival! New {color: #00CCFF} New {color}{color: #33FF00} Goku & Vegeta (Angel) {color}{color: #FFFF00} arrives!{color}\nOne SSR character guaranteed per Multi-Summon!{center}",
+			"description": "{center: begin}Dokkan Festival! {color: #00CCFF} New {color}{color: #33FF00} Goku & Vegeta (Angel) {color}{color: #FFFF00} arrives!{color}\nOne SSR character guaranteed per Multi-Summon!{center}",
 			"id": 785,
 			"name": "DOKKAN Festival \n[Goku & Vegeta (Angel)]"
 		},
@@ -32,7 +32,7 @@
 				}
 			],
 			"current_step": 1,
-			"description": "{center: begin}Dokkan Festival! New {color: #33FF00} Majin Buu (Gotenks) {color}{color: #FFFF00} arrives!{color}\nOne SSR character guaranteed per Multi-Summon!{center}",
+			"description": "{center: begin}Dokkan Festival! {color: #00CCFF} New {color}{color: #33FF00} Majin Buu (Gotenks) {color}{color: #FFFF00} arrives!{color}\nOne SSR character guaranteed per Multi-Summon!{center}",
 			"id": 788,
 			"name": "DOKKAN Festival \n[Majin Buu (Gotenks absorption)]"
 		},

@@ -9,10 +9,10 @@
                 {
                     "id": 10011,
                     "title": "Escape From the Innards of Buu! \nWorldwide Co-Op Campaign",
-                    "private_mission_header_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/joint_campaigns/1001/camp_mission_header_01.png",
-                    "private_mission_reward_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/joint_campaigns/1001/camp_missin_banner_reward_01.png",
                     "campaign_mission_header_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/joint_campaigns/1001/camp_mission_header_02.png",
                     "campaign_mission_reward_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/joint_campaigns/1001/camp_missin_banner_reward_02_1.png",
+                    "private_mission_header_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/joint_campaigns/1001/camp_mission_header_01.png",
+                    "private_mission_reward_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/joint_campaigns/1001/camp_missin_banner_reward_01.png",
                     "cooperation_missions": [
                         {
                             "id": 10011002,
@@ -56,11 +56,65 @@
             "events": [
                 {
                     "id": 10021,
+                    "title": "Showdown on Supreme Kai's Planet! \nWorldwide Showdown Campaign",
                     "campaign_mission_header_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/joint_campaigns/1002/camp_mission_header_03.png",
                     "campaign_mission_reward_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/joint_campaigns/1002/camp_missin_banner_reward_03a.png",
                     "private_mission_header_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/joint_campaigns/1002/camp_mission_header_01.png",
-                    "private_mission_reward_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/joint_campaigns/1002/camp_missin_banner_reward_01a.png",
-                    "title": "Showdown on Supreme Kai's Planet! \nWorldwide Showdown Campaign"
+                    "private_mission_reward_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/joint_campaigns/1002/camp_missin_banner_reward_01a.png"
+                }
+            ]
+        },
+        {
+            "id": 1003,
+            "title": "Let's Make a Huge Spirit Bomb! \nWorldwide Co-Op Campaign",
+            "banner": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/joint_campaigns/1003/myp_banner_camp_mission_1.png",
+            "home_banner": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/joint_campaigns/1003/myp_banner_camp_mission_1.png",
+            "events": [
+                {
+                    "id": 10031,
+                    "title": "Let's Make a Huge Spirit Bomb! \nWorldwide Co-Op Campaign",
+                    "campaign_mission_header_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/joint_campaigns/1003/camp_mission_header_02.png",
+                    "campaign_mission_reward_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/joint_campaigns/1003/camp_missin_banner_reward_02_1.png",
+                    "private_mission_header_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/joint_campaigns/1003/camp_mission_header_01.png",
+                    "private_mission_reward_image": "https://raw.githubusercontent.com/HarryTurney/UDFiles/master/Global/images/joint_campaigns/1003/camp_missin_banner_reward_01.png",
+                    "cooperation_missions": [
+                        {
+                            "id": 10031001,
+                            "rewards": [
+                                {
+                                    "card_exp_init": 0,
+                                    "item_id": 900,
+                                    "item_type": "TrainingItem",
+                                    "label_name": "x3 (All Types)",
+                                    "quantity": 3
+                                }
+                            ]
+                        },
+                        {
+                            "id": 10031002,
+                            "rewards": [
+                                {
+                                    "card_exp_init": 0,
+                                    "item_id": 1000,
+                                    "item_type": "TrainingItem",
+                                    "label_name": "x3 (All Types)",
+                                    "quantity": 3
+                                }
+                            ]
+                        },
+                        {
+                            "id": 10031005,
+                            "rewards": [
+                                {
+                                    "card_exp_init": 0,
+                                    "item_id": 1012230,
+                                    "item_type": "Card",
+                                    "label_name": "x1 (All Types)",
+                                    "quantity": 1
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         }
